@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+out/
+ref/
+*.mp4
+*.mov
+*.webm
+*.wav
+!assets/**/*.wav
+assets/fonts/*.ttf
