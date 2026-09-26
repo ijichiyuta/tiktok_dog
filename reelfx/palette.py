@@ -35,21 +35,21 @@ GRAD = dict(
     yellow_panel=[(0, "#ffd84a"), (1, "#f0b020")],
 )
 
-_SH = dict(color="#000000", dx=5, dy=8, blur=7, opacity=0.95)  # 標準ドロップシャドウ
+_SH = dict(color="#000000", dx=6, dy=9, blur=8, opacity=1.0)  # 標準ドロップシャドウ
 _SH_SOFT = dict(color="#000000", dx=0, dy=6, blur=14, opacity=0.9)
 
 # ---- テキストスタイル ------------------------------------------------------
 # fill: グラデ名 or 色 / strokes: [(太さ, 色)] 外側から / shadow / glow / bevel
 TEXT_STYLES = {
     # 金属オリーブゴールド明朝 (メイン見出し)
-    "gold_mincho": dict(font="mincho", fill="gold", strokes=[(3, "#3b3708")], shadow=_SH, bevel=0.55),
+    "gold_mincho": dict(font="mincho", fill="gold", strokes=[(5, "#2e2b05")], embolden=0.012, shadow=_SH, bevel=0.55),
     # 同ゴシック版
-    "gold_gothic": dict(font="gothic", fill="gold", strokes=[(3, "#3b3708")], shadow=_SH, bevel=0.5),
+    "gold_gothic": dict(font="gothic", fill="gold", strokes=[(4, "#2e2b05")], shadow=_SH, bevel=0.5),
     # 白銀明朝 (Instagram/新ルール/理解すべき)
-    "silver_mincho": dict(font="mincho", fill="silver", strokes=[(2, "#2a2a33")], shadow=_SH, bevel=0.4),
+    "silver_mincho": dict(font="mincho", fill="silver", strokes=[(4, "#1d1d24")], embolden=0.012, shadow=_SH, bevel=0.4),
     "silver_gothic": dict(font="gothic", fill="silver", strokes=[(2, "#2a2a33")], shadow=_SH, bevel=0.4),
     # 白ゴシック + 黒の柔らかい影 (標準字幕)
-    "white_gothic": dict(font="gothic", fill="white", strokes=[(2, "#1a1a1a")], shadow=_SH_SOFT),
+    "white_gothic": dict(font="gothic", fill="white", strokes=[(3, "#141414")], shadow=_SH_SOFT),
     # 赤 (警告/強調)
     "crimson_gothic": dict(font="gothic", fill="crimson", strokes=[(3, "#2a0205")], shadow=_SH, bevel=0.35),
     "crimson_mincho": dict(font="mincho", fill="crimson", strokes=[(3, "#2a0205")], shadow=_SH, bevel=0.35),

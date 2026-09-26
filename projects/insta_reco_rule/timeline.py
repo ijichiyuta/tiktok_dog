@@ -58,45 +58,45 @@ def build():
         yfn = kf(pts, ease_out_cubic)
         A(Box(txt, st, size=62, w=800, h=h, at=(lambda t, f=yfn: (CX, f(t))), enter=streak(0.3),
               exit=blur_in(0.15)), t0, stack_exit, sfx="whoosh")
-    A(Text("もう全て", 177, "silver_gothic", style_kw=dict(skew=0.12), at=(CX, 1060), enter=slam(0.2),
+    A(Text("もう全て", 198, "silver_gothic", style_kw=dict(skew=0.12), at=(CX, 1060), enter=slam(0.2),
            exit=glitch(0.12), emph=[(0.35, shine(0.4))]), 5.9, stack_exit, sfx="hit")
 
     # ============================================================ 7.0 – 12.9 理解すべき
-    A(Text("この動画を見ると", 104, "silver_gothic", style_kw=dict(skew=0.1), at=(CX, 960), enter=pop(),
+    A(Text("この動画を見ると", 116, "silver_gothic", style_kw=dict(skew=0.1), at=(CX, 960), enter=pop(),
            exit=fade(0.08)), 7.0, 7.95, sfx="pop")
     g_out = combo(blur_in(0.25, 14, 1.0), fade(0.25))
-    L = 440
-    A(Text("あなたの動画が", 101, "silver_mincho", style_kw=dict(skew=0.14), at=(L, 760), enter=slide(0.25, -350),
+    L = 470
+    A(Text("あなたの動画が", 113, "silver_mincho", style_kw=dict(skew=0.14), at=(L, 760), enter=slide(0.25, -350),
            exit=g_out), 8.0, 12.55, sfx="swish")
-    A(Box("おすすめに載る仕組み", "gold", 54, w=680, h=92, at=(L, 870), enter=streak(0.3), exit=g_out), 8.15, 12.55)
-    A(Text("{理|1.35}解すべき", 104, "silver_mincho", style_kw=dict(skew=0.14), at=(L - 30, 1040),
+    A(Box("おすすめに載る仕組み", "gold", 60, w=760, h=100, at=(L, 870), enter=streak(0.3), exit=g_out), 8.15, 12.55)
+    A(Text("{理|1.35}解すべき", 116, "silver_mincho", style_kw=dict(skew=0.14), at=(L - 30, 1040),
            enter=blur_in(0.3), exit=g_out), 9.0, 12.55, sfx="pop")
-    A(Box("真のユーザーの正体", "gold", 54, w=680, h=92, at=(L, 1160), enter=streak(0.3), exit=g_out), 9.4, 12.55,
+    A(Box("真のユーザーの正体", "gold", 60, w=760, h=100, at=(L, 1160), enter=streak(0.3), exit=g_out), 9.4, 12.55,
       sfx="swish")
-    A(Text("{絶|1.35}対守るべき", 104, "silver_mincho", style_kw=dict(skew=0.14), at=(L, 1340),
+    A(Text("{絶|1.35}対守るべき", 116, "silver_mincho", style_kw=dict(skew=0.14), at=(L, 1340),
            enter=slide(0.25, 380), exit=g_out), 10.4, 12.55, sfx="swish")
-    A(Box("たった1つのこと", "gold", 54, w=680, h=92, at=(L, 1460), enter=streak(0.3), exit=g_out,
+    A(Box("たった1つのこと", "gold", 60, w=760, h=100, at=(L, 1460), enter=streak(0.3), exit=g_out,
           emph=[(0.8, shine())]), 10.9, 12.55, sfx="swish")
-    A(Text("全て理解\nできます", 165, "silver_gothic", style_kw=dict(skew=0.1), at=(CX, 1060), enter=slam(0.2),
+    A(Text("全て理解\nできます", 185, "silver_gothic", style_kw=dict(skew=0.1), at=(CX, 1060), enter=slam(0.2),
            exit=glitch(0.15)), 12.35, 12.95, sfx="hit")
 
     # ============================================================ 13.0 – 18.4
-    A(Text("まずインスタは", 104, "white_gothic", at=(CX, 900), enter=pop(), exit=fade(0.06)), 13.0, 13.45, sfx="pop")
-    A(Text("あなたが\nアップする動画を", 99, "silver_gothic", style_kw=dict(skew=0.08), at=(CX, 910),
+    A(Text("まずインスタは", 116, "white_gothic", at=(CX, 900), enter=pop(), exit=fade(0.06)), 13.0, 13.45, sfx="pop")
+    A(Text("あなたが\nアップする動画を", 111, "silver_gothic", style_kw=dict(skew=0.08), at=(CX, 910),
            enter=pop(), exit=fade(0.1)), 13.5, 15.45, sfx="pop")
     A(Text("必ず", 330, "silver_mincho", at=(CX, 1060), opacity=0.35, enter=blur_in(0.4, 30, 1.4),
            exit=fade(0.1)), 14.4, 15.45)
-    A(Text("おすすめに載せ", 109, "gold_mincho", style_kw=dict(skew=0.14), at=(CX, 1060), enter=wipe(0.25),
+    A(Text("おすすめに載せ", 122, "gold_mincho", style_kw=dict(skew=0.14), at=(CX, 1060), enter=wipe(0.25),
            exit=fade(0.1)), 14.45, 15.45, sfx="swish")
-    A(Text("100再生前後は\n{必ず担保させます|0.95|gold_gothic}", 97, "silver_gothic", style_kw=dict(skew=0.14),
+    A(Text("100再生前後は\n{必ず担保させます|0.95|gold_gothic}", 109, "silver_gothic", style_kw=dict(skew=0.14),
            at=(CX, 950), enter=stretch(0.25), exit=fade(0.1), emph=[(0.9, shine(0.5))]), 15.5, 17.45, sfx="whoosh")
-    A(Text("そこから\nインスタAIが", 106, "white_gothic", at=(CX, 930), enter=pop(), exit=fade(0.08)), 17.5, 18.45,
+    A(Text("そこから\nインスタAIが", 119, "white_gothic", at=(CX, 930), enter=pop(), exit=fade(0.08)), 17.5, 18.45,
       sfx="pop")
 
     # ============================================================ 18.5 – 26.9 反応率グリッド & リーチメーター
     grid = [("いいね率", 18.5, 0, 0), ("コメント率", 19.0, 0, 1), ("保存率", 19.5, 1, 0), ("シェア率", 19.75, 1, 1),
             ("視聴維持率", 20.05, 2, 0), ("視聴完了率", 20.5, 2, 1)]
-    gx, gy, gdx, gdy = (318, 762), 1010, None, 150
+    gx, gy, gdx, gdy = (292, 788), 1000, None, 160
     shrink_at = 22.0
     gc = (540, 1160)       # グリッド中心 (縮小の基準)
     dst = (540, 1560)      # 縮小後の中心
@@ -106,26 +106,26 @@ def build():
         fx_ = kf([(0, x), (rel, x), (rel + 0.3, dst[0] + (x - gc[0]) * 0.45)], ease_out_cubic)
         fy_ = kf([(0, y), (rel, y), (rel + 0.3, dst[1] + (y - gc[1]) * 0.45)], ease_out_cubic)
         sc = kf([(0, 1), (rel, 1), (rel + 0.3, 0.45)], ease_out_cubic)
-        A(Box(txt, "gold", 52, w=410, h=108, at=(lambda t, a=fx_, b=fy_: (a(t), b(t))), scale=sc,
+        A(Box(txt, "gold", 60, w=470, h=124, at=(lambda t, a=fx_, b=fy_: (a(t), b(t))), scale=sc,
               enter=pop(0.25, 1.3), exit=fade(0.15)), t0, 23.0, sfx="pop")
     fw_y = kf([(0, 1460), (0.6, 1460), (0.9, 1760)], ease_out_cubic)
     fsc = kf([(0, 1), (0.6, 1), (0.9, 0.45)], ease_out_cubic)
     A(Box("フォロー率", "gold", 56, w=560, h=110, at=(lambda t: (540, fw_y(t))), scale=fsc, enter=streak(0.3),
           exit=fade(0.15), emph=[(0.3, shine())]), 21.4, 23.0, sfx="swish")
-    A(Text("などの", 68, "white_gothic", at=(CX, 885), enter=pop(), exit=blur_in(0.2)), 22.0, 26.95)
+    A(Text("などの", 76, "white_gothic", at=(CX, 885), enter=pop(), exit=blur_in(0.2)), 22.0, 26.95)
     # 白枠 + 下から金色が満ちる
     A(Graphic(fn=lambda t: _fill_frame(t, 760, 180), at=(CX, 1035), enter=pop(0.25, 1.2), exit=blur_in(0.2)),
       22.0, 26.95, sfx="pop")
-    A(Text("ユーザーからの\n反応率", 87, "gold_gothic", style_kw=dict(line_gap=-0.02), at=(CX, 1035),
+    A(Text("ユーザーからの\n反応率", 97, "gold_gothic", style_kw=dict(line_gap=-0.02), at=(CX, 1035),
            enter=pop(0.25, 1.2), exit=blur_in(0.2)), 22.05, 26.95)
     A(Meter(760, 74, frac=kf([(0, 0.02), (0.5, 0.1), (1.2, 0.26), (2.0, 0.5), (2.8, 0.74)], ease_in_out),
             at=(CX, 1245), enter=streak(0.3), exit=blur_in(0.2)), 23.0, 26.95, sfx="whoosh")
-    A(Text("みたいな感じで\n{リーチさせて|1.35}\n{いきます|1.35}", 92, "silver_gothic",
+    A(Text("みたいな感じで\n{リーチさせて|1.35}\n{いきます|1.35}", 103, "silver_gothic",
            style_kw=dict(skew=0.12, line_gap=-0.05), at=(CX, 1100), rot=-7, enter=slam(0.2), exit=blur_in(0.2)),
       25.9, 26.95, sfx="hit")
 
     # ============================================================ 27.0 – 33.4 再生時間
-    A(Text("それ以外に\n{動画秒数の長さ|1|gold_gothic}", 94, "white_gothic", at=(CX, 1090), enter=pop(),
+    A(Text("それ以外に\n{動画秒数の長さ|1|gold_gothic}", 105, "white_gothic", at=(CX, 1090), enter=pop(),
            exit=fade(0.1)), 27.0, 27.95, sfx="pop")
     phone_x = kf([(0, 540), (4.0, 540), (4.3, 950)], ease_out_cubic)
     phone_sc = kf([(0, 1), (4.0, 1), (4.3, 0.82)], ease_out_cubic)
@@ -139,30 +139,30 @@ def build():
     tl.fx("tint", 28.0, 31.0, color="#6d6cff", amount=0.75)
     A(Text("「", 70, "white_gothic", at=(95, 1030), enter=pop(), exit=fade(0.1)), 28.0, 31.0)
     A(Text("」", 70, "white_gothic", at=(990, 1250), enter=pop(), exit=fade(0.1)), 28.0, 31.0)
-    A(Text("長く見られたコンテンツ\nほど評価するけど最初の\nハードルは超えろよ？", 68, "white_gothic", align="left",
+    A(Text("長く見られたコンテンツ\nほど評価するけど最初の\nハードルは超えろよ？", 76, "white_gothic", align="left",
            at=(CX, 1130), enter=typewriter(2.6), exit=fade(0.1)), 28.05, 31.0)
     for i in range(24):
         tl.cue(28.05 + i * 0.11, "type", 0.5)
-    A(Text("っていう\n{動画最低|1|gold_gothic}\n{継続時間の閾値|1|gold_gothic}を\n超えているか", 78, "white_gothic",
+    A(Text("っていう\n{動画最低|1|gold_gothic}\n{継続時間の閾値|1|gold_gothic}を\n超えているか", 87, "white_gothic",
            align="left", at=(420, 1150), enter=slide(0.25, -300), exit=fade(0.1)), 31.0, 33.45, sfx="swish")
 
     # ============================================================ 33.5 – 36.9
-    A(Text("これらを見て\n{拡散させるか|1|gold_gothic}\n決めてます", 106, "white_gothic", at=(CX, 1010),
+    A(Text("これらを見て\n{拡散させるか|1|gold_gothic}\n決めてます", 119, "white_gothic", at=(CX, 1010),
            enter=pop(), exit=fade(0.1), emph=[(0.6, pulse())]), 33.45, 34.95, sfx="pop")
-    A(Text("ここからが\n{重要|1.35}", 142, "brush_red", at=(CX, 990), enter=slam(0.22, 2.2),
+    A(Text("ここからが\n{重要|1.35}", 159, "brush_red", at=(CX, 990), enter=slam(0.22, 2.2),
            exit=glitch(0.12), emph=[(0.05, shake(0.3, 16))]), 35.0, 35.95, sfx="hit")
     tl.fx("shake", 35.02, 35.3, amp=14)
-    A(Text("あなたも\n経験あると\n思うんですけど", 92, "white_gothic", at=(CX, 1000), enter=pop(), exit=fade(0.1)),
+    A(Text("あなたも\n経験あると\n思うんですけど", 103, "white_gothic", at=(CX, 1000), enter=pop(), exit=fade(0.1)),
       36.0, 36.95, sfx="pop")
 
     # ============================================================ 37.0 – 44.9
     A(Bubble("1つの筋トレ動画を\n見たらおすすめ欄が\n全部筋トレ動画に\nなってしまった", 54, at=(360, 860),
              enter=pop(0.3, 0.6), exit=streak(0.25)), 37.0, 40.55, sfx="pop")
-    A(Text("実はインスタは\nレコメンド機能を\n使って", 94, "white_gothic", at=(CX, 940), enter=pop(),
+    A(Text("実はインスタは\nレコメンド機能を\n使って", 105, "white_gothic", at=(CX, 940), enter=pop(),
            exit=fade(0.1)), 40.7, 42.85, sfx="pop")
-    A(Text("{誰に拡散するのか|1|crimson_gothic}\n決めてます", 87, "white_gothic", at=(CX, 900), enter=pop(),
+    A(Text("{誰に拡散するのか|1|crimson_gothic}\n決めてます", 97, "white_gothic", at=(CX, 900), enter=pop(),
            exit=fade(0.1)), 42.9, 43.95, sfx="pop")
-    A(Text("ちなみに\nレコメンド\nっていうのは", 97, "white_gothic", at=(CX, 940), enter=pop(), exit=fade(0.1)),
+    A(Text("ちなみに\nレコメンド\nっていうのは", 109, "white_gothic", at=(CX, 940), enter=pop(), exit=fade(0.1)),
       44.0, 44.95, sfx="pop")
 
     # ============================================================ 45.0 – 50.4 レコメンド図解
@@ -194,74 +194,74 @@ def build():
     tl.cue(49.2, "shine", 0.7)
 
     # ============================================================ 50.5 – 57.4
-    A(Text("そしてインスタが\nそのレコメンドを\nする際", 90, "white_gothic", at=(CX, 1000), enter=pop(),
+    A(Text("そしてインスタが\nそのレコメンドを\nする際", 101, "white_gothic", at=(CX, 1000), enter=pop(),
            exit=fade(0.1)), 50.5, 51.95, sfx="pop")
-    A(Text("{どんなユーザーを|1|gold_gothic}\n見てるか", 90, "white_gothic", at=(CX, 1010), enter=pop(),
+    A(Text("{どんなユーザーを|1|gold_gothic}\n見てるか", 101, "white_gothic", at=(CX, 1010), enter=pop(),
            exit=fade(0.1)), 52.0, 52.95, sfx="pop")
-    A(Text("{優先|1.45}\n{ユーザー|1.45}{です|0.4|silver_mincho}", 132, "gold_mincho",
+    A(Text("{優先|1.45}\n{ユーザー|1.45}{です|0.4|silver_mincho}", 148, "gold_mincho",
            style_kw=dict(skew=0.1, line_gap=-0.08), at=(CX, 1050), enter=slam(0.22), exit=fade(0.1),
            emph=[(0.4, shine(0.45))]), 53.0, 53.95, sfx="hit")
-    A(Text("この優先ユーザー\nっていうのは", 90, "white_gothic", at=(CX, 1010), enter=pop(), exit=fade(0.1)),
+    A(Text("この優先ユーザー\nっていうのは", 101, "white_gothic", at=(CX, 1010), enter=pop(), exit=fade(0.1)),
       54.0, 54.95, sfx="pop")
-    A(Text("動画に\n反応してくれた\nユーザーのこと", 90, "white_gothic", at=(CX, 1030), enter=pop(),
+    A(Text("動画に\n反応してくれた\nユーザーのこと", 101, "white_gothic", at=(CX, 1030), enter=pop(),
            exit=fade(0.08)), 55.0, 55.55, sfx="pop")
-    A(Text("動画に\n反応してくれた\nユーザーのこと", 90, "gold_gothic", at=(CX, 1030), enter=wipe(0.25),
+    A(Text("動画に\n反応してくれた\nユーザーのこと", 101, "gold_gothic", at=(CX, 1030), enter=wipe(0.25),
            exit=fade(0.1), emph=[(0.35, shine())]), 55.45, 56.45, sfx="swish")
-    A(Text("僕の動画に\nいつも", 94, "white_gothic", at=(CX, 1000), enter=pop(), exit=fade(0.1)), 56.5, 57.45,
+    A(Text("僕の動画に\nいつも", 105, "white_gothic", at=(CX, 1000), enter=pop(), exit=fade(0.1)), 56.5, 57.45,
       sfx="pop")
 
     # ============================================================ 57.5 – 63.0
-    A(Text("いいねなどをして", 73, "white_gothic", at=(CX, 900), enter=pop(), exit=fade(0.1)), 57.5, 59.45, sfx="pop")
-    A(Text("反応してくれる\nあなたですね", 99, "gold_gothic", at=(CX, 1040),
+    A(Text("いいねなどをして", 82, "white_gothic", at=(CX, 900), enter=pop(), exit=fade(0.1)), 57.5, 59.45, sfx="pop")
+    A(Text("反応してくれる\nあなたですね", 111, "gold_gothic", at=(CX, 1040),
            enter=combo(wipe(0.35), rgb_split(0.3, 10)), exit=fade(0.1), emph=[(0.05, shine(0.4))]),
       58.0, 59.45, sfx="shine")
-    A(Text("じゃあ結局\n{何を大事に|1|crimson_gothic}\n{すればいいか|1|crimson_gothic}", 101, "white_gothic",
+    A(Text("じゃあ結局\n{何を大事に|1|crimson_gothic}\n{すればいいか|1|crimson_gothic}", 113, "white_gothic",
            at=(CX, 1030), enter=pop(), exit=fade(0.1)), 59.5, 60.95, sfx="pop")
-    A(Text("1", 300, "gold_mincho", style_kw=dict(skew=0.12), at=(300, 950), enter=slam(0.2), exit=blur_in(0.15)),
+    A(Text("1", 336, "gold_mincho", style_kw=dict(skew=0.12), at=(300, 950), enter=slam(0.2), exit=blur_in(0.15)),
       61.0, 63.0, sfx="hit")
-    A(Text("アカウント", 83, "silver_gothic", style_kw=dict(skew=0.06), align="left", at=(575, 895),
+    A(Text("アカウント", 93, "silver_gothic", style_kw=dict(skew=0.06), align="left", at=(575, 895),
            enter=slide(0.2, 300), exit=blur_in(0.15)), 61.05, 63.0)
-    A(Text("テーマ", 83, "silver_gothic", style_kw=dict(skew=0.06), at=(490, 990), enter=slide(0.2, 300),
+    A(Text("テーマ", 93, "silver_gothic", style_kw=dict(skew=0.06), at=(490, 990), enter=slide(0.2, 300),
            exit=blur_in(0.15)), 61.45, 63.0, sfx="swish")
-    A(Text("{一貫性|1.3|gold_gothic}のある\n{発信|1.3}です", 76, "silver_gothic", style_kw=dict(skew=0.1),
+    A(Text("{一貫性|1.3|gold_gothic}のある\n{発信|1.3}です", 85, "silver_gothic", style_kw=dict(skew=0.1),
            at=(480, 1190), enter=stretch(0.25), exit=blur_in(0.15), emph=[(0.5, shine(0.5))]), 61.95, 63.0,
       sfx="whoosh")
 
     # ============================================================ 63.0 – 68.4
-    A(Text("伸びなくても", 97, "white_gothic", at=(CX, 900), enter=pop(), exit=fade(0.05)), 63.0, 64.0, sfx="pop")
-    A(Text("ジャンルを\n変えずに", 97, "white_gothic", at=(CX, 1040), enter=pop(), exit=fade(0.05)), 63.3, 64.0)
+    A(Text("伸びなくても", 109, "white_gothic", at=(CX, 900), enter=pop(), exit=fade(0.05)), 63.0, 64.0, sfx="pop")
+    A(Text("ジャンルを\n変えずに", 109, "white_gothic", at=(CX, 1040), enter=pop(), exit=fade(0.05)), 63.3, 64.0)
     tl.fx("hsmear", 63.85, 64.2, length=260)
     tl.fx("flash", 63.9, 64.15, color="#ffc8ee", peak=0.3, sfx="whoosh")
-    A(Text("{一貫した発信|1|gold_gothic}{を|0.5|gold_gothic}\n{続けてください|0.85|crimson_gothic}\n変えずに", 101,
+    A(Text("{一貫した発信|1|gold_gothic}{を|0.5|gold_gothic}\n{続けてください|0.85|crimson_gothic}\n変えずに", 113,
            "white_gothic", style_kw=dict(line_gap=0.02), at=(CX, 1010), enter=combo(fade(0.1), rgb_split(0.2)),
            exit=fade(0.05)), 64.0, 65.5)
     tl.fx("hsmear", 65.45, 65.8, length=300)
     tl.fx("glitch", 65.5, 65.7, amount=0.6, sfx="glitch")
-    A(Text("軸をぶらすと\n{おすすめの|1.12|purple_gothic}\n{精度が落ちて|1.12|purple_gothic}", 83, "white_gothic",
+    A(Text("軸をぶらすと\n{おすすめの|1.12|purple_gothic}\n{精度が落ちて|1.12|purple_gothic}", 93, "white_gothic",
            at=(CX, 1010), enter=combo(glitch(0.35, 1.2), rgb_split(0.35, 16)), exit=fade(0.05)), 65.65, 66.95)
-    A(Text("あなたの\nアカウント\n終わります", 113, "crimson_gothic", style_kw=dict(line_gap=0.02),
+    A(Text("あなたの\nアカウント\n終わります", 127, "crimson_gothic", style_kw=dict(line_gap=0.02),
            at=(CX, 1060), enter=combo(zoom_in(0.25, 3.2), blur_in(0.25, 18, 1.0)), exit=fade(0.1)), 67.0, 68.45,
       sfx="hit")
     tl.fx("shake", 67.0, 67.4, amp=20)
     tl.fx("rgb", 67.0, 67.3, px=12)
 
     # ============================================================ 68.5 – 73.58 まとめ & CTA
-    A(Text("{明|1.7|gold_mincho}{日|1.25|gold_mincho}今回の動画", 68, "silver_gothic", align="left",
+    A(Text("{明|1.7|gold_mincho}{日|1.25|gold_mincho}今回の動画", 76, "silver_gothic", align="left",
            style_kw=dict(skew=0.08), at=(420, 900), enter=slide(0.25, -300), exit=streak(0.2)), 68.5, 70.8,
       sfx="swish")
-    A(Box("おすすめに載る仕組み", "gold", 54, w=680, h=92, at=(420, 985), enter=streak(0.3), exit=streak(0.2)),
+    A(Box("おすすめに載る仕組み", "gold", 60, w=760, h=100, at=(420, 985), enter=streak(0.3), exit=streak(0.2)),
       68.6, 70.8)
     A(Box("踏まえたうえで", "black_tag", 76, w=150, h=660, vertical=True, at=(975, 1220), enter=drop(0.3, 700),
           exit=blur_in(0.15)), 70.0, 72.7, sfx="whoosh")
-    A(Text("{意|1.7|gold_mincho}図的に", 71, "silver_gothic", align="left", style_kw=dict(skew=0.08),
+    A(Text("{意|1.7|gold_mincho}図的に", 80, "silver_gothic", align="left", style_kw=dict(skew=0.08),
            at=(400, 900), enter=wipe(0.25), exit=blur_in(0.15)), 70.7, 72.7, sfx="swish")
-    A(Box("バズらせる方法", "gold", 56, w=680, h=96, at=(420, 985), enter=wipe(0.25), exit=blur_in(0.15),
+    A(Box("バズらせる方法", "gold", 62, w=760, h=104, at=(420, 985), enter=wipe(0.25), exit=blur_in(0.15),
           emph=[(0.3, shine())]), 70.75, 72.7)
-    A(Text("徹底解説", 165, "gold_mincho", style_kw=dict(skew=0.08), at=(420, 1130), enter=wipe(0.22),
+    A(Text("徹底解説", 185, "gold_mincho", style_kw=dict(skew=0.08), at=(420, 1130), enter=wipe(0.22),
            exit=blur_in(0.15), emph=[(0.45, shine(0.5))]), 71.7, 72.7, sfx="hit")
-    A(Text("するので", 52, "white_gothic", at=(640, 1215), enter=fade(0.2), exit=blur_in(0.15)), 71.9, 72.7)
+    A(Text("するので", 58, "white_gothic", at=(640, 1215), enter=fade(0.2), exit=blur_in(0.15)), 71.9, 72.7)
     tl.fx("hsmear", 72.55, 72.8, length=200)
-    A(Text("おさるをフォロー\nしておいて", 83, "gold_gothic", at=(CX, 880), enter=pop(), exit=fade(0.1)), 72.7, DUR,
+    A(Text("おさるをフォロー\nしておいて", 93, "gold_gothic", at=(CX, 880), enter=pop(), exit=fade(0.1)), 72.7, DUR,
       sfx="pop")
     hy = kf([(0, 1010), (0.35, 1090), (0.5, 1160)], ease_out_cubic)
     A(TapHand(170, tap_at=(0.5,), at=(lambda t: (580, hy(t))), enter=slide(0.2, 0, 150), exit=fade(0.1)),
