@@ -1,0 +1,31 @@
+[project]
+name = "ehon"
+version = "0.1.0"
+description = "マルプー絵本アカウントの制作パイプライン（台本→画像→20枚→動画→書き出し）"
+requires-python = ">=3.11"
+dependencies = [
+  "anthropic>=0.70",
+  "pydantic>=2.7",
+  "pyyaml>=6",
+  "pillow>=10",
+  "requests>=2.31",
+  "budoux>=0.6",
+  "google-api-python-client>=2.130",
+  "google-auth-oauthlib>=1.2",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/ehon"]
+
+[dependency-groups]
+dev = [
+    "playwright>=1.63.0",
+    "pytest>=9.1.1",
+]

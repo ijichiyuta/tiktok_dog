@@ -1,0 +1,62 @@
+# キャラクターと画風の定義。全コマのプロンプトに同じ文言が入る（文言を変えるとブレる）。
+# 主役犬は本人の愛犬（まる）をモデルにした子（2026-09-27 本人指示で、まるの写真を参照して設定画を作る）。
+# まるの実写・名前は公開しない。写真は assets/ref/maru/（git 管理外）。服（青白ボーダー）は描かない＝知人に特定されにくくする。
+
+style: >-
+  Soft colored-pencil and graphite illustration on warm off-white paper (#F2F1EE),
+  gentle hand-drawn picture-book style, visible pencil strokes, lots of empty paper around the subject,
+  warm muted palette (apricot, cream, dusty blue, soft grey), quiet and tender mood.
+  The drawing fades softly into the plain paper near all four edges, no border, no frame.
+  Absolutely no text, letters, numbers, signatures or watermarks anywhere in the image.
+
+# 年齢ごとの犬の定義。設定画（assets/ref/dog_<age>.png）とセットで使う。
+# 年齢を書かないと体格だけ変わって顔が歳を取らない（nariagari の教訓）ので、年齢を必ず明記する。
+dog:
+  common: >-
+    The dog is a small Maltipoo (Maltese x Toy Poodle mix) with warm caramel-apricot curly fur,
+    groomed in a teddy-bear trim: a round fluffy face, round pom-pom ears framing the face,
+    dark round eyes, a black button nose, slim legs and a curly plumed tail.
+    It wears only a light-blue collar with a tiny plain round silver tag (no engraving), never clothes.
+    Small enough to be held in one arm. Always the same individual dog.
+  ages:
+    puppy: >-
+      Age: a tiny 3-month-old puppy, about half the size of the adult. Much larger head compared to the body,
+      short fuzzy baby coat that is not yet trimmed into the teddy-bear cut, short stubby legs, round tummy,
+      oversized paws, big round eyes, small floppy ears. Same fur color and same light-blue collar (slightly loose).
+    adult: >-
+      Age: a 3-year-old adult dog. Compact, fluffy curly coat, bright eyes, lively but a little timid posture.
+    senior: >-
+      Age: an 11-year-old senior dog. Same face and markings, fur a little paler cream with white hairs
+      around the muzzle and eyebrows, slightly thinner body, calm gentle eyes, moves slowly.
+      Healthy-looking and peaceful, never sick or injured.
+
+# 人物。顔は絶対に描かない。性別を特定しない。
+humans:
+  rule: >-
+    Humans are never shown with a visible face: show them only from behind, from the shoulders down,
+    or as hands, arms, feet and legs. Crop or turn heads away so no facial features are visible.
+  owner: >-
+    The owner: an adult in their late twenties to thirties, gender-neutral look, short dark hair seen from behind,
+    wearing an oversized oatmeal-colored knit sweater and grey pants.
+    Only when the scene says the owner is coming home from work: a charcoal coat, a simple black bag and outdoor shoes.
+  partner: >-
+    The owner's partner: an adult with light-brown wavy hair tied back, seen from behind or as hands only,
+    wearing a sage-green cardigan.
+  child: >-
+    A small child about 4 years old, seen from behind or from the side with the face hidden, in a mustard-yellow shirt.
+  parents: >-
+    The owner's elderly parents, seen from behind, in cozy home clothes, in a traditional Japanese family house.
+
+# 設定画（キャラ参照）の作り方。refsheet コマンドが使う。
+refsheet:
+  prompt: >-
+    Character model sheet on plain off-white paper: the same dog drawn three times side by side —
+    (1) front view sitting, (2) side view standing, (3) curled up sleeping. Consistent proportions and markings
+    in all three. No humans. No text or labels.
+  size: 1536x1024
+
+# どのコマにも入れる小物の決まり（コマをまたいで色がブレないように）
+props: >-
+  If a leash appears it is always light blue. Draw only the objects the scene needs:
+  no umbrella, bag or coat unless the scene explicitly mentions them.
+  No mirrors, reflections or ghostly figures of any animal or person.

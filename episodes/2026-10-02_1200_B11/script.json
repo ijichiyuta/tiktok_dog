@@ -1,0 +1,292 @@
+{
+  "title": "ソファの半分",
+  "theme": "この子は広さではなく、私のとなりを選んでいた",
+  "slides": [
+    {
+      "n": 1,
+      "text": "一人暮らしなのに、\nソファが狭い理由",
+      "act": "hook",
+      "emphasis": false,
+      "scene": "A two-seat sofa in a small apartment: the dog lies stretched out across exactly half of it, looking at the viewer; the other half is a small empty space.",
+      "shot": "centered, the whole sofa visible",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 2,
+      "text": "このソファを買ったのは、\n一人暮らしを始めた春",
+      "act": "daily",
+      "emphasis": false,
+      "scene": "A spring-lit empty apartment with a brand-new sofa, cherry blossom branches visible outside the window. No dog yet.",
+      "shot": "wide view of the room",
+      "dog": false,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 3,
+      "text": "大きすぎるかな、\nと思っていた",
+      "act": "daily",
+      "emphasis": false,
+      "scene": "The owner, seen from behind, sits alone on the far right end of the new sofa with lots of empty space to their left; there should be no dog on the sofa.",
+      "shot": "from behind the sofa",
+      "dog": false,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 4,
+      "text": "今は、ちょうど半分が\nこの子の場所だ",
+      "act": "daily",
+      "emphasis": false,
+      "scene": "The dog lies on the right half of the sofa on its own blanket; the owner sits on the left half, seen from behind.",
+      "shot": "from behind the sofa",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 5,
+      "text": "私が座ると、\n必ずとなりに来る",
+      "act": "notice",
+      "emphasis": false,
+      "scene": "The owner sits down on the sofa (seen from behind); the dog jumps up next to them from the floor.",
+      "shot": "from behind the sofa",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 6,
+      "text": "わざわざ、\n私の脚にくっついて",
+      "act": "notice",
+      "emphasis": false,
+      "scene": "Close-up of the dog pressing its body against the owner's thigh on the sofa, though empty cushion space is on its other side.",
+      "shot": "close-up, empty cushion visible on the dog's far side",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 7,
+      "text": "広いほうに行けばいいのに、\nと思っていた",
+      "act": "notice",
+      "emphasis": false,
+      "scene": "The owner's hand gestures toward the empty side of the sofa; the dog stays glued to the owner's leg, looking up.",
+      "shot": "close-up, hand pointing to the empty side",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 8,
+      "text": "でもこの子は、\n広さじゃなくて私を選んでいた",
+      "act": "notice",
+      "emphasis": false,
+      "scene": "The dog curled up in the narrow gap right beside the owner's leg, ignoring the wide empty half of the sofa.",
+      "shot": "from above, the empty half clearly visible",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 9,
+      "text": "テレビを消して、\nとなりをのぞきこむ",
+      "act": "response",
+      "emphasis": false,
+      "scene": "The owner, seen from behind, leans toward the dog beside them on the sofa; the TV on the wall is dark.",
+      "shot": "from behind the owner",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 10,
+      "text": "寝たふりをしながら、\nしっぽだけ動いている",
+      "act": "response",
+      "emphasis": false,
+      "scene": "Close-up of the dog with eyes closed pretending to sleep while its tail wags.",
+      "shot": "close-up of the dog and tail",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 11,
+      "text": "少しだけ、\n脚をこの子のほうに寄せた",
+      "act": "response",
+      "emphasis": false,
+      "scene": "The owner's leg (grey pants) shifts closer so it touches the curled dog.",
+      "shot": "close-up of leg and dog",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 12,
+      "text": "体温が、\nじんわり伝わってくる",
+      "act": "response",
+      "emphasis": false,
+      "scene": "The owner's hand resting on the dog's warm back, soft evening light.",
+      "shot": "close-up of hand and fur",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 13,
+      "text": "狭いソファも、\n悪くない",
+      "act": "response",
+      "emphasis": false,
+      "scene": "The owner and the dog squeezed together on one half of the sofa, seen from behind, the other half empty.",
+      "shot": "from behind the sofa",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 14,
+      "text": "むしろ、\nこの狭さがちょうどいい",
+      "act": "response",
+      "emphasis": false,
+      "scene": "The owner's arm around the dog on the sofa, the dog's chin on the owner's knee.",
+      "shot": "close-up",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 15,
+      "text": "一人暮らしの部屋が、\n二人の部屋になった",
+      "act": "response",
+      "emphasis": false,
+      "scene": "Wide view of the small apartment at night: the owner and the dog sit together on the sofa, seen from behind, warm lamp light; one mug on the coffee table and the dog's water bowl on the floor.",
+      "shot": "wide view from behind the sofa",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 16,
+      "text": "いつまで、この狭さを\n感じていられるだろう",
+      "act": "farewell",
+      "emphasis": false,
+      "scene": "The dog asleep peacefully on the sofa next to the owner's leg, calm night light.",
+      "shot": "medium shot",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 17,
+      "text": "だから、ソファを\n買い替えるのはやめた",
+      "act": "farewell",
+      "emphasis": false,
+      "scene": "The owner's hand closes a furniture catalog on the coffee table; the dog sleeps on the sofa in the background.",
+      "shot": "close-up of hand and catalog, the dog behind",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 18,
+      "text": "この狭さごと、\n大事にしよう",
+      "act": "resolve",
+      "emphasis": true,
+      "scene": "The owner, seen from behind, hugs the dog on the sofa.",
+      "shot": "from behind the sofa",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 19,
+      "text": "今夜も、半分こで\n座ろう",
+      "act": "resolve",
+      "emphasis": false,
+      "scene": "The dog on its half of the sofa pats the cushion next to it with a paw, looking back over its shoulder at the owner who is standing behind the sofa.",
+      "shot": "from behind, the owner's legs behind the sofa",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 20,
+      "text": "あなたの家では\nあの子の特等席はどこですか？",
+      "act": "ending",
+      "emphasis": false,
+      "scene": "Close-up of the dog curled on its favorite half of the sofa on its own blanket, content.",
+      "shot": "close-up",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    }
+  ],
+  "caption": "一人暮らしの部屋が、二人の部屋になった。\nあなたの子の特等席は、どこですか？",
+  "hashtags": [
+    "ふつうの一日",
+    "犬のいる暮らし",
+    "マルプー",
+    "一人暮らし",
+    "犬の気持ち"
+  ],
+  "youtube_title": "一人暮らしなのに、ソファが狭い理由",
+  "self_review": "別れの語は使わず、16枚目は時間の限りの示唆のみ。締めは『この狭さごと大事に』という前向きな決意。",
+  "_check": {
+    "errors": [],
+    "warnings": []
+  }
+}

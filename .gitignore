@@ -1,0 +1,22 @@
+.env
+.env*.local
+.secrets/
+.venv/
+__pycache__/
+*.pyc
+# 生成物（容量が大きい）。台本と費用ログは残す
+episodes/*/images/
+episodes/*/slides/
+episodes/*/video.mp4
+episodes/*/export/
+assets/ref/_candidates/
+assets/bgm/*
+!assets/bgm/README.md
+.DS_Store
+.playwright-mcp/
+# 本人の愛犬の実写（参照用。絶対に公開・コミットしない）
+assets/ref/maru/
+assets/ref/icon_source.png
+export/
+# 5MB超のフォント（各自で配置する）
+assets/fonts/KleeOne-SemiBold.ttf

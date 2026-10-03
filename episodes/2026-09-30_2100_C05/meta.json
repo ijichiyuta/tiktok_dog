@@ -1,0 +1,16 @@
+{
+  "date": "2026-09-30",
+  "idea": {
+    "id": "C05",
+    "series": "C",
+    "title": "白いひげ",
+    "scene": "ふと見ると、口のまわりに白い毛が増えていた。子犬の頃の写真と、今の寝顔を並べる",
+    "dog_age": "senior",
+    "household": "solo",
+    "persona": 4
+  },
+  "state": "approved",
+  "video_seconds": 72.0,
+  "bgm_credit": "",
+  "slot": "21:00"
+}

@@ -1,0 +1,282 @@
+{
+  "title": "長く、怒らないで",
+  "theme": "叱られたことより、仲直りしたことを覚えている",
+  "slides": [
+    {
+      "n": 1,
+      "text": "叱られた夜、ぼくが\n背中を向けていた理由",
+      "act": "hook",
+      "emphasis": false,
+      "scene": "At night, the dog sits in the corner of a room facing the wall with its back to the viewer, ears drooping; shredded tissue paper scattered on the floor behind it.",
+      "shot": "centered, the dog seen from behind in the corner",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 2,
+      "text": "あなたが帰ってきたとき、\n部屋はちらかっていた",
+      "act": "daily",
+      "emphasis": false,
+      "scene": "A living room floor covered with shredded tissue paper and an empty tissue box; the front door just opened, the owner's legs at the edge in coat and outdoor shoes.",
+      "shot": "wide view of the messy room",
+      "dog": false,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 3,
+      "text": "ティッシュの箱を、\nぼくがぜんぶ出したから",
+      "act": "daily",
+      "emphasis": false,
+      "scene": "Earlier that day: the dog happily pulling tissues out of a box, paper flying, tail up.",
+      "shot": "medium shot, playful",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 4,
+      "text": "「なんでこんなことするの！」\nあなたの声が大きかった",
+      "act": "daily",
+      "emphasis": false,
+      "scene": "The owner standing in the messy room seen from behind, hands on hips; the dog small in the corner.",
+      "shot": "from behind the owner",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 5,
+      "text": "ぼくは部屋のすみで、\n背中を向けた",
+      "act": "notice",
+      "emphasis": false,
+      "scene": "The dog in the room corner with its back turned, tail tucked, small and still.",
+      "shot": "low angle, the dog from behind",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 6,
+      "text": "すねてるんじゃないよ",
+      "act": "notice",
+      "emphasis": false,
+      "scene": "Close-up of the dog's face in profile, eyes looking sideways, ears down.",
+      "shot": "close-up profile",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 7,
+      "text": "どうしたらいいか、\nわからなかったんだ",
+      "act": "notice",
+      "emphasis": false,
+      "scene": "SIDE VIEW in a messy living room: the dog stands on the LEFT, body pointing to the LEFT, head turned back over its shoulder to the RIGHT, looking at the owner's feet (grey pants, socks) standing a few steps BEHIND it on the RIGHT; torn tissue pieces on the floor.",
+      "shot": "side view at floor level",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 8,
+      "text": "箱の音が、\nちょっと楽しかっただけなんだ",
+      "act": "notice",
+      "emphasis": false,
+      "scene": "A memory vignette: the dog's nose poking into a tissue box, a single tissue floating up.",
+      "shot": "soft dreamy vignette",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 9,
+      "text": "しばらくすると、\nあなたが隣に座った",
+      "act": "response",
+      "emphasis": false,
+      "scene": "The owner sits down on the floor next to the dog in the corner, seen from behind, among the scattered paper.",
+      "shot": "from behind the owner and the dog",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 10,
+      "text": "ちらかった部屋のまんなかで、\nふたりで黙っていた",
+      "act": "response",
+      "emphasis": false,
+      "scene": "Wide view: the owner and the dog sitting side by side on the floor amid shredded tissue, seen from behind, soft lamplight.",
+      "shot": "wide view from behind",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 11,
+      "text": "「さっきはごめんね」\nって、あなたが言った",
+      "act": "response",
+      "emphasis": false,
+      "scene": "The owner's hand resting on the floor near the dog, palm up, inviting.",
+      "shot": "close-up of the open hand and the dog's paw",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 12,
+      "text": "ほんとうは、ぼくのほうが\n先に謝りたかった",
+      "act": "response",
+      "emphasis": false,
+      "scene": "The dog turns around and looks up at the viewer with apologetic eyes.",
+      "shot": "close-up at floor level",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 13,
+      "text": "あなたの手が、\nぼくの背中にふれた",
+      "act": "response",
+      "emphasis": false,
+      "scene": "The owner's hand gently strokes the dog's back.",
+      "shot": "close-up of hand and fur",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 14,
+      "text": "それだけで、\nぜんぶ元どおり",
+      "act": "response",
+      "emphasis": false,
+      "scene": "The dog climbs into the owner's lap, tail wagging, shredded paper around them.",
+      "shot": "from behind the owner",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 15,
+      "text": "ぼくは、叱られたことより\n仲直りを覚えている",
+      "act": "response",
+      "emphasis": false,
+      "scene": "The dog and the owner's hands together picking up tissue pieces, the dog holding one in its mouth proudly.",
+      "shot": "close-up of hands, paper and the dog",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 16,
+      "text": "ぼくの時間は、\nあなたよりずっと短いから",
+      "act": "farewell",
+      "emphasis": false,
+      "scene": "The dog asleep on the owner's lap in lamplight, the room now tidy, peaceful.",
+      "shot": "close-up, warm and calm",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 17,
+      "text": "けんかしたままの夜は、\nもったいないんだ",
+      "act": "farewell",
+      "emphasis": false,
+      "scene": "The dog curled at the foot of the bed at night, one eye peeking at the viewer.",
+      "shot": "close-up at the foot of the bed",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 18,
+      "text": "だから、\n長く怒らないでね",
+      "act": "resolve",
+      "emphasis": true,
+      "scene": "Close-up of the dog looking up with big gentle eyes, head tilted.",
+      "shot": "close-up portrait",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 19,
+      "text": "ぼくも次は、\nティッシュをがまんするから",
+      "act": "resolve",
+      "emphasis": false,
+      "scene": "The dog sitting very straight next to a tissue box on a low table, pointedly looking away from it, humorous.",
+      "shot": "medium shot",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 20,
+      "text": "あなたの子の、忘れられない\nいたずら、ありますか？",
+      "act": "ending",
+      "emphasis": false,
+      "scene": "The owner and the dog on the sofa at night seen from behind, the dog nestled against the owner's side, a tissue box safely on a high shelf.",
+      "shot": "from behind the sofa",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    }
+  ],
+  "caption": "ぼくは、叱られたことより、仲直りしたことを覚えている。\nあなたの子の忘れられないいたずら、教えてください。",
+  "hashtags": [
+    "きみからのお願い",
+    "犬の気持ち",
+    "マルプー",
+    "犬のいる暮らし",
+    "泣ける話"
+  ],
+  "youtube_title": "叱られた夜、ぼくが背中を向けていた理由",
+  "self_review": "叱った飼い主を責めない（犬のほうが先に謝りたかったと語る）。留守番の寂しさには触れず、いたずらの理由は『楽しかった』と軽くする。19枚目で笑いを入れて重くしすぎない。",
+  "_check": {
+    "errors": [],
+    "warnings": []
+  }
+}

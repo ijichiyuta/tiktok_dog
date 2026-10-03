@@ -1,0 +1,4 @@
+#!/bin/sh
+# 使い方は README.md。例: ./ehon status
+DIR="$(cd "$(dirname "$0")" && pwd)"
+exec uv run --quiet --project "$DIR" python -m ehon.cli "$@"

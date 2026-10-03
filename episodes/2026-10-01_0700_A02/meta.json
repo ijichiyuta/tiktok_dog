@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-01",
+  "slot": "07:00",
+  "idea": {
+    "id": "A02",
+    "series": "A",
+    "title": "わからなくて、ごめんね",
+    "scene": "お迎え初日。トイレを失敗して震える子犬が「まだ、ここのことがわからないだけなんだ」と語る",
+    "dog_age": "puppy",
+    "household": "solo",
+    "persona": 8
+  },
+  "state": "approved"
+}

@@ -1,0 +1,181 @@
+{
+  "1": {
+    "dog_body": "body points toward the viewer (slightly angled), sitting and not moving",
+    "dog_gaze": "looking at the viewer/camera; nothing (no person) is visible in that direction",
+    "people": "no people visible in the image (owner not present)",
+    "implied": "The dog sits on a small patterned blanket by a sunny window, looking at the viewer; beside it on the floor lies a printed photo showing the same dog as a tiny puppy in the same spot.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "2": {
+    "dog_body": "Points to the left (tail on the right, head/front legs to the left). The dog is stretching (front legs extended) and not walking/moving.",
+    "dog_gaze": "Looking toward the viewer/camera (forward-left); there is no person in that direction, only the room/empty space.",
+    "people": "No people are present in the image.",
+    "implied": "The owner says 'Today is the day this dog came to our home.' The scene should show the dog at home (cozy apartment, morning sunlight), the dog stretching on a rug, and a small bouquet on the table. The owner does not need to be visible.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "3": {
+    "dog_body": "Points to the right (toward the kitchen counter), standing still (not moving).",
+    "dog_gaze": "Looking up at the owner's hands and the paper treat bag on the counter; the hands and bag are in that direction.",
+    "people": "One person (the owner) is ahead of the dog (in the direction the dog's body points), leaning over the counter and facing the dog/counter while tying the ribbon.",
+    "implied": "The owner places a small paper bag of dog treats tied with a ribbon on a kitchen counter while the dog sniffs/looks eagerly from below.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "4": {
+    "dog_body": "no dog present",
+    "dog_gaze": "no dog present",
+    "people": "One person (the owner) sits on the sofa, seen from behind, facing away from the viewer, holding and looking at a smartphone; no other people present.",
+    "implied": "The owner searches through their smartphone to find a certain photo.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "5": {
+    "dog_body": "The puppy's body faces toward the viewer/camera (frontal) and it is sitting (not moving).",
+    "dog_gaze": "The puppy is looking straight toward the camera/viewer (toward whoever took the photo); that direction contains the camera/viewer (no other person shown in the photo).",
+    "people": "A single person's hand (the owner) is holding the printed photo; that hand is located in front of the dog (in the direction the dog faces). No other people are visible.",
+    "implied": "A small printed photo held in the owner's fingers showing the same dog three years ago as a tiny caramel-apricot puppy with a light-blue collar, sitting on a patterned blanket by a window and looking bewildered.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "6": {
+    "dog_body": "Facing toward the viewer (slightly turned to its left), sitting still in the hands (not moving).",
+    "dog_gaze": "Looking up toward the viewer/owner; the owner's hands (and therefore the owner) are located in that direction.",
+    "people": "Only the owner is present (only their cupped hands visible). The owner is in front of the dog (in the direction the dog's body points) and is facing the dog.",
+    "implied": "The owner is holding a very small puppy in their two cupped palms — the puppy is small enough to fit on the owner's hands and is sitting in them.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "7": {
+    "dog_body": "The dog's body points toward the viewer (front-facing) and it is sitting stationary with its hind legs folded.",
+    "dog_gaze": "The dog's eyes look toward the viewer/camera; it is not looking at the owner (the owner is to the dog's left).",
+    "people": "One person (the owner) is kneeling at the left side of the window seat, facing the dog and placing/supporting the dog's sides with both hands.",
+    "implied": "The owner kneels at the left side of the window seat and gently sets the grown dog's hindquarters down on the same patterned blanket so the dog is sitting (hind legs folded), with the owner's hands supporting the dog's sides/under the belly while the dog sits by the window.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "8": {
+    "dog_body": "Body points toward the viewer (slightly turned to the dog's right); sitting and stationary.",
+    "dog_gaze": "Looking toward the viewer/camera; there is no person or owner visible in that direction (just the viewer's viewpoint).",
+    "people": "No people present in the image.",
+    "implied": "A sunny window corner with a patterned blanket and light falling at the same angle, and the dog sitting on the blanket.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "9": {
+    "dog_body": "The dog's body faces toward the viewer (slightly centered) and it is lying on a blanket (not moving).",
+    "dog_gaze": "The dog's eyes look directly toward the viewer/camera; there is no person visible in that direction (just the implied camera/viewer).",
+    "people": "No people visible in the picture.",
+    "implied": "The owner points a camera and the dog, lying on the blanket, tilts its head toward the camera/viewer.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "10": {
+    "dog_body": "There are two dogs. Left dog: body points toward the viewer (sitting, not moving). Right dog: body also points toward the viewer (sitting, not moving).",
+    "dog_gaze": "Both dogs are looking toward the viewer (their eyes directed straight out of the picture). There is no person or object shown in that direction.",
+    "people": "No people are present in the image.",
+    "implied": "Compare the dog’s face now with that day — the puppy and the grown dog show the same facial expression/tilt (split-page: left small puppy tilting its head, right grown dog tilting its head the same way).",
+    "ok": true,
+    "problem": ""
+  },
+  "11": {
+    "dog_body": "The dog's body faces toward the viewer (slightly turned to the dog's left); it is sitting and not moving.",
+    "dog_gaze": "The dog's eyes look toward the viewer/camera; there is no person or object visible in that direction (just the viewer perspective).",
+    "people": "No people are present in the image.",
+    "implied": "The dog's body is large and fills much of the lower window frame while sitting in the window, with sunlight on its fur.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "12": {
+    "dog_body": "toward the viewer; sitting / stationary (not moving)",
+    "dog_gaze": "looking at the photo / the owner's hands holding it, which are directly in front of the dog (slightly to the dog's left side)",
+    "people": "the owner is in front of the dog (in the direction the dog's body points), facing the dog; only the owner's hands are visible holding the puppy photo",
+    "implied": "The owner holds a small puppy photo next to the grown dog's face so you can compare them (showing three years of time side-by-side).",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "13": {
+    "dog_body": "Left vignette: body points right (toward the center of the triptych) and appears to be walking right. Middle vignette: body points toward the viewer (slightly left-of-center) and is standing. Right vignette: body points left (toward the center) and is sitting facing left/center.",
+    "dog_gaze": "Left vignette: head turned slightly toward the left/forward, looking in the direction of the leash that goes off-frame to the left (no person visible). Middle vignette: looking forward/toward the viewer. Right vignette: looking forward/toward the viewer/center.",
+    "people": "No people are visible in any vignette; a light-blue leash in the left vignette leads off-frame to the left suggesting an owner is off-screen in that direction.",
+    "implied": "Three small vignettes showing the puppy's first walk (with a light-blue leash), the puppy in its first snow, and the dog at a riverside path.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "14": {
+    "dog_body": "no dog present",
+    "dog_gaze": "no dog present",
+    "people": "no people present",
+    "implied": "The sentence implies a focus on this window as the origin of everything — a sunny windowseat with the patterned blanket, empty for a moment, sunlight streaming in (no people or dog required in the frame).",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "15": {
+    "dog_body": "toward the viewer; standing with hind legs lower and front paws up on the person's shoulder/torso, moving upward onto the person's lap/into their arms",
+    "dog_gaze": "looking toward the viewer/camera (over the person's shoulder); that direction shows empty space/the camera (no other person)",
+    "people": "the owner is behind the dog (opposite the dog's body direction), sitting on the floor facing the window (their back to the viewer). No other people present.",
+    "implied": "After finishing taking photos, the dog climbed into the owner's lap — the owner is seated and the dog moves onto/into their lap.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "16": {
+    "dog_body": "The dog's body is oriented roughly left-to-right with its head turned slightly toward the viewer (slightly left); it is lying down and not moving (dozing).",
+    "dog_gaze": "Eyes closed — not looking at anyone or anything.",
+    "people": "No people visible; the owner is not shown.",
+    "implied": "The owner wants to photograph the dog at this windowsill in future years; the dog is dozing in sunlight on a blanket by the window, with a gentle breeze moving the curtain.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "17": {
+    "dog_body": "In each framed photo the dog's body faces toward the viewer (sitting, not moving).",
+    "dog_gaze": "Each dog's eyes look toward the viewer; there is no person or other object shown in that direction (just the viewer/outside the frame).",
+    "people": "No people are present in the scene.",
+    "implied": "As each photo is added, the dog's time advances — three framed pictures on a small wooden shelf showing the same caramel‑apricot Maltipoo with a light‑blue collar sitting by a window at three ages (puppy, young, current); no other dogs or people.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "18": {
+    "dog_body": "The dog (in the photos) is facing toward the viewer; it is sitting/stationary (not moving).",
+    "dog_gaze": "The dog's eyes look toward the viewer/camera; in that direction are the owner’s hands/owner placing the frame (and implicitly the viewer).",
+    "people": "One person (the owner) is ahead of the dog (in front of the direction the dog's body points), facing the frames/dog, with both hands placing the central framed photo. No other people present.",
+    "implied": "The owner places a new framed picture onto the shelf beside two others; all three pictures show the same caramel‑apricot Maltipoo wearing a light‑blue collar at the window at different ages; no other dog breeds are shown.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "19": {
+    "dog_body": "Body pointing to the right/front-right (toward the owner's hands), sitting/lying on the blanket, stationary.",
+    "dog_gaze": "Looking at the photo in the owner's hands; the owner's hands and the photo are located front-right of the dog.",
+    "people": "Only the owner (hands and forearms visible) is in front of the dog (ahead in the direction the dog's body points); the owner faces the dog and holds the photo toward it; no other people present.",
+    "implied": "The owner wants to show a photo (or the current dog) to the small puppy from 3 years ago — the small puppy is on the blanket facing the owner and looking at the photo while the owner sits/kneels in front and holds the photo up toward the puppy.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "20": {
+    "dog_body": "The dog's body points away from the viewer toward the window; it is sitting (not moving).",
+    "dog_gaze": "The dog's eyes look toward the window/sunset (away from the viewer) — toward the cityscape and sun in the distance.",
+    "people": "One person (the owner) is seated to the dog's left and slightly behind relative to the dog's forward direction; the owner is facing the same direction as the dog (toward the window). No other people are present.",
+    "implied": "The owner and the dog are sitting together by a window in warm late-afternoon/golden light, seen from behind.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  }
+}

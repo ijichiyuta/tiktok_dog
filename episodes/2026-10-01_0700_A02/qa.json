@@ -1,0 +1,180 @@
+{
+  "1": {
+    "dog_body": "The dog's body points toward the viewer; it is sitting still (not moving).",
+    "dog_gaze": "The dog's eyes look up toward the viewer; there is no person actually drawn in that direction (the owner is implied to be the viewer).",
+    "people": "No people are present in the image (the owner is not shown; implied to be in front of the dog/viewer).",
+    "implied": "A tiny puppy on a wooden floor in a new place is trembling and looking up at its owner with worried eyes; a small wet spot is beside it.",
+    "ok": true,
+    "problem": ""
+  },
+  "2": {
+    "dog_body": "The puppy's body faces away from the viewer (toward the room) and is being carried forward inside the carrier (moving into the apartment).",
+    "dog_gaze": "The puppy's eyes look forward toward the room/interior (so it is looking at the apartment and furniture); the owner is behind the puppy, not in that direction.",
+    "people": "One person (the owner) is behind the dog relative to the dog's facing direction (opposite the dog's body), seen from behind and walking into the room; no other people are present.",
+    "implied": "The owner, seen from behind, walks into a bright apartment carrying a small pet carrier; the tiny puppy peeks out of the carrier's front door toward the room.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "3": {
+    "dog_body": "The dog's body points to the right (toward the plant and sofa leg); it is low to the floor in a crouched/sniffing stance and not shown walking away or toward the viewer.",
+    "dog_gaze": "The dog's eyes look to the right at the houseplant pot and sofa leg; nothing else (no person) is located in that direction in the picture.",
+    "people": "No people are present in the image.",
+    "implied": "The puppy is experiencing all smells and sounds for the first time; it is sniffing a houseplant pot and the leg of a sofa in a new living room with its nose low to the floor, curious.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "4": {
+    "dog_body": "Body points to the right-front (toward viewer-right); moving to the right across the rug (mid-run, all paws off the ground).",
+    "dog_gaze": "Eyes looking slightly forward-right (toward the direction of travel); that direction shows empty floor and a potted plant, no person.",
+    "people": "No people present in the image.",
+    "implied": "A tiny puppy runs happily across a soft rug in the living room (ears flying, all paws in motion).",
+    "ok": true,
+    "problem": ""
+  },
+  "5": {
+    "dog_body": "dog's body points toward the viewer (facing forward) and it is standing/stopped (not moving)",
+    "dog_gaze": "dog is looking down toward a small puddle on the wooden floor in front of its paws; nothing else (no person) is in that direction",
+    "people": "no people present in the picture",
+    "implied": "The tiny puppy has stopped mid-run on the wooden floor and is looking down, surprised, at a small puddle beside its paws.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "6": {
+    "dog_body": "The puppy's body points toward the viewer (slightly angled) and it is standing still (not moving).",
+    "dog_gaze": "The puppy is looking down/forward toward the puddle; in that direction are a small puddle on the wooden floor and a trail of tiny paw prints leading from the puddle to the puppy.",
+    "people": "No people are present in the image.",
+    "implied": "There is a small puddle on the floor (a small water puddle on the wooden floor).",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "7": {
+    "dog_body": "The dog's body points to the right (toward the owner's legs) and it is stationary (frozen), one front paw slightly lifted.",
+    "dog_gaze": "The dog's eyes are looking up and to the right, toward the owner's legs/feet which are visible in that direction.",
+    "people": "One person (only lower legs shown) is located in front of the dog (in the direction the dog's body points), standing and facing the dog.",
+    "implied": "The dog freezes when the owner says 'ah!', looking up toward the owner's legs a few steps away, with one paw lifted.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "8": {
+    "dog_body": "points to the right (toward the owner); crouched/stationary (low posture, tail tucked)",
+    "dog_gaze": "looking up toward the right at the owner's legs/feet; the owner's lower body is located in that direction",
+    "people": "one person (the owner) is ahead of the dog (in the direction the dog's body points), standing and facing down toward the dog",
+    "implied": "The puppy thinks it will be scolded, is trembling and crouched low with tail tucked and ears flattened, and is looking up fearfully at the owner who is standing in front of it.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "9": {
+    "dog_body": "left (the puppy is sitting, body oriented toward the left/front—not moving)",
+    "dog_gaze": "looking up at the owner who is positioned left/ahead of the dog (the owner is crouched there and visible from behind/shoulder)",
+    "people": "One person (the owner) is ahead of the dog (in the direction the dog's body points), crouching and facing the dog; no other people present",
+    "implied": "The owner crouches down in front of the puppy and looks at the puppy (the dog narrates that the owner crouched and looked at him).",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "10": {
+    "dog_body": "The puppy's body points left (toward the owner's hand). It is standing still, leaning forward slightly to sniff (not moving/running).",
+    "dog_gaze": "The puppy's eyes are looking left at the owner's open palm/fingers; the owner's hand is placed on the floor immediately left of the dog.",
+    "people": "One person (the owner) is ahead of the dog (to the left, the direction the dog's body points), facing the dog with an arm extended and palm up on the floor.",
+    "implied": "The owner's open hand rests gently on the floor near the puppy, palm up; the puppy sniffs the fingers (ears relaxed); the dog is addressing the owner.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "11": {
+    "dog_body": "The dog's body points toward the viewer (forward toward the front of the image); it is standing still, being placed onto the tray (no forward movement).",
+    "dog_gaze": "The dog's eyes look toward the viewer/camera; it is not looking at the owner (the owner is located slightly behind-left of the dog).",
+    "people": "One person (the owner) is kneeling to the dog's left and slightly behind (i.e., opposite the dog's forward direction), facing the dog and using both hands to place/guide it onto the tray.",
+    "implied": "The owner wiped the floor and showed the puppy where the pet toilet is by placing/pointing the puppy onto the toilet tray/pad near a cloth used for wiping the floor.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "12": {
+    "dog_body": "The puppy's body points toward the left (toward the owner and the tray); it is sitting and not moving.",
+    "dog_gaze": "The puppy's eyes look left/forward toward the tray and the owner; both the tray and the kneeling owner are located in that direction.",
+    "people": "The owner is ahead of the dog's body direction (in front of the dog), kneeling and facing the tray/dog (seen from behind). No other people are present.",
+    "implied": "The owner kneels seen from behind, gently points at the toilet tray while the puppy sits beside it listening attentively; the owner repeatedly teaches the puppy in the same calm voice.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "13": {
+    "dog_body": "The dog's body points toward the viewer (forward) and it is standing still on the tray (not moving).",
+    "dog_gaze": "The dog's head is turned back and its eyes look over its shoulder toward the person kneeling behind it; that person (the owner) is located in that direction.",
+    "people": "One person (owner) is kneeling behind the dog — i.e., opposite the direction the dog's body points — facing the dog/viewer.",
+    "implied": "The puppy stands on the toilet tray pad, tail up, and looks back over its shoulder at its owner who is behind it.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "14": {
+    "dog_body": "The dog's body points toward the viewer and is being held/lifted up into the air (not walking).",
+    "dog_gaze": "The dog's eyes look toward the viewer; the owner's hands (and thus the owner) are located in that direction.",
+    "people": "The owner is in front of the dog (in the direction the dog's body points), facing the dog and lifting it up with both hands.",
+    "implied": "The sentence requires that the owner (you) is extremely happy/surprisedly delighted — shown by joyfully lifting the tiny puppy up into the air.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "15": {
+    "dog_body": "Dog's body points toward the viewer (face visible, slightly angled left); curled up and not moving (asleep).",
+    "dog_gaze": "Eyes closed (sleeping), not looking at anything; face is angled slightly toward the owner's torso/hand which is just above/behind the dog.",
+    "people": "One person (the owner) is sitting behind/around the dog relative to the direction the dog's body points (owner is toward the opposite side of where the dog faces). The owner is seated facing the viewer and has a hand resting on the puppy's back.",
+    "implied": "The dog (narrator) is curled up asleep in the owner's lap with the owner nearby and a hand resting on the dog's back, creating a feeling of safety (soft, warm indoor lighting implied).",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "16": {
+    "dog_body": "The dog's body points to the right (toward the window). It is sitting and not moving.",
+    "dog_gaze": "The dog's eyes look to the right/up toward the window. In that direction there is a window and sunlight; no person is present.",
+    "people": "No people are present in the image.",
+    "implied": "The dog (speaker) is addressing its owner and says it will grow up much faster; the illustrated scene should show a puppy sitting in a patch of afternoon sunlight on the floor, calm, looking out the window.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "17": {
+    "dog_body": "The dog's body points toward the viewer (facing forward) and it is sitting; it is not moving.",
+    "dog_gaze": "The dog's eyes are looking forward and slightly to the left toward the owner's hand/finger, which is placed next to the dog on the floor.",
+    "people": "Only the owner's hand is visible; it is located ahead of the dog (in the direction the dog's body points), slightly to the dog's left. No other person or face is shown.",
+    "implied": "The puppy and the owner's hand are side by side on the floor, and the puppy's paw is resting on the owner's finger (the dog — narrator — is asking the owner for time to learn slowly).",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "18": {
+    "dog_body": "Body points toward the viewer; the puppy is sitting and not moving.",
+    "dog_gaze": "Eyes looking straight at the viewer; there is no person shown in that direction (owner implied as the viewer).",
+    "people": "No people visible; the owner is not shown (would be in front of the dog, in the direction its body points).",
+    "implied": "The dog (speaker) should be looking directly at its owner/viewer with an honest/apologetic expression (head slightly tilted) while saying 'I didn't do it on purpose.'",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "19": {
+    "dog_body": "Dog's body points toward the owner (sitting upright in front of them); the dog is sitting and not moving.",
+    "dog_gaze": "The dog's eyes are looking at the owner; the owner is directly in front of the dog (the owner's back is visible to the viewer).",
+    "people": "One person (the owner) is ahead of the dog (in the direction the dog's body points); the owner is sitting on the floor facing the dog (their back toward the viewer).",
+    "implied": "Owner sits on the floor seen from behind, the puppy sits upright in front of them, both facing each other as if in a lesson; the dog (ぼく) addresses the owner (あなた).",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "20": {
+    "dog_body": "points left (head turned slightly left/forward), lying still (sleeping, curled on cushion)",
+    "dog_gaze": "eyes closed (not looking anywhere); head oriented slightly left/forward toward the nearby floor and pet tray",
+    "people": "no people present",
+    "implied": "A question addressed to the owner asking “What was the first thing your child (pet) was able to do?” — does not require any person to appear; mood fits a small sleeping puppy.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  }
+}

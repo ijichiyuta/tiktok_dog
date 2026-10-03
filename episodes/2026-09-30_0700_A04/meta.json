@@ -1,0 +1,16 @@
+{
+  "date": "2026-09-30",
+  "idea": {
+    "id": "A04",
+    "series": "A",
+    "title": "長く、怒らないで",
+    "scene": "いたずらを叱られた夜。部屋のすみで背中を向けていた犬が、本当は謝るタイミングを待っていた",
+    "dog_age": "adult",
+    "household": "solo",
+    "persona": 3
+  },
+  "state": "approved",
+  "video_seconds": 73.71,
+  "bgm_credit": "",
+  "slot": "07:00"
+}

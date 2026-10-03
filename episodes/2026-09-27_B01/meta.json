@@ -1,0 +1,19 @@
+{
+  "date": "2026-09-27",
+  "idea": {
+    "id": "B01",
+    "series": "B",
+    "title": "雨の日の散歩",
+    "scene": "雨で散歩をサボった夜、リードをくわえて玄関で待つ犬。傘をさして外に出る（設計書のサンプル脚本）",
+    "dog_age": "adult",
+    "household": "solo",
+    "persona": 2
+  },
+  "state": "shipped",
+  "video_seconds": 72.0,
+  "bgm_credit": "",
+  "posted": {
+    "tiktok": "2026-09-27"
+  },
+  "slot": "21:00"
+}

@@ -1,0 +1,176 @@
+{
+  "1": {
+    "dog_body": "The dog's body points away from the viewer, sitting facing the corner/wall; it is stationary (sitting).",
+    "dog_gaze": "The dog's head/eyes are directed toward the corner/wall (there is nothing or no person shown in that direction).",
+    "people": "No people are visible in the image (no owner shown ahead or behind the dog).",
+    "implied": "At night, after being scolded, the narrator dog had its back turned to its owner — the dog sits facing the wall/corner with drooping ears and shredded tissue scattered on the floor behind it (owner is the addressee, presence may be implied).",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "2": {
+    "dog_body": "no dog present in the illustration",
+    "dog_gaze": "no dog present in the illustration",
+    "people": "owner visible at the open front door at the right edge of the image, standing on the threshold and facing into the room; no dog present so relative positions to a dog are not applicable",
+    "implied": "The owner returns home through the front door and the room (living room floor) is messy — shredded tissues scattered and an empty tissue box visible.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "3": {
+    "dog_body": "toward the viewer (body angled slightly left); standing with front paws on the tissue box, not moving",
+    "dog_gaze": "looking toward the viewer (face/eyes directed at the viewer); no person visible in that direction",
+    "people": "no people present in the image",
+    "implied": "The dog ( narrator ) pulled all the tissues out of the tissue box — tissues scattered around and the dog is the one who did it",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "4": {
+    "dog_body": "toward the viewer, sitting (not moving)",
+    "dog_gaze": "looking toward the owner; the owner is located in that direction (between the dog and the viewer)",
+    "people": "One person (the owner) is ahead of the dog (in the direction the dog's body points), standing with hands on hips and facing the dog (back to the viewer). No other people present.",
+    "implied": "The owner (あなた) is standing seen from behind with hands on hips, loudly scolding the dog (ぼく) who is small in the corner of a messy room.",
+    "ok": true,
+    "problem": ""
+  },
+  "5": {
+    "dog_body": "body points away from the viewer, facing into the corner; sitting and still",
+    "dog_gaze": "looking toward the corner/wall (eyes not visible); nothing or no person is in that direction",
+    "people": "no people present in the image",
+    "implied": "The dog is in the corner of the room with its back turned (facing the corner), small and still (tail tucked), not facing anyone",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "6": {
+    "dog_body": "The dog's body/torso points to the right (profile view); it is stationary (no movement).",
+    "dog_gaze": "The dog's eyes look to the right/side (sideways); there is only empty space in that direction (no owner or other person visible).",
+    "people": "No people present in the image.",
+    "implied": "Someone (speaker) is saying “Don't sulk” to the dog, so the dog should be sulking/pouting — a close-up profile with averted eyes and drooped ears.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "7": {
+    "dog_body": "Body points to the left; standing (not moving).",
+    "dog_gaze": "Head turned back over its shoulder looking to the right; the dog's eyes are directed at the owner's lower legs/feet located on the right.",
+    "people": "Owner is on the right, which is behind the dog (opposite the dog's body direction); the owner is standing a few steps behind and facing toward the dog (feet angled toward the left).",
+    "implied": "The dog (narrator) turned to look back at its owner, who is standing a few steps behind it in a messy living room with torn tissues on the floor, expressing that it didn't know what to do.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "8": {
+    "dog_body": "points to the right; standing with its head lowered into/over the tissue box (not moving)",
+    "dog_gaze": "eyes looking down/forward at the tissue box and the single floating tissue in front of its nose",
+    "people": "no people present",
+    "implied": "The dog is remembering/presented poking its nose into a tissue box with one tissue floating up — the dog found the box sound a little fun (no owner required in the image).",
+    "ok": true,
+    "problem": ""
+  },
+  "9": {
+    "dog_body": "away from the viewer (facing the corner), sitting (not moving)",
+    "dog_gaze": "looking toward the corner/wall; in that direction the owner is also sitting next to the dog",
+    "people": "the owner is ahead of the dog (in the direction the dog's body points), sitting on the floor beside the dog, facing away from the viewer toward the corner; no other people present",
+    "implied": "The owner sat down beside (next to) the dog (both seen from behind, in the corner)",
+    "ok": true,
+    "problem": ""
+  },
+  "10": {
+    "dog_body": "away from the viewer, sitting still (not moving)",
+    "dog_gaze": "looking forward / away from the viewer toward the front of the room and the lamp (no other person in that direction)",
+    "people": "one person (the owner) is sitting beside the dog, to the dog's left, facing the same direction (away from the viewer); no other people present",
+    "implied": "The dog and the owner are sitting together in the middle of a messy room, silently, seen from behind.",
+    "ok": true,
+    "problem": ""
+  },
+  "11": {
+    "dog_body": "Dog's body points to the right (slightly toward the viewer), standing still (not moving).",
+    "dog_gaze": "Dog is looking left-front toward an owner's palm-up hand placed on the floor (the hand is visible lower-left).",
+    "people": "Owner's hand and forearm are to the left of the dog (which is behind relative to the dog's body orientation); the hand is palm-up on the floor, facing the dog. No other people visible.",
+    "implied": "The owner (you) says “Sorry about earlier” to the dog while offering an inviting palm-up hand on the floor near the dog.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "12": {
+    "dog_body": "The dog's body points away from the viewer (turned toward the upper-left of the image); it is standing still (not moving).",
+    "dog_gaze": "The dog's eyes are looking back/up toward the viewer; there is no owner or other person visible in that direction (just the viewer's perspective).",
+    "people": "No people are present in the scene.",
+    "implied": "The dog has turned around and is looking up at its owner/viewer with an apologetic expression, as if it wanted to apologize first.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "13": {
+    "dog_body": "The dog's body points to the right (lying down, not moving).",
+    "dog_gaze": "The dog is looking toward the viewer/owner and toward the left side of the image where the hand is (the hand is on its back).",
+    "people": "One person (owner) is present as a hand and forearm on the left side of the dog — that is behind the dog relative to the direction its body points; the arm is reaching toward and touching the dog (no face shown).",
+    "implied": "The owner's hand touches/strokes the dog's back.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "14": {
+    "dog_body": "Dog's body points toward the viewer and is sitting/upright in the owner's lap (looks recently climbed up); tail shows wagging motion.",
+    "dog_gaze": "Dog's eyes look toward the viewer/camera (not at the owner); there is no other person in that direction.",
+    "people": "One person (the owner) is seated behind the dog (opposite the dog's body direction), facing away from the viewer and holding the dog in their lap.",
+    "implied": "The dog climbs into the owner's lap, tail wagging, with shredded paper scattered around them.",
+    "ok": true,
+    "problem": ""
+  },
+  "15": {
+    "dog_body": "The dog's body is pointing toward the viewer (slightly turned to its right) and it is standing still.",
+    "dog_gaze": "The dog's eyes look toward the viewer/camera, not directly at the owner; the owner is located to the dog's left.",
+    "people": "One person (the owner) is kneeling to the dog's left and slightly in front, facing downward and using both hands to pick up tissue pieces.",
+    "implied": "The dog and the owner are together picking up torn tissue pieces; the dog is holding a tissue in its mouth proudly (a moment of reconciling after being scolded).",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "16": {
+    "dog_body": "The dog's body is oriented to the right (head to the left, tail to the right), lying curled on the owner's lap and not moving (asleep).",
+    "dog_gaze": "Eyes closed — the dog is sleeping and not looking at anyone.",
+    "people": "The owner is seated behind/above the dog relative to the dog's body direction (i.e., opposite the direction the dog's body points), facing forward toward the viewer, with hands resting on the dog.",
+    "implied": "The dog (narrator) is with its owner, asleep on the owner's lap in lamplight in a peaceful, tidy room; the dog is addressing the owner (ぼく → あなた).",
+    "ok": true,
+    "problem": ""
+  },
+  "17": {
+    "dog_body": "curled up on the bed, body pointing slightly to the right but generally toward the viewer; lying still (not moving)",
+    "dog_gaze": "looking toward the viewer / foreground, one eye peeking out; there is no visible person in that direction (just the viewer's viewpoint)",
+    "people": "no people present in the image (no one ahead or behind the dog)",
+    "implied": "The dog is curled at the foot of the bed at night, peeking at its owner (the viewer) with one eye.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "18": {
+    "dog_body": "Dog's body points toward the viewer (slightly turned to the right), sitting, not moving.",
+    "dog_gaze": "Eyes looking up toward the viewer; there is no person actually shown in that direction (viewer implied).",
+    "people": "No people present in the image.",
+    "implied": "The dog (speaking) asks its owner not to stay angry for long — the dog should be looking up at the owner with big gentle eyes and a tilted head.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "19": {
+    "dog_body": "Points slightly to the right (slightly right-of-center); sitting upright, not moving.",
+    "dog_gaze": "Looking to the right (away from the tissue box); that direction shows empty background (no person or object).",
+    "people": "No people present in the image.",
+    "implied": "The dog (speaker) sits upright next to a tissue box on a low table and is looking away from the tissues to show it will 'resist' them (addressing the owner but owner need not appear).",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "20": {
+    "dog_body": "The dog's body is oriented to the right (away from the owner's side) and it is stationary, lying/leaning on the sofa (not moving).",
+    "dog_gaze": "The dog's head is turned left and its eyes look toward the owner (resting against the owner's shoulder).",
+    "people": "One person (the owner) sits to the left of the dog's body direction (i.e., opposite the direction the dog's body points — 'behind' the dog) and faces away from the viewer toward the window.",
+    "implied": "Owner and dog sitting on a sofa at night seen from behind; the dog is nestled against the owner's side; a tissue box is placed safely on a high shelf.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  }
+}

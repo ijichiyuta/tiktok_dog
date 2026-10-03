@@ -1,0 +1,179 @@
+{
+  "1": {
+    "dog_body": "Points to the right (toward the owner), sitting stationary, pressed up against the owner's side.",
+    "dog_gaze": "Looking up toward the owner's head/face; the owner is located to the right/ahead in that direction (the owner's back faces the viewer).",
+    "people": "One person (the owner) is ahead of the dog (in the direction the dog's body points), sitting on the sofa with their back to the viewer; no other people present.",
+    "implied": "At 11 PM on a sofa the owner speaks to the dog; the dog sits pressed against the owner's side and looks up attentively at the owner's face while the owner is seen from behind, slumped.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "2": {
+    "dog_body": "Dog's body points toward the foreground/sofa (toward the viewer); moving/trotting forward toward the sofa.",
+    "dog_gaze": "Dog's eyes look forward at the person on the sofa; the owner is located in that direction.",
+    "people": "One person (the owner) is ahead of the dog (in the dog's direction of travel), seated on the sofa and facing away from the dog (their back toward the dog/viewer).",
+    "implied": "The owner, seen from behind in a work coat, sinks heavily into the sofa; a bag is dropped on the floor; the dog trots toward the sofa from the hallway.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "3": {
+    "dog_body": "The dog's body points toward the owner (away from the viewer). It is sitting stationary, not moving.",
+    "dog_gaze": "The dog's eyes look up toward the owner; the owner (seated on the sofa) is located in that direction.",
+    "people": "One person (the owner) is ahead of the dog (in the direction the dog's body points), seated on the sofa, facing forward/down toward the dog with hands resting on their knees.",
+    "implied": "The owner is seated on the sofa with hands resting limply on their knees; the dog sits on the floor in front of the owner and looks up at them (matching the narrator-dog addressing the owner).",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "4": {
+    "dog_body": "The dog's body points toward the viewer (slightly toward the right of the picture center) and it is sitting, not moving.",
+    "dog_gaze": "The dog's eyes are looking toward the owner; the owner is located in that direction (in front of the dog, facing the dog).",
+    "people": "The owner is ahead of the dog (in the direction the dog's body points), seated with their back to the viewer and facing the dog, with one hand slightly raised as if speaking. No other people are present.",
+    "implied": "The owner turns toward the dog sitting on the sofa next to them and begins to speak to the dog.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "5": {
+    "dog_body": "Sitting; body faces mostly toward the viewer (slightly angled), not moving.",
+    "dog_gaze": "Eyes and head tilted toward the left side of the image (off-frame left). There is no person or object shown in that direction in the picture.",
+    "people": "No people present in the image.",
+    "implied": "The dog is addressing/listening to its owner who is off-frame to the left — a close-up of the dog's face, head tilted toward the owner.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "6": {
+    "dog_body": "The dog's body faces toward the viewer (frontal), stationary (sitting/standing in place).",
+    "dog_gaze": "The dog's eyes look toward the viewer; its head is tilted to the dog's right (viewer-left). There is no person or object visible in that direction besides the empty background.",
+    "people": "No people present in the image.",
+    "implied": "The sentence requires the dog (narrator) to appear puzzled and not understand words — shown by tilting its head and looking attentive (as if toward its owner).",
+    "ok": true,
+    "problem": ""
+  },
+  "7": {
+    "dog_body": "The dog's body points toward the owner (slightly left-forward in the image) and it is standing still (not moving).",
+    "dog_gaze": "The dog's eyes are looking up and slightly to its left at the owner's head/shoulder; the back of the owner's head and shoulder are actually located in that direction.",
+    "people": "One person (the owner) is ahead of the dog (in the direction the dog's body points). The owner is seen from behind/over the shoulder, facing away from the viewer with their head slightly lowered toward the dog.",
+    "implied": "The dog should be looking up at the owner's lowered head (owner visible only from behind the shoulder) with its ears drooping slightly, conveying that the dog notices the owner's voice is lower than usual.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "8": {
+    "dog_body": "toward the viewer (slightly angled to the dog's right); sitting/stationary, leaning into the person with its side against the sofa",
+    "dog_gaze": "looking toward the viewer and slightly up/left; the owner's torso/leg is immediately to the dog's left (in that direction)",
+    "people": "one person (the owner) is seated to the dog's left (i.e., beside the dog), facing forward/toward the viewer; no other people present",
+    "implied": "The dog presses its whole side up closely against the owner's leg on the sofa, leaning into the owner (the owner is next to the dog)",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "9": {
+    "dog_body": "The dog is lying down with its body pointing to the right (head at the right side); it is stationary (not moving).",
+    "dog_gaze": "The dog's eyes look toward the front/viewer (slightly toward the camera). In that direction there is no visible face; the owner's hand and forearm are visible resting on the dog's back coming from the left side.",
+    "people": "An owner's arm/hand is on the dog's back. Relative to the dog's body direction (right), the owner is behind/left (opposite the direction the dog points) and appears seated facing toward the dog; only the arm/hand and part of the sleeve are visible.",
+    "implied": "The owner's hand is stroking the dog's back while the dog is on the sofa (the dog narrator 'ぼく', the owner 'あなた').",
+    "ok": true,
+    "problem": ""
+  },
+  "10": {
+    "dog_body": "points away from the viewer (toward the front of the room); sitting/stationary (not moving)",
+    "dog_gaze": "looking forward / away from the viewer toward the lamp and the table in front of them (no other person directly in that gaze direction)",
+    "people": "one person (owner) sits to the dog's left on the same sofa, with their back to the viewer and facing the same direction as the dog; the owner has an arm around the dog",
+    "implied": "The dog (narrator) is next to the owner and speaking to them; the owner is seen from behind, sitting beside the dog with an arm around it, in warm lamp light",
+    "ok": true,
+    "problem": ""
+  },
+  "11": {
+    "dog_body": "The dog's body points to the right (toward the owner). The dog is stationary/sitting/curling against the owner; the body is not moving, only the tail is wagging.",
+    "dog_gaze": "The dog's head is turned into the owner's side (to the right); eyes are not visible but the head is directed at the owner.",
+    "people": "One person (the owner) is immediately to the right of the dog — i.e. ahead in the direction the dog's body points — sitting with torso facing the dog.",
+    "implied": "The sentence requires that the narrator-dog sometimes replies to the owner by wagging its tail; the dog should be next to the owner with its tail visibly wagging toward the owner.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "12": {
+    "dog_body": "The dog's body points toward the viewer (slightly angled to the right) and is stationary — being held in the owner's arms.",
+    "dog_gaze": "The dog's eyes look toward the viewer/camera (not at the owner). In that direction there is no person visible (just the viewer's viewpoint).",
+    "people": "One person (the owner) is located behind the dog (opposite the direction the dog's body points). The owner faces the dog; only the back of the owner's head is visible and they are leaning in so their forehead touches the top/side of the dog's head.",
+    "implied": "The dog (narrator) thanks the owner for listening; the owner's forehead is gently touching the top of the dog's head and only the back of the owner's head is visible.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "13": {
+    "dog_body": "The dog's body points toward the owner (slightly to the left from the viewer's perspective); the dog is standing in place (not moving).",
+    "dog_gaze": "The dog's eyes are looking up toward the owner; the owner (a person seen from the back) is located in that direction.",
+    "people": "One person (the owner) is ahead of the dog (in the direction the dog's body points) and is facing the dog, although the owner's face is turned away from the viewer.",
+    "implied": "The owner smiled/laughed and the dog, looking up at the owner with a happy open mouth and tail up, feels happy because of that.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "14": {
+    "dog_body": "The dog is lying down with its body pointing to the right (tail at the right); it is not moving.",
+    "dog_gaze": "Eyes half-closed, looking toward the left at the owner's knee/torso (the owner is located in that direction).",
+    "people": "One person (the owner) is seated to the left of the dog (i.e., opposite the direction the dog's body points) and is facing toward the dog.",
+    "implied": "The dog is lying with its chin on the owner's knee, eyes half closed, listening to the owner.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "15": {
+    "dog_body": "Left vignette: the dog's body points leftward and it is sitting (not moving). Right vignette: the dog's body also points leftward and it is standing (not moving).",
+    "dog_gaze": "Left vignette: the dog's eyes look upward/left toward the owner's hand/face located to the dog's left. Right vignette: the dog's eyes look upward/right toward the owner's hand/face located to the dog's right.",
+    "people": "Left vignette: the owner is located in front/ahead of the dog (in the direction the dog's body points), facing the dog and patting its head at the bedside. Right vignette: the owner is located behind the dog (opposite the dog's body direction), standing at the door on the dog's right side, facing left and patting the dog's head.",
+    "implied": "Two side-by-side vignettes: morning scene where the owner pats the dog at the bedside and the dog greets the owner ('good morning'), and an entrance/returning-home scene where the owner pats the dog at the front door in the evening ('tadaima').",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "16": {
+    "dog_body": "The dog is sitting still; its body is oriented slightly to the right (toward the right side of the image), not moving.",
+    "dog_gaze": "The dog's eyes are looking to the right (toward the empty area of the sofa). In that direction there is only the empty cushion/space on the sofa, no person.",
+    "people": "No people present (the owner is not visible anywhere).",
+    "implied": "The dog is alone on the sofa at night, sitting calmly and looking at the empty spot beside it where the owner would be; a warm lamp lights the scene.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "17": {
+    "dog_body": "Dog's body points away from the viewer (toward the front); the dog is sitting/stationary (tail is wagging).",
+    "dog_gaze": "Dog's head is also turned away from the viewer (facing the same forward direction); eyes not visible — in that direction there is empty space ahead (the owner is seated beside the dog, not directly in front).",
+    "people": "One person (the owner) is to the dog's left relative to the dog's forward direction, sitting and facing away from the viewer; the owner is holding a mug.",
+    "implied": "The owner, seen from behind, sits back down next to the dog holding a mug; the dog wags its tail while addressing the owner.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "18": {
+    "dog_body": "Dog's body points toward the viewer; sitting/stationary (not moving).",
+    "dog_gaze": "Dog's eyes look straight at the viewer; there is no person shown in that direction (blank background).",
+    "people": "No people visible (the owner is not shown anywhere ahead or behind).",
+    "implied": "The dog (ぼく) is addressing its owner (あなた); the owner should be in front of the dog (in the direction the dog is looking) so the dog can ask them to talk to it more.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "19": {
+    "dog_body": "The dog's body is oriented toward the viewer (head facing forward/up); it is curled and lying still on the owner's lap. The tail (at the dog's right/rear) is slightly wagging.",
+    "dog_gaze": "The dog's eyes look up toward the viewer/owner; in that direction the owner's torso and hands are visible (owner's face is off-frame).",
+    "people": "One person (the owner) is ahead of the dog (in the direction the dog's body/face points), sitting on the sofa and facing forward, holding the dog in their lap.",
+    "implied": "The dog is curled on the owner's lap on the sofa, facing the owner and listening attentively with its tail slightly wagging.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "20": {
+    "dog_body": "pointing away from the viewer, lying/resting across the owner's shoulders, not moving",
+    "dog_gaze": "looking back over the owner's shoulder toward the viewer/room (there is no other person in that direction), not looking at the owner",
+    "people": "one person (the owner) is ahead of the dog (in the direction the dog's body points), seated on the sofa and facing away from the viewer",
+    "implied": "The dog and owner are on a sofa at night, seen from behind, with the dog's head resting on the owner's shoulder; the dog (ぼく) is addressing the owner (あなた).",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  }
+}

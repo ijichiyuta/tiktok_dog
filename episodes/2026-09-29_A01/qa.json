@@ -1,0 +1,106 @@
+{
+  "1": {
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "2": {
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "3": {
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "4": {
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "5": {
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "6": {
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "7": {
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "8": {
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "9": {
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "10": {
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "11": {
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "12": {
+    "dog_body": "The dog's body points away from the viewer (toward the top of the image); it appears to be standing or walking forward (away from the viewer).",
+    "dog_gaze": "The dog's eyes are looking back over its shoulder toward the viewer/bottom of the image; that direction shows an empty path (no person behind the dog).",
+    "people": "One person (the owner) is visible a few steps in front of the dog in the direction the dog's body points. The owner faces/ walks away from the dog (seen from behind) and is wearing grey pants and white sneakers.",
+    "implied": "The dog sometimes looks back and sees the owner standing properly behind it (a few steps behind on the path).",
+    "ok": false,
+    "problem": "振り返った先にあなた（飼い主）がいません。",
+    "fix_scene": "On a sunny morning path, the dog's body points forward away from the viewer; the dog looks back over its shoulder toward the direction behind it; the owner is a few steps behind the dog (opposite the dog's travel direction), shown only by legs in grey pants and white sneakers; no umbrella or bag."
+  },
+  "13": {
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "14": {
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "15": {
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "16": {
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "17": {
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "18": {
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "19": {
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "20": {
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  }
+}

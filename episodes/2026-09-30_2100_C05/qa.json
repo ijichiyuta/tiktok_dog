@@ -1,0 +1,180 @@
+{
+  "1": {
+    "dog_body": "Body points toward the viewer; dog is stationary (sitting/standing in place, not moving).",
+    "dog_gaze": "Eyes are looking up/toward the viewer; the viewer/owner is located in that direction (no person actually depicted).",
+    "people": "No people visible in the picture; the owner is implied to be at the viewer position (in front of the dog, the direction the dog faces).",
+    "implied": "One morning the owner notices a white/gray thing on the dog's face — close portrait of a senior dog looking up at the owner/viewer, with white hairs visible around the muzzle and eyebrows, gentle calm eyes (morning light).",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "2": {
+    "dog_body": "The dog's body points toward the viewer (forward) and it is walking forward/toward the viewer.",
+    "dog_gaze": "The dog is looking toward the front/slightly to its right (toward the viewer); in that direction are the person and the food bowl being placed on the floor.",
+    "people": "One person is kneeling ahead/right of the dog (i.e., in the direction the dog is moving), facing the dog and reaching forward to set a food bowl on the floor; they are not walking away.",
+    "implied": "The owner sets a breakfast bowl down on the kitchen floor and the dog walks toward it.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "3": {
+    "dog_body": "The dog's body points toward the viewer (facing forward) and it is standing still, bent over the bowl (eating), not moving.",
+    "dog_gaze": "The dog's eyes are looking down at the bowl directly in front of it (there is no other person or object in that gaze direction besides the bowl/food).",
+    "people": "The owner's legs and slippers are standing close to the bowl, located in front of the dog (in the direction the dog faces); the slippers are oriented toward the dog, implying the owner is facing/watching the dog.",
+    "implied": "The owner (narrator) is watching the dog as the dog brings its face close to the bowl.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "4": {
+    "dog_body": "The dog's body points toward the viewer (facing the front). It appears stationary / sitting (not moving).",
+    "dog_gaze": "The dog's eyes look toward the viewer/camera; there is no person visible in that direction (only the viewer's viewpoint).",
+    "people": "No people are present in the picture.",
+    "implied": "At that moment the fur around the dog's mouth appeared to shine (caught the light) as the dog had lifted its head from the bowl.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "5": {
+    "dog_body": "points toward the viewer; stationary (no visible movement)",
+    "dog_gaze": "eyes looking at the viewer; nothing else visible in that direction (owner/viewer is implied but not shown)",
+    "people": "no people present in the image",
+    "implied": "A close-up of the dog's face showing white hairs mixed into the apricot fur around the mouth/muzzle, indicating that white hairs have increased over time.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "6": {
+    "dog_body": "Dog's face/body points toward the viewer (frontal); not moving (stationary, close-up).",
+    "dog_gaze": "Eyes looking straight at the viewer; nothing (no person or object) visible in that direction.",
+    "people": "No people present in the image.",
+    "implied": "Close-up of an older dog's eyes showing a few scattered white hairs above the eyes (like eyebrows).",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "7": {
+    "dog_body": "The dog's body points toward the viewer (slightly to the right). The dog is sitting and not moving.",
+    "dog_gaze": "The dog's eyes are looking up/back toward the person (owner). The owner is located behind the dog (opposite the direction the dog's body points) and is directly in that gaze direction, with a hand under the dog's chin.",
+    "people": "One person (the owner) is behind the dog (i.e., opposite the direction the dog's body points). The owner is kneeling, facing the dog, seen from behind, and reaching toward the dog's chin.",
+    "implied": "The owner (narrator) is kneeling behind the dog, seen from behind, gently lifting the senior dog's chin with one hand to look at its face (the dog looks back at the owner).",
+    "ok": true,
+    "problem": ""
+  },
+  "8": {
+    "dog_body": "Lying down, body pointing slightly to the right (diagonal), stationary (resting on a cushion).",
+    "dog_gaze": "Looking toward the viewer/camera; there is no person or object visible in that direction (just the viewer/camera).",
+    "people": "No people present in the image.",
+    "implied": "The speaker (owner) says the dog is aging earlier/older than the owner — the dog should appear clearly elderly (visible signs of age: white/gray muzzle/chin/eyebrows, thinner face, tired calm eyes) so the viewer understands the dog is old.",
+    "ok": false,
+    "problem": "犬が十分に年をとっているように見えません。",
+    "fix_scene": "Close-up of a clearly elderly dog lying on a cushion, body pointing slightly to the right with its head turned toward the viewer; show pronounced white/gray hairs on the muzzle, chin and eyebrows, a slightly thinner face and calm, tired eyes so the dog looks visibly aged (no people required)."
+  },
+  "9": {
+    "dog_body": "The dog's body is facing toward the viewer (front-facing, slightly turned) and it is stationary/resting (curled beside the owner's knee).",
+    "dog_gaze": "The dog's eyes are looking up toward the owner/phone; the phone is visible in the owner's hands in front of the dog.",
+    "people": "Only the owner is present; the owner is located in front of the dog (in the direction the dog's body points), seated with hands and a phone on their lap, facing the dog.",
+    "implied": "The owner opened their smartphone and searched for photos of when the dog was a puppy; the owner is holding the phone showing a puppy photo while the older dog rests beside the owner's knee.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "10": {
+    "dog_body": "Body points toward the viewer; the puppy is lying on its back with belly up and paws in the air, not shown in active motion but posed playfully as if rolling.",
+    "dog_gaze": "Eyes looking toward the viewer; nothing/ no person is located in that direction in the picture.",
+    "people": "No people present.",
+    "implied": "A tiny round fluffy puppy tumbling/rolling happily on a rug, with big round eyes.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "11": {
+    "dog_body": "Two separate dogs (left and right vignettes) are curled up in the same pose; both bodies are oriented slightly to the right/toward the viewer and neither is moving (sleeping).",
+    "dog_gaze": "Both dogs have their eyes closed, so they are not looking at anything or anyone (no gaze direction).",
+    "people": "No people are present in the picture.",
+    "implied": "Two side-by-side vignettes: left shows the dog as a young puppy curled and asleep; right shows the same dog as a senior curled in exactly the same pose and orientation with visible signs of aging (graying muzzle, thinner/coarser fur). Both on the same type of pillow/background for direct comparison.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "12": {
+    "dog_body": "The dog's body points to the right (its head turned toward the front); it is standing still (no forward motion).",
+    "dog_gaze": "The dog's eyes are looking up/forward toward the viewer (head slightly tilted up); there is no person visible in that direction (empty space/viewer).",
+    "people": "No people are present in the picture.",
+    "implied": "A senior dog gently wagging its tail while looking up (toward its owner/viewer).",
+    "ok": true,
+    "problem": ""
+  },
+  "13": {
+    "dog_body": "Dog's body points slightly forward-left (toward the owner's side) and it is moving leftward/toward the owner's outstretched hand (trotting toward the owner).",
+    "dog_gaze": "The dog's eyes are looking left toward the owner's hand/person; the owner's outstretched hand and kneeling person are located in that direction.",
+    "people": "One person (the owner) is located ahead of the dog in the dog's direction of travel (to the left); the owner is kneeling/leaning toward the dog and facing the dog with an outstretched hand.",
+    "implied": "The owner calls the dog's name and the dog still trots slowly toward the owner's outstretched hand while wagging its tail.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "14": {
+    "dog_body": "The dog's body points left and it is moving left (walking toward the left).",
+    "dog_gaze": "The dog's eyes/head are turned to the right, looking back toward the owner; the owner's legs are visible in that direction.",
+    "people": "The owner (only legs visible) is located behind the dog (opposite the dog's travel direction), walking left (facing left) and following the dog.",
+    "implied": "On the walk, the dog still looks back at me (the owner).",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "15": {
+    "dog_body": "The dog's body faces toward the viewer (i.e., toward the front of the image) and appears stationary (sitting or standing still), not moving.",
+    "dog_gaze": "The dog's eyes are looking up/toward the hand; a human hand is positioned at the dog's muzzle/front-left in that direction.",
+    "people": "One person (the owner) is in front of the dog (ahead, in the direction the dog's body points). Only the owner's hand and forearm are visible, reaching toward and touching the dog's muzzle and facing the dog.",
+    "implied": "A close-up of the owner gently touching the dog's white whiskers on the senior dog's muzzle, showing the white whiskers as evidence of the time they spent together.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "16": {
+    "dog_body": "The dog is lying on the floor with its body pointing to the right (tail to the right). It is not moving (resting).",
+    "dog_gaze": "Eyes are softly closed (not looking at anyone). In the direction it faces/points there is just the floor/sunlit area—no person or object.",
+    "people": "No people are present in the image.",
+    "implied": "A senior dog resting peacefully in a sunny spot on the floor, eyes softly closed, appearing healthy and content.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "17": {
+    "dog_body": "The dog's body points away from the viewer (facing outward toward the yard) and it is sitting (not moving).",
+    "dog_gaze": "The dog's eyes/gaze are directed forward away from the viewer toward the outside/landscape; there is only the yard/trees ahead (no person there).",
+    "people": "The owner is seated immediately beside the dog, to the dog's left (from the dog's perspective they sit side-by-side), also facing away from the viewer; no other people present.",
+    "implied": "The owner and the senior dog are sitting side by side on the doorstep in the morning, seen from behind.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "18": {
+    "dog_body": "The dog's body points away from the viewer toward the upper-left/along the path (slightly angled), and it is moving slowly forward along the path (sniffing the ground).",
+    "dog_gaze": "The dog's eyes/head are looking down at the fallen leaves immediately in front of its paws (sniffing a leaf); nothing else is in that gaze direction.",
+    "people": "One person (the owner) is visible to the dog's right and slightly behind the dog (relative to the dog's forward direction). The owner is walking in the same general direction along the path (away from the viewer).",
+    "implied": "The owner and the dog are walking slowly together along the dog's favorite tree-lined autumn path; the dog is sniffing fallen leaves and the owner walks beside it.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "19": {
+    "dog_body": "The dog's body points toward the viewer; it is stationary, sitting/being held on the owner's shoulder (not moving).",
+    "dog_gaze": "The dog's eyes look toward the viewer/camera; in that direction there is no person (it is not looking at the owner).",
+    "people": "There is one person (the owner) who is behind the dog (opposite the dog's body direction), facing away from the viewer, seated on the sofa and holding/hugging the dog.",
+    "implied": "The owner hugs the senior dog on the sofa, seen from behind; the dog's white-muzzled face rests on the owner's shoulder.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "20": {
+    "dog_body": "The dog's body points to the right (torso and tail extend to the right) and it is lying/resting (not moving).",
+    "dog_gaze": "The dog is looking up toward the owner's hand/knee; the owner's hand and knee are located to the dog's left-front (in the direction of the dog's gaze).",
+    "people": "One person (the owner) is located to the left/opposite the dog's body direction (i.e., behind relative to the dog's body pointing right), seated with their knee under the dog's chin and their hand reaching to touch the dog's muzzle. No other people are present.",
+    "implied": "The owner notices and gently touches the white hairs on the dog's muzzle while the dog rests its chin on the owner's knee (close-up, warm indoor light).",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  }
+}

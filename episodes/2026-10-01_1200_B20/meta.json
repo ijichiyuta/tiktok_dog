@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-01",
+  "idea": {
+    "id": "B20",
+    "series": "B",
+    "title": "窓辺の留守番",
+    "scene": "見守りカメラに映った昼間の犬。ずっと窓辺で外を見ている。帰り道、少しだけ早足になる",
+    "dog_age": "adult",
+    "household": "solo",
+    "persona": 1
+  },
+  "state": "approved",
+  "video_seconds": 74.16,
+  "bgm_credit": "",
+  "slot": "12:00"
+}

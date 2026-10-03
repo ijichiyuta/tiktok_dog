@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-02",
+  "slot": "07:00",
+  "idea": {
+    "id": "A05",
+    "series": "A",
+    "title": "ぼくに、話しかけて",
+    "scene": "仕事で落ち込んだ夜、ソファで独り言のように愚痴をこぼす飼い主。言葉はわからないけど、声が好きだと犬が語る",
+    "dog_age": "adult",
+    "household": "solo",
+    "persona": 2
+  },
+  "state": "approved"
+}

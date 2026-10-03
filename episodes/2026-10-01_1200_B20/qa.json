@@ -1,0 +1,180 @@
+{
+  "1": {
+    "dog_body": "points to the right (toward the window), sitting on a cushion, stationary (not moving)",
+    "dog_gaze": "looking out the window to the right; facing the street/buildings/trees — no people visible in that direction",
+    "people": "none present",
+    "implied": "At 2:00 PM the monitoring camera captured the dog sitting alone on a cushion by a large living-room window, front paws on the sill, gazing out at the street in soft daylight.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "2": {
+    "dog_body": "No dog is present in the illustration.",
+    "dog_gaze": "No dog is present, so there is no gaze to describe.",
+    "people": "Only the owner's hands are visible, centered on the desk holding a smartphone. The owner appears seated at the desk facing the phone/viewer; no other people are present.",
+    "implied": "The owner (narrator) is at an office desk during a break from work and secretly opened an app on their phone; the phone screen should show only a soft glowing blur.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "3": {
+    "dog_body": "The dog's body is pointing toward the viewer (curled up, not moving; sleeping).",
+    "dog_gaze": "Eyes closed (sleeping), not looking at anything; no person or specific object is being looked at.",
+    "people": "No people present in the scene.",
+    "implied": "The dog was sleeping on its favorite blanket in the morning, curled up on a (blue) blanket on the sofa in an otherwise empty apartment.",
+    "ok": true,
+    "problem": ""
+  },
+  "4": {
+    "dog_body": "Curled up asleep on a blue blanket as seen on the phone screen; body oriented toward the viewer (on the phone), not moving.",
+    "dog_gaze": "Eyes closed (sleeping), not looking at anyone.",
+    "people": "One person (the owner) is in front of the dog relative to the dog's body direction (the owner faces the phone/dog image). The owner is seated at a desk, seen from behind, holding the phone.",
+    "implied": "The owner is at an office desk holding a phone that shows the dog curled up asleep on a blue blanket at home; the dog is not in the office and is staying quietly today (owner's relief).",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "5": {
+    "dog_body": "Body points to the right (toward the window) and the dog is moving right, across the room toward the window.",
+    "dog_gaze": "The dog's eyes/head are turned to the right, looking toward the bright window (no other person visible in that direction).",
+    "people": "No people present in the scene.",
+    "implied": "After noon, the dog moved to the windowside — it walks across the living room toward the window; the blanket it left behind remains on the floor.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "6": {
+    "dog_body": "Away from the viewer, facing the window (slightly to the right); standing with front paws on the windowsill, not moving.",
+    "dog_gaze": "Looking out the window toward the street; its gaze is directed at a distant pedestrian on the sidewalk who is holding an umbrella.",
+    "people": "One person is ahead of the dog (in the direction the dog's body points), on the sidewalk below, walking to the right and carrying an umbrella.",
+    "implied": "The dog is watching people passing outside, following each passerby with its eyes (tracking distant pedestrians one by one).",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "7": {
+    "dog_body": "Body and head pointed to the right (profile view), stationary (no visible movement/direction of travel).",
+    "dog_gaze": "Eyes looking to the right toward the window and outside (trees); no person or visible source of sound in that direction.",
+    "people": "No people present in the picture.",
+    "implied": "Whenever footsteps are heard, the dog's ear twitches/perks up — close-up showing the ear lifting alertly and the dog looking toward the window.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "8": {
+    "dog_body": "The dog's body points left toward the window; it is standing still (not moving).",
+    "dog_gaze": "The dog's eyes look out the window to the left/down the street; in that direction there is only the street and houses — no person is visible.",
+    "people": "No people are present in the image.",
+    "implied": "The dog is looking out the window, searching/expecting the owner's return (the owner is not shown).",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "9": {
+    "dog_body": "no dog present in the illustration",
+    "dog_gaze": "no dog present; not applicable",
+    "people": "No dog present so relative positions to a dog are not applicable. There is one person (the owner) centered in the image, seen from behind, body pointing away from the viewer and walking away toward the city/skyline; he wears a coat and is leaving the lit office building at dusk.",
+    "implied": "The owner finished work and left the company on time; the owner is seen from behind leaving an office building at dusk, coat on, walking briskly.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "10": {
+    "dog_body": "no dog present in the illustration",
+    "dog_gaze": "no dog present in the illustration",
+    "people": "One person centered, seen from behind, walking away from the viewer down the street; they face away from the viewer and are walking forward (appears to have a brisk stride), wearing a dark/charcoal coat and carrying a shoulder bag; no other people visible",
+    "implied": "The owner (narrator) is walking along the road from the station to their home, at a slightly brisk/quick pace.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "11": {
+    "dog_body": "Body points toward the viewer (out the window); sitting (stationary).",
+    "dog_gaze": "Looking straight out toward the viewer/street (out the window); that direction shows no person, just the street/viewer perspective.",
+    "people": "No people present in the image.",
+    "implied": "A person on the street turns the corner at dusk and sees a small shadow/silhouette of the dog sitting in a warmly lit apartment window.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "12": {
+    "dog_body": "toward the viewer; standing in place facing forward; tail held up and wagging rapidly",
+    "dog_gaze": "looking toward the viewer/outside through the glass; no person or object is actually visible in that direction",
+    "people": "no people present in the picture",
+    "implied": "Through the glass (viewer outside looking in), the dog's tail is wagging so violently it seems like it might fly off (very fast wagging); the dog faces the viewer and looks happy",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "13": {
+    "dog_body": "Pointing to the right and moving to the right (exiting the frame); only a blurred tuft/tail at the right edge is visible (rear end leaving).",
+    "dog_gaze": "Head and eyes are not visible (no gaze shown); nothing/ no person is visible in the direction the dog is moving.",
+    "people": "No people visible in the image (the owner is not shown anywhere relative to the dog's travel direction).",
+    "implied": "The dog, upon noticing the owner, immediately disappeared from the windowsill — the windowsill is now empty with the cushion dented and a blur of fur leaving the frame (the dog had looked toward the owner and then left).",
+    "ok": true,
+    "problem": ""
+  },
+  "14": {
+    "dog_body": "Points to the right (toward the door); appears to be bouncing on its front paws (slight upward motion), not walking forward.",
+    "dog_gaze": "Looking up toward the door handle / upper-right; in that direction is a closed entrance door with a handle, no person visible.",
+    "people": "No people visible anywhere (no one shown ahead of or behind the dog).",
+    "implied": "Beyond the front/entrance door, footsteps were waiting — i.e. someone is on the other side of the door (presence of a person/footsteps outside).",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "15": {
+    "dog_body": "Points to the right/toward the person (toward the doorway); moving upward/forward — the dog is jumping up with its front paws on the person's leg.",
+    "dog_gaze": "Looking upward toward the person's torso/face and coat hem; the person's legs/coat are located in that direction.",
+    "people": "One person is ahead of the dog (in the direction the dog's body points), standing in the doorway facing the dog; only legs and coat hem are visible and the person is not walking away.",
+    "implied": "The owner has just returned and opened the door, and before the owner's 'I'm home' voice, the dog jumped up at the owner's legs (owner in a charcoal coat hem and outdoor shoes).",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "16": {
+    "dog_body": "body points to the right (head at left, tail at right); not moving — curled up asleep",
+    "dog_gaze": "eyes closed (not looking); head is slightly turned toward the viewer/left — in that direction are a lamp and a small table by the window",
+    "people": "no people present",
+    "implied": "Evening, the dog is by the window (on a cushion) spending its days waiting there; soft lamplight and a peaceful atmosphere; the dog may be asleep on the cushion by the window",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "17": {
+    "dog_body": "pointing toward the viewer, stationary (being held/sitting), not moving",
+    "dog_gaze": "eyes half-closed, looking forward/toward the owner; the owner's hands are directly in that direction holding the dog's face",
+    "people": "the owner is in front of the dog (in the direction the dog's body points), facing the dog; only the owner's hands/forearms are visible, not walking",
+    "implied": "The owner is gently holding the dog's face and the dog has its eyes half-closed with contentment (the owner = 私, the dog = この子).",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "18": {
+    "dog_body": "away from the viewer (toward the window/street); sitting, not moving",
+    "dog_gaze": "looking toward the window/street; in that direction you can see the street and a distant pedestrian",
+    "people": "owner is to the dog's left/side (i.e., beside the dog in the direction the dog faces), also facing away from the viewer toward the window, crouching and pointing at the street; no one is behind the dog",
+    "implied": "The owner, seen from behind, crouches at the window beside the dog and points toward the street as if promising the dog the time to go home.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "19": {
+    "dog_body": "The dog's body faces toward the viewer (frontal), stationary, leaning with its front paws on the windowsill (not moving).",
+    "dog_gaze": "The dog's eyes look directly toward the viewer/camera; there is no person drawn in that direction (no visible face).",
+    "people": "No people present in the image (no one ahead of or behind the dog's facing direction).",
+    "implied": "The sentence requires that a face is waiting on the other side of the window and the dog at the window (at dusk) is looking toward that face (toward the viewer).",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "20": {
+    "dog_body": "The dog's body points away from the viewer (seen from behind) and it is sitting (not moving).",
+    "dog_gaze": "The dog's eyes/gaze are directed out the window toward the city lights; there is nothing and no person in that direction.",
+    "people": "No people are present in the scene (the owner is absent).",
+    "implied": "Show the dog sitting alone on the sofa by the window at night, seen from behind, looking out at the city lights; the owner must be absent from the scene.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  }
+}

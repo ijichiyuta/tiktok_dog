@@ -1,0 +1,19 @@
+{
+  "date": "2026-09-29",
+  "idea": {
+    "id": "A01",
+    "series": "A",
+    "title": "ぼくの一生は、あなたの少しだけ",
+    "scene": "いつもの散歩道の並木。季節がひとめぐりするたびに、ぼくはあなたより早く年をとる、と犬が語る。季節の具体物は投稿月に合わせる",
+    "dog_age": "adult",
+    "household": "solo",
+    "persona": 8
+  },
+  "state": "shipped",
+  "video_seconds": 73.89,
+  "bgm_credit": "",
+  "posted": {
+    "tiktok": "2026-09-29 12時ごろ"
+  },
+  "slot": "12:00"
+}

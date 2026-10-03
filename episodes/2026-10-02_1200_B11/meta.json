@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-02",
+  "slot": "12:00",
+  "idea": {
+    "id": "B11",
+    "series": "B",
+    "title": "ソファの半分",
+    "scene": "一人暮らしのソファ、いつの間にか半分は犬の場所。狭いのに、そこに座る",
+    "dog_age": "adult",
+    "household": "solo",
+    "persona": 2
+  },
+  "state": "approved"
+}

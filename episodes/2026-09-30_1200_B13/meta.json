@@ -1,0 +1,16 @@
+{
+  "date": "2026-09-30",
+  "idea": {
+    "id": "B13",
+    "series": "B",
+    "title": "スマホばかりの夜",
+    "scene": "スマホを見ている間、そばでおもちゃをくわえて座っていた犬。画面を伏せて一緒に遊ぶ",
+    "dog_age": "adult",
+    "household": "solo",
+    "persona": 2
+  },
+  "state": "approved",
+  "video_seconds": 73.89,
+  "bgm_credit": "",
+  "slot": "12:00"
+}

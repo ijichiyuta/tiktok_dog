@@ -1,0 +1,292 @@
+{
+  "title": "ぼくに、話しかけて",
+  "theme": "ことばはわからなくても、あなたの声が好き",
+  "slides": [
+    {
+      "n": 1,
+      "text": "夜の11時、あなたが\nぼくに話すこと",
+      "act": "hook",
+      "emphasis": false,
+      "scene": "At night on a sofa, the dog sits pressed against the side of the owner (seen from behind, slumped), looking up at the owner's face direction with attentive ears.",
+      "shot": "from behind the sofa, the dog beside the owner looking up at them",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 2,
+      "text": "帰ってきたあなたは、\nソファに沈みこんだ",
+      "act": "daily",
+      "emphasis": false,
+      "scene": "The owner, seen from behind in a work coat, sinks heavily into the sofa; a bag dropped on the floor; the dog trots toward the sofa from the hallway.",
+      "shot": "from behind the sofa",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 3,
+      "text": "ため息がひとつ、\nふたつ",
+      "act": "daily",
+      "emphasis": false,
+      "scene": "The owner's hands rest limply on their knees on the sofa; the dog on the floor in front looks up at them.",
+      "shot": "low angle from the floor, the dog in the foreground facing the owner",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 4,
+      "text": "それから、ぼくに\n話しはじめる",
+      "act": "daily",
+      "emphasis": false,
+      "scene": "The owner, seen from behind, turns toward the dog sitting on the sofa next to them, one hand gesturing slightly as if talking.",
+      "shot": "from behind the owner's shoulder, the dog facing the owner",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 5,
+      "text": "「今日さ、\nうまくいかなかったんだ」",
+      "act": "notice",
+      "emphasis": false,
+      "scene": "Close-up of the dog's face listening, ears perked, head tilted toward the owner who is off-frame to the left.",
+      "shot": "close-up of the dog, looking left",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 6,
+      "text": "ぼくには、\nことばはわからない",
+      "act": "notice",
+      "emphasis": false,
+      "scene": "The dog tilting its head the other way, puzzled but attentive.",
+      "shot": "close-up portrait",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 7,
+      "text": "でも、声がいつもより\n低いのはわかる",
+      "act": "notice",
+      "emphasis": false,
+      "scene": "The dog's ears droop slightly as it looks up at the owner's lowered head (owner seen only from behind the shoulder).",
+      "shot": "over the owner's shoulder toward the dog",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 8,
+      "text": "だから、となりに\nぴったりくっつく",
+      "act": "notice",
+      "emphasis": false,
+      "scene": "The dog presses its whole side against the owner's leg on the sofa, leaning in.",
+      "shot": "close-up of the dog leaning against the owner's leg",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 9,
+      "text": "あなたの手が、\nぼくの背中をなでる",
+      "act": "response",
+      "emphasis": false,
+      "scene": "The owner's hand strokes the dog's back slowly on the sofa.",
+      "shot": "close-up of hand and fur",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 10,
+      "text": "話すたびに、\n声が少しずつ軽くなる",
+      "act": "response",
+      "emphasis": false,
+      "scene": "The owner, seen from behind, sits more upright now, one arm around the dog next to them; warm lamp light.",
+      "shot": "from behind the sofa",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 11,
+      "text": "ぼくは、ときどき\nしっぽで返事をする",
+      "act": "response",
+      "emphasis": false,
+      "scene": "Close-up of the dog's fluffy tail wagging on the sofa cushion next to the owner's knee.",
+      "shot": "close-up of the tail",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 12,
+      "text": "「聞いてくれて、\nありがとう」",
+      "act": "response",
+      "emphasis": false,
+      "scene": "The owner's forehead gently touches the top of the dog's head; only the back of the owner's head and hair visible, no face.",
+      "shot": "close-up from behind the owner's head",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 13,
+      "text": "あなたが笑った。\nそれだけで、ぼくはうれしい",
+      "act": "response",
+      "emphasis": false,
+      "scene": "The dog looks up happily at the owner, mouth open in a smile, tail up.",
+      "shot": "close-up of the dog looking up to the upper left where the owner is",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 14,
+      "text": "ことばはわからないけど、\nあなたの声が好きだ",
+      "act": "response",
+      "emphasis": false,
+      "scene": "The dog lying with its chin on the owner's knee, eyes half closed, listening.",
+      "shot": "close-up of the dog on the knee",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 15,
+      "text": "おはよう、も\nただいま、も、ぜんぶ",
+      "act": "response",
+      "emphasis": false,
+      "scene": "Two small vignettes side by side: the owner's hand patting the dog in morning light at the bedside, and the owner's hand patting the dog at the front door in the evening.",
+      "shot": "two vignettes side by side",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 16,
+      "text": "ぼくがあなたの声を\n聞ける時間は、限られている",
+      "act": "farewell",
+      "emphasis": false,
+      "scene": "The dog sitting alone on the sofa at night, looking at the owner's empty spot beside it for a moment, calm, the lamp warm.",
+      "shot": "medium shot, quiet",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 17,
+      "text": "だから、つまらない話でも\nいいんだ",
+      "act": "farewell",
+      "emphasis": false,
+      "scene": "The owner, seen from behind, sits back down next to the dog holding a mug; the dog wags its tail.",
+      "shot": "from behind the sofa",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 18,
+      "text": "ぼくに、\nもっと話しかけて",
+      "act": "resolve",
+      "emphasis": true,
+      "scene": "Close-up of the dog looking straight at the viewer with gentle, hopeful eyes.",
+      "shot": "close-up portrait",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 19,
+      "text": "ぼくは、ぜんぶ\nしっぽで聞いているから",
+      "act": "resolve",
+      "emphasis": false,
+      "scene": "The dog curled on the owner's lap on the sofa, tail wagging slightly.",
+      "shot": "close-up of lap and dog",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 20,
+      "text": "今日、あなたの子に\nどんな話をしましたか？",
+      "act": "ending",
+      "emphasis": false,
+      "scene": "The owner and the dog on the sofa at night, seen from behind, the dog's head resting on the owner's shoulder.",
+      "shot": "from behind the sofa",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    }
+  ],
+  "caption": "ことばはわからないけど、あなたの声が好き。\n今日、あなたの子にどんな話をしましたか？",
+  "hashtags": [
+    "きみからのお願い",
+    "犬の気持ち",
+    "マルプー",
+    "犬のいる暮らし",
+    "泣ける話"
+  ],
+  "youtube_title": "夜の11時、あなたがぼくに話すこと",
+  "self_review": "落ち込みの理由は描かない。16枚目は時間の限りに触れるだけで別れの語なし。締めは『もっと話しかけて』という前向きなお願い。",
+  "_check": {
+    "errors": [],
+    "warnings": []
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "title": "窓辺の留守番",
+  "theme": "留守番中、この子は窓から私の帰りを探していた",
+  "slides": [
+    {
+      "n": 1,
+      "text": "昼の2時、見守りカメラに\n映っていたもの",
+      "act": "hook",
+      "emphasis": false,
+      "scene": "Afternoon: the dog sits on a cushion by a large living-room window, front paws on the sill, gazing out at the street, alone in the quiet apartment. Soft daylight.",
+      "shot": "centered, the dog seen three-quarters from behind at the window",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 2,
+      "text": "仕事の合間に、\nこっそりアプリを開いた",
+      "act": "daily",
+      "emphasis": false,
+      "scene": "The owner's hands hold a phone at an office desk; the screen shows only a soft glowing blur, no text.",
+      "shot": "close-up of hands and phone over a desk",
+      "dog": false,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 3,
+      "text": "午前中は、\nお気に入りの毛布で寝ていた",
+      "act": "daily",
+      "emphasis": false,
+      "scene": "Morning in the empty apartment: the dog asleep curled on a soft blue blanket on the sofa.",
+      "shot": "medium shot, calm morning light",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 4,
+      "text": "よかった、\n今日もおとなしくしてる",
+      "act": "daily",
+      "emphasis": false,
+      "scene": "At an office desk, the owner seen from behind holds a phone; on the phone screen is a small drawing of the dog curled up asleep on a blue blanket at home. The dog is NOT in the office, only on the phone screen.",
+      "shot": "over the owner's shoulder, the phone screen clearly visible",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 5,
+      "text": "でも昼を過ぎると、\nこの子は窓辺に移った",
+      "act": "notice",
+      "emphasis": false,
+      "scene": "The dog walking across the living room toward the bright window, the empty blanket left behind.",
+      "shot": "wide view of the living room",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 6,
+      "text": "外を通る人を、\nひとりずつ目で追っている",
+      "act": "notice",
+      "emphasis": false,
+      "scene": "The dog at the window watching a distant person with an umbrella-less figure walking on the street below; only tiny faraway figures, no faces.",
+      "shot": "from inside, over the dog's shoulder to the street",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 7,
+      "text": "足音がするたびに、\n耳がぴくっと動く",
+      "act": "notice",
+      "emphasis": false,
+      "scene": "Close-up of the dog's ear lifting alertly, eyes wide, at the window.",
+      "shot": "close-up of the dog's head in profile",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 8,
+      "text": "私の帰りを、\n窓から探しているんだ",
+      "act": "notice",
+      "emphasis": false,
+      "scene": "The dog pressing its nose to the window glass, looking down the street with hopeful eyes; the glass shows no reflections.",
+      "shot": "close-up, the dog in profile against the glass",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 9,
+      "text": "その日は仕事を片づけて、\n定時で会社を出た",
+      "act": "response",
+      "emphasis": false,
+      "scene": "The owner seen from behind leaving an office building at dusk, coat on, walking briskly.",
+      "shot": "wide view from behind",
+      "dog": false,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 10,
+      "text": "駅から家までの道を、\n少しだけ早足で歩く",
+      "act": "response",
+      "emphasis": false,
+      "scene": "A residential street at dusk with warm streetlights; the owner seen from behind walking quickly in a charcoal coat with a black bag.",
+      "shot": "wide view from behind",
+      "dog": false,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 11,
+      "text": "角を曲がると、\n窓に小さな影が見えた",
+      "act": "response",
+      "emphasis": false,
+      "scene": "From the street at dusk: an apartment window glowing warmly with the small silhouette of the dog sitting in it.",
+      "shot": "looking up from the street at the window",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 12,
+      "text": "ガラス越しに、\nしっぽがちぎれそうに揺れている",
+      "act": "response",
+      "emphasis": false,
+      "scene": "Close-up through the window from outside: the dog's whole body wagging, tail a blur, mouth open in a smile.",
+      "shot": "close-up of the dog behind the window glass",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 13,
+      "text": "私に気づいた瞬間、\n窓から姿が消えた",
+      "act": "response",
+      "emphasis": false,
+      "scene": "The empty windowsill with the cushion still dented, the dog already gone, a blur of fur leaving the frame.",
+      "shot": "medium shot of the window from inside",
+      "dog": false,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 14,
+      "text": "玄関のドアの向こうで、\n足音が待ちかまえていた",
+      "act": "response",
+      "emphasis": false,
+      "scene": "Inside the entrance: the dog waits right at the front door, bouncing on its paws, looking up at the door handle.",
+      "shot": "low angle from the entrance floor",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 15,
+      "text": "ただいま、の声より先に、\n飛びついてきた",
+      "act": "response",
+      "emphasis": false,
+      "scene": "The door opens; the dog leaps up at the owner's legs in a charcoal coat hem and outdoor shoes.",
+      "shot": "low angle, owner's legs only",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 16,
+      "text": "この窓辺で待つ日々も、\nいつか思い出になるのかな",
+      "act": "farewell",
+      "emphasis": false,
+      "scene": "Evening: the dog asleep on the cushion by the window, soft lamplight, peaceful.",
+      "shot": "medium shot, warm and calm",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 17,
+      "text": "だったら今を、\nちゃんと覚えておきたい",
+      "act": "farewell",
+      "emphasis": false,
+      "scene": "The owner's hands holding the dog's face gently, the dog's eyes half-closed with contentment.",
+      "shot": "close-up of hands and the dog's face",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 18,
+      "text": "帰る時間を、\nこの子に約束しよう",
+      "act": "resolve",
+      "emphasis": true,
+      "scene": "The owner, seen from behind, crouches at the window beside the dog and points toward the street, as if showing the way home.",
+      "shot": "from behind the owner and the dog at the window",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 19,
+      "text": "窓の向こうで待つ顔に、\n早く会えるように",
+      "act": "resolve",
+      "emphasis": false,
+      "scene": "Close-up of the dog at the window at dusk, eyes bright, looking toward the viewer.",
+      "shot": "close-up portrait at the window",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 20,
+      "text": "あなたの子は、\n留守番中なにをしていますか？",
+      "act": "ending",
+      "emphasis": false,
+      "scene": "Show the dog sitting alone on the sofa by the window at night, seen from behind, looking out at the city lights; the owner must be absent from the scene.",
+      "shot": "from behind the sofa",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    }
+  ],
+  "caption": "窓の向こうで、この子はずっと私の帰りを探していた。\nあなたの子は、留守番中なにをしていますか？",
+  "hashtags": [
+    "ふつうの一日",
+    "犬のいる暮らし",
+    "マルプー",
+    "犬の気持ち",
+    "留守番"
+  ],
+  "youtube_title": "昼の2時、見守りカメラに映っていたもの",
+  "self_review": "留守番させることを責めない。決意は『帰る時間を約束する』という本人の小さな行動。『いつか』は16枚目の1回だけで、思い出になるという穏やかな表現。",
+  "_check": {
+    "errors": [],
+    "warnings": []
+  }
+}

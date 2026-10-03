@@ -1,0 +1,294 @@
+{
+  "title": "理由を言えない夜",
+  "theme": "この子は理由を聞かずに、ただそばにいてくれた",
+  "slides": [
+    {
+      "n": 1,
+      "text": "理由を言えない夜、\nこの子がしたこと",
+      "act": "hook",
+      "emphasis": false,
+      "scene": "At night in a dark living room lit only by the window, the dog stands on its hind legs with front paws on the edge of the sofa, looking up with concern at the viewer.",
+      "shot": "centered, the dog clearly visible, moonlit room",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 2,
+      "text": "その日は、\nうまくいかないことが重なった",
+      "act": "daily",
+      "emphasis": false,
+      "scene": "A rainy evening street; the owner walks home seen from behind, head lowered, charcoal coat and black bag.",
+      "shot": "wide view from behind",
+      "dog": false,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 3,
+      "text": "誰かに話すほどでもない。\nでも、胸が重い",
+      "act": "daily",
+      "emphasis": false,
+      "scene": "The owner's hand resting on the closed front door from inside, the other hand still holding the bag strap.",
+      "shot": "close-up of hand on the door",
+      "dog": false,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 4,
+      "text": "部屋の電気もつけずに、\nソファに座りこんだ",
+      "act": "daily",
+      "emphasis": false,
+      "scene": "The dark living room; the owner sits on the sofa seen from behind, shoulders slumped, only window light.",
+      "shot": "from behind the sofa",
+      "dog": false,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 5,
+      "text": "気づいたら、\n涙がこぼれていた",
+      "act": "daily",
+      "emphasis": false,
+      "scene": "Close-up of the owner's hands clasped on their knees; a single teardrop falls onto the back of one hand.",
+      "shot": "close-up of hands on knees",
+      "dog": false,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 6,
+      "text": "足元で、\n小さな音がした",
+      "act": "notice",
+      "emphasis": false,
+      "scene": "At the owner's feet in the dark, the dog's paws step softly on the rug.",
+      "shot": "low angle at floor level",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 7,
+      "text": "この子が、\nソファに前足をかけていた",
+      "act": "notice",
+      "emphasis": false,
+      "scene": "The dog with its front paws on the sofa cushion, looking up toward the owner with worried eyes.",
+      "shot": "low angle beside the sofa",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 8,
+      "text": "何も聞かずに、\n私の顔をなめた",
+      "act": "notice",
+      "emphasis": false,
+      "scene": "The dog stretches up to lick the owner's cheek; the owner is seen only from behind the shoulder, face hidden by hair and the dog.",
+      "shot": "from behind the owner's shoulder",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 9,
+      "text": "「大丈夫だよ」と言うと、\nそのまま膝にのってきた",
+      "act": "response",
+      "emphasis": false,
+      "scene": "The dog climbs onto the owner's lap on the sofa; only the owner's arms and knees visible.",
+      "shot": "close-up of lap and dog",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 10,
+      "text": "丸くなって、\n動こうとしない",
+      "act": "response",
+      "emphasis": false,
+      "scene": "The dog curled tightly on the owner's lap, eyes open, calm and determined to stay.",
+      "shot": "close-up",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 11,
+      "text": "重たくて、温かくて、\n少しくすぐったい",
+      "act": "response",
+      "emphasis": false,
+      "scene": "The owner's hand resting on the curled dog's back, fingers sinking into the curly fur.",
+      "shot": "extreme close-up of hand and fur",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 12,
+      "text": "この子は、\n理由なんて聞かない",
+      "act": "response",
+      "emphasis": false,
+      "scene": "Close-up of the dog's gentle eyes looking up from the owner's lap.",
+      "shot": "close-up of the dog's face",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 13,
+      "text": "ただ、\nここにいてくれる",
+      "act": "response",
+      "emphasis": false,
+      "scene": "The owner on the dark sofa seen from behind with the dog on their lap; moonlight through the window on both of them.",
+      "shot": "from behind the sofa",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 14,
+      "text": "しばらくして、\n涙が止まっていた",
+      "act": "response",
+      "emphasis": false,
+      "scene": "The owner sits on the dark sofa seen from behind, head turned away, one hand raised to their own cheek holding a tissue; the dog lies on the owner's lap looking up at them.",
+      "shot": "from behind the owner's shoulder",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 15,
+      "text": "電気をつけると、\nこの子は私を見上げた",
+      "act": "response",
+      "emphasis": false,
+      "scene": "Warm lamp light now fills the room; the dog on the lap looks up with bright eyes.",
+      "shot": "close-up, warm light",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 16,
+      "text": "この温かさに、\nあと何回助けられるんだろう",
+      "act": "farewell",
+      "emphasis": false,
+      "scene": "The dog asleep on the owner's lap in the warm lamplight, peaceful.",
+      "shot": "close-up, calm",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 17,
+      "text": "数えきれないくらいが、\nいいな",
+      "act": "farewell",
+      "emphasis": false,
+      "scene": "The owner's hand gently holding the sleeping dog's paw.",
+      "shot": "close-up of hand and paw",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 18,
+      "text": "今度は私が、\nこの子の居場所になろう",
+      "act": "resolve",
+      "emphasis": true,
+      "scene": "The owner wraps a soft blanket around the dog on the sofa, seen from behind, tenderly.",
+      "shot": "from behind the owner",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 19,
+      "text": "明日はこの子と、\nゆっくり散歩に行こう",
+      "act": "resolve",
+      "emphasis": false,
+      "scene": "Morning: the light-blue leash hanging by the door in sunlight, the dog sitting beneath it wagging.",
+      "shot": "low angle in the entrance",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 20,
+      "text": "あなたの子が、\n黙ってそばにいてくれた夜は？",
+      "act": "ending",
+      "emphasis": false,
+      "scene": "The owner and the dog on the sofa at night seen from behind, the dog's head resting against the owner's arm, lamp glowing.",
+      "shot": "from behind the sofa",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    }
+  ],
+  "caption": "この子は理由を聞かない。ただ、そばにいてくれる。\nあなたの子が、黙ってそばにいてくれた夜のことを教えてください。",
+  "hashtags": [
+    "ふつうの一日",
+    "犬のいる暮らし",
+    "マルプー",
+    "犬の気持ち",
+    "泣ける話"
+  ],
+  "youtube_title": "理由を言えない夜、この子がしたこと",
+  "self_review": "落ち込みの理由は描かず、重くしすぎない。涙の描写は手元のみで顔は描かない。16枚目は『あと何回』のみで別れの語なし。締めは翌朝の散歩という回復の行動。",
+  "_check": {
+    "errors": [],
+    "warnings": []
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "1": {
+    "dog_body": "The dog's body points slightly to the left (not directly toward or away from the viewer). It is standing on its hind legs with front paws on the sofa edge and not moving (upright, stationary).",
+    "dog_gaze": "The dog's eyes/head are turned upward toward the viewer/camera; nothing (no person) is shown in that direction in the picture (the viewer is implied).",
+    "people": "No people are present in the image (no owner visible).",
+    "implied": "At night in a dark living room lit only by the window, the dog stands on its hind legs with its front paws on the edge of the sofa, looking up with concern at the viewer (the owner).",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "2": {
+    "dog_body": "no dog present",
+    "dog_gaze": "no dog present",
+    "people": "One person is present; they are walking away from the viewer (their body points away from the viewer) down the rainy street, facing/heading forward (back toward us), head slightly lowered, wearing a dark coat and carrying a dark bag.",
+    "implied": "The sentence states that that day a series of things went wrong — it requires a melancholic/unlucky mood for the day, not any specific people or objects.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "3": {
+    "dog_body": "no dog present",
+    "dog_gaze": "no dog present",
+    "people": "One person (the owner) with their body pointing away from the viewer toward the closed front door; they face the door with their right hand resting on it and their left hand holding a bag strap over the shoulder. No other people are clearly present.",
+    "implied": "The owner's hand is resting on the closed front door from inside, and the owner's other hand is still holding the bag strap (conveying a heavy-hearted, private feeling).",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "4": {
+    "dog_body": "no dog present",
+    "dog_gaze": "no dog present",
+    "people": "no dog to reference; one person (the owner) sits on the sofa seen from behind, facing the window with shoulders slumped; no other people",
+    "implied": "The narrator (owner) sat down/slumped on the sofa in a dark room without turning on the lights, seen from behind with only window light",
+    "ok": true,
+    "problem": ""
+  },
+  "5": {
+    "dog_body": "no dog present",
+    "dog_gaze": "no dog present",
+    "people": "no dog so relation N/A; one person (the owner) is shown seated with hands clasped on their knees, facing forward/stationary",
+    "implied": "Close-up of the owner's hands clasped on their knees, with a single teardrop falling onto the back of one hand (the narrator/owner is the one crying).",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "6": {
+    "dog_body": "points right/toward the owner's legs; appears to be moving right/forward toward the owner",
+    "dog_gaze": "looking up and to the right at the owner's legs/feet (the person) — the owner is located in that direction",
+    "people": "one person (only lower legs/feet visible) is ahead of the dog (in the direction the dog is facing); the person is facing forward/standing (appears to be taking a step)",
+    "implied": "A small sound at the owner's feet caused by the dog's soft pawsteps on the rug (dog close to the owner's feet)",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "7": {
+    "dog_body": "Body points to the right (toward the owner). The dog is standing with hind legs on the floor and front paws on the sofa cushion, not moving.",
+    "dog_gaze": "Eyes looking up and to the right toward the owner; the owner is visible standing/leaning by the sofa in that direction.",
+    "people": "One person (the owner) is ahead of the dog (to the right, in the direction the dog's body points) and is facing/leaning toward the dog.",
+    "implied": "The dog has its front paws on the sofa cushion and is looking up toward the owner.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "8": {
+    "dog_body": "away from the viewer, body oriented toward the owner (stretching up toward the owner's head)",
+    "dog_gaze": "eyes looking at the owner's face/cheek; the owner's head is directly in that direction",
+    "people": "the owner is ahead of the dog (in the direction the dog's body points), facing away from the viewer with their face mostly hidden by hair and the dog",
+    "implied": "The dog, without being asked, stretches up and licks the owner's face; the owner is present and seen from behind/shoulder so the dog's lick lands on their cheek/face.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "9": {
+    "dog_body": "The dog's body points toward the viewer (slightly to the right) and it is sitting/stationary on the lap (no forward movement).",
+    "dog_gaze": "The dog's eyes look toward the viewer/camera; nothing (no person) is located in that direction in the image.",
+    "people": "The owner is behind the dog (opposite the dog's body direction), with only arms and knees visible; the owner faces forward toward the viewer.",
+    "implied": "After the owner says “It's okay,” the dog climbs onto the owner's lap on the sofa; only the owner's arms and knees are visible.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "10": {
+    "dog_body": "Curled into a tight ball on the owner's lap; head/face turned toward the viewer (body pointing toward the viewer); not moving (stationary).",
+    "dog_gaze": "Looking forward/toward the viewer and the owner's upper body/hands (owner's hands are visible around the dog).",
+    "people": "The owner is behind the dog relative to the dog's body direction (sitting with the dog on their lap), facing forward; hands are holding/supporting the dog, not walking.",
+    "implied": "The dog is curled up on the owner's lap and refuses to move, eyes open and calm/determined to stay.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "11": {
+    "dog_body": "Away from the viewer (angled slightly to the right), stationary — sitting/curled up.",
+    "dog_gaze": "Looking away from the viewer in same direction as its body (head turned away); no person or object visible in that direction.",
+    "people": "One person (the owner) is behind the dog (opposite the dog's body direction). Only the owner's hand is visible, resting on the dog's back — owner is effectively facing/touching the dog from behind.",
+    "implied": "The owner’s hand is resting on the curled dog’s back with fingers sinking into the curly fur, giving a sensation of being heavy, warm, and slightly ticklish.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "12": {
+    "dog_body": "points toward the viewer; sitting/resting (not moving), positioned on or between the owner's knees",
+    "dog_gaze": "eyes looking up toward the viewer/owner; the owner's knees (blue jeans) are visible in that direction",
+    "people": "the owner is ahead of the dog (in the direction the dog's body points), facing/down toward the dog; no other people present",
+    "implied": "A close-up of the dog's gentle eyes looking up at the owner from the owner's lap, matching the line 'This dog doesn't ask why' (owner narrating)",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "13": {
+    "dog_body": "pointing away from the viewer (facing the window), sitting/stationary on the owner's lap",
+    "dog_gaze": "looking away from the viewer toward the window and moon/night city visible in that direction",
+    "people": "the owner is behind the dog (relative to the dog's forward direction), also facing away from the viewer toward the window; no other people present",
+    "implied": "The owner is seated on a dark sofa seen from behind with the dog on their lap; moonlight through the window falls on both of them (the dog stays there with the owner).",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "14": {
+    "dog_body": "body points left (toward the owner), lying on the owner's lap, not moving",
+    "dog_gaze": "looking up and slightly left at the owner; the owner’s head/face is in that direction",
+    "people": "one person (the owner) is ahead of the dog (in the direction the dog's body points); the owner sits on the sofa facing left/away from the viewer, head turned toward the dog and holding a tissue to their cheek",
+    "implied": "The owner sits on the sofa with a tissue to their cheek and the dog lies on the owner's lap looking up; after a while the owner's tears have stopped.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "15": {
+    "dog_body": "The dog's body faces toward the viewer (slightly angled) and is stationary, sitting on the person's lap.",
+    "dog_gaze": "The dog's eyes are looking up toward the person; the owner is located in that direction (behind the dog relative to its body orientation).",
+    "people": "One person (the owner) is seated behind the dog (opposite the direction the dog's body points) and is turned toward/looking at the dog.",
+    "implied": "When I turned on the light, the dog looked up at me (the owner).",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "16": {
+    "dog_body": "points to the right, lying curled on the owner's lap, not moving (asleep)",
+    "dog_gaze": "eyes closed (not looking at anyone); head turned slightly right/toward the owner's chest (the owner is in that direction)",
+    "people": "one person (the owner) is ahead of the dog (in the direction the dog's body points), seated and facing toward the dog/viewer with a hand resting on the dog",
+    "implied": "The owner (narrator) has the dog asleep on their lap in warm lamplight, a peaceful, comforting scene",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "17": {
+    "dog_body": "The dog's body (head and torso) points toward the left side of the image; it is lying down and not moving (sleeping).",
+    "dog_gaze": "Eyes are closed (not looking at anything); the head is oriented slightly left toward the owner's hand, but there is no active gaze.",
+    "people": "A single person's hand (the owner) is located in front of the dog (i.e., in the direction the dog's body points); the rest of the person is not shown.",
+    "implied": "The owner's hand gently holding the sleeping dog's paw.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "18": {
+    "dog_body": "dog's body points toward the viewer (facing front) and the dog is sitting/stationary (not moving)",
+    "dog_gaze": "dog's eyes look toward the viewer/front; there is no person in that direction (the owner is behind the dog)",
+    "people": "one person (the owner) is behind the dog (opposite to where the dog's body points), facing the dog and wrapping a blanket around it",
+    "implied": "The owner, seen from behind, tenderly wraps a soft blanket around the dog on the sofa — the owner becomes a comforting place for the dog",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "19": {
+    "dog_body": "toward the viewer (slightly turned to its right); sitting (stationary) with tail wagging (small movement)",
+    "dog_gaze": "looking toward the viewer/front (slightly upward); nothing else (no person) is visible in that direction",
+    "people": "no people present in the picture",
+    "implied": "The owner (speaker) will go for a slow walk with the dog tomorrow — the scene should show the dog and the leash by the door in morning sunlight, ready to go.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "20": {
+    "dog_body": "Pointing away from the viewer (seen from behind); the dog is leaning/lying on the sofa, not moving.",
+    "dog_gaze": "Facing/looking away from the viewer toward the front of the room; its head is resting against the owner's shoulder/arm (no other person in that direction, only the lamp and room).",
+    "people": "The owner is ahead of the dog (in the direction the dog's body points), seated on the sofa and facing away from the viewer; no other people present.",
+    "implied": "Owner and dog sitting together on a sofa at night, seen from behind; the dog quietly stays close with its head resting against the owner's arm/shoulder, and a lamp glows nearby.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  }
+}

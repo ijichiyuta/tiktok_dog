@@ -1,0 +1,284 @@
+{
+  "title": "ぼくが朝、起こす理由",
+  "theme": "犬の1年は人の何年分にもなる。だから毎朝の散歩を急かしてしまう",
+  "slides": [
+    {
+      "n": 1,
+      "text": "ぼくが毎朝、\nあなたを起こす理由",
+      "act": "hook",
+      "emphasis": false,
+      "scene": "Early morning: the dog stands on its hind legs at the bedside, front paws on the duvet, looking eagerly at the viewer; soft dawn light.",
+      "shot": "centered, the dog clearly in view, a sleeping shape under the duvet",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 2,
+      "text": "あなたは朝、\nいつも少しだけ眠そう",
+      "act": "daily",
+      "emphasis": false,
+      "scene": "A cozy bed in morning light, the owner a lump under a duvet with only messy dark hair on the pillow visible from behind.",
+      "shot": "from the foot of the bed",
+      "dog": false,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 3,
+      "text": "「あと5分」と言って、\n布団にもぐる",
+      "act": "daily",
+      "emphasis": false,
+      "scene": "The owner's hand pulls the duvet over their head; the dog sits on the bed watching patiently.",
+      "shot": "from the side of the bed",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 4,
+      "text": "でもぼくは、待ちきれなくて\n鼻でつつくんだ",
+      "act": "daily",
+      "emphasis": false,
+      "scene": "The dog nudges the duvet-covered shoulder with its nose, tail up.",
+      "shot": "close-up of the dog's nose against the duvet",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 5,
+      "text": "知ってる？ぼくの1年は、\nあなたの何年分もあるんだ",
+      "act": "notice",
+      "emphasis": false,
+      "scene": "The dog sits by the bedroom window at sunrise, looking back at the viewer with gentle wise eyes.",
+      "shot": "medium shot, sunrise light",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 6,
+      "text": "だから今朝の散歩道も、\nぼくにはとても大事",
+      "act": "notice",
+      "emphasis": false,
+      "scene": "The dog waits by the door holding its light-blue leash in its mouth, tail wagging.",
+      "shot": "low angle in the entrance",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 7,
+      "text": "金木犀のにおいが、\nしてきたでしょう？",
+      "act": "notice",
+      "emphasis": false,
+      "scene": "A quiet residential walking path lined with blooming osmanthus trees with tiny orange flowers; the dog lifts its nose to sniff the air.",
+      "shot": "wide view of the path, the dog small in the frame",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 8,
+      "text": "ぼくはもう、\nこの季節を3回知っている",
+      "act": "notice",
+      "emphasis": false,
+      "scene": "Three small vignettes on one page: the dog as a tiny puppy, a young dog, and now, each sniffing orange osmanthus flowers.",
+      "shot": "three small vignettes side by side",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 9,
+      "text": "あなたは笑って、\nリードを手にとった",
+      "act": "response",
+      "emphasis": false,
+      "scene": "The owner's hand lifts the light-blue leash from its hook; the dog spins happily below.",
+      "shot": "close-up of hand and leash, the dog below",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 10,
+      "text": "いつもより少し遠回りして、\n川ぞいの道を歩いた",
+      "act": "response",
+      "emphasis": false,
+      "scene": "A calm riverside path on a sunny early-autumn morning; the owner, seen from behind in an oatmeal knit sweater and grey pants with empty hands except the leash, walks the dog on a light-blue leash.",
+      "shot": "wide view from behind",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 11,
+      "text": "あなたの歩くはやさに、\nぼくは合わせるのがうまい",
+      "act": "response",
+      "emphasis": false,
+      "scene": "On a sunny morning path, the dog trots right beside the owner's white sneakers, looking up at them. The owner carries nothing but the light-blue leash.",
+      "shot": "low angle at ground level, owner's legs only",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 12,
+      "text": "ときどき振り返ると、\nちゃんとあなたがいる",
+      "act": "response",
+      "emphasis": false,
+      "scene": "On a sunny morning path, the dog looks back over its shoulder; a few steps behind, the owner's legs in grey pants and white sneakers. No umbrella, no bag.",
+      "shot": "from behind the dog, low angle",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 13,
+      "text": "それだけで、\nしっぽが勝手に動くんだ",
+      "act": "response",
+      "emphasis": false,
+      "scene": "Close-up of the dog's fluffy curled tail wagging, fallen osmanthus flowers on the ground.",
+      "shot": "close-up of the tail and ground",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 14,
+      "text": "ぼくの世界は、\nあなたでできている",
+      "act": "response",
+      "emphasis": false,
+      "scene": "The dog sits on the riverside grass looking up adoringly at the owner's hand reaching down to it.",
+      "shot": "close-up of the dog looking up, the hand entering from the top",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 15,
+      "text": "あなたには、\n仕事も友だちもあるけれど",
+      "act": "response",
+      "emphasis": false,
+      "scene": "On the sunny riverside path, the owner in an oatmeal knit sweater stands looking at a phone, seen from behind; the dog sits patiently at their feet. No umbrella, no bag, no coat.",
+      "shot": "from behind at a distance",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 16,
+      "text": "ぼくの一生は、\nあなたの一生の少しだけ",
+      "act": "farewell",
+      "emphasis": false,
+      "scene": "The dog sitting alone on the riverbank watching the gentle flowing water in soft morning light, calm and peaceful.",
+      "shot": "wide, quiet, the dog seen from behind",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 17,
+      "text": "その少しを、\nぜんぶあなたと歩きたい",
+      "act": "farewell",
+      "emphasis": false,
+      "scene": "Sunny morning: the owner's hand holds the light-blue leash, the dog walks alongside; their two shadows side by side on the path. No umbrella, no bag.",
+      "shot": "low angle, shadows on the path",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 18,
+      "text": "明日の朝も、\n玄関で待っているね",
+      "act": "resolve",
+      "emphasis": true,
+      "scene": "The dog lying on the entrance mat with the leash beside it, chin on paws, content and hopeful.",
+      "shot": "low angle in the entrance",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 19,
+      "text": "眠くても、\n少しだけ付き合ってね",
+      "act": "resolve",
+      "emphasis": false,
+      "scene": "The dog curled up at the foot of the bed at night, one eye open looking at the viewer.",
+      "shot": "close-up at the foot of the bed",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 20,
+      "text": "明日の散歩は、\n少しだけ遠回りしてみませんか？",
+      "act": "ending",
+      "emphasis": false,
+      "scene": "The next morning: the owner, seen from behind in an oatmeal knit sweater, opens the front door to golden sunlight; the dog steps out first, tail up. No umbrella, no bag, no coat.",
+      "shot": "from behind the owner at the doorway",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    }
+  ],
+  "caption": "ぼくの一生は、あなたの一生の少しだけ。\n明日の散歩、少しだけ遠回りしてあげてください。",
+  "hashtags": [
+    "きみからのお願い",
+    "犬の気持ち",
+    "マルプー",
+    "犬のいる暮らし",
+    "泣ける話"
+  ],
+  "youtube_title": "ぼくが毎朝、あなたを起こす理由",
+  "self_review": "犬の十戒のテーマ（寿命の短さ）だけを借り、原文は使っていない。死や別れの語はなく、16枚目の『一生の少しだけ』で時間の差を示すだけ。結末は散歩の遠回りという前向きな行動。",
+  "_check": {
+    "errors": [],
+    "warnings": []
+  }
+}

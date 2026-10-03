@@ -1,0 +1,282 @@
+{
+  "title": "白いひげ",
+  "theme": "白い毛は、この子と過ごした時間の証",
+  "slides": [
+    {
+      "n": 1,
+      "text": "ある朝、この子の顔に\n見つけた白いもの",
+      "act": "hook",
+      "emphasis": false,
+      "scene": "Morning light: close portrait of the senior dog looking up at the viewer; white hairs visible around its muzzle and eyebrows, gentle calm eyes.",
+      "shot": "close-up portrait, soft morning window light",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 2,
+      "text": "いつものように、\n朝ごはんを出した",
+      "act": "daily",
+      "emphasis": false,
+      "scene": "The owner's hands set a food bowl down on the kitchen floor; the senior dog walks toward it.",
+      "shot": "low angle at the kitchen floor",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 3,
+      "text": "器に顔を近づけるこの子を、\nなんとなく見ていた",
+      "act": "daily",
+      "emphasis": false,
+      "scene": "The senior dog eating from its bowl; the owner's legs and slippers nearby.",
+      "shot": "low angle at floor level",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 4,
+      "text": "そのとき、\n口のまわりが光って見えた",
+      "act": "notice",
+      "emphasis": false,
+      "scene": "Sunlight catches the white hairs around the senior dog's muzzle as it lifts its head from the bowl.",
+      "shot": "close-up of the muzzle in sunlight",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 5,
+      "text": "白い毛が、\nいつのまにか増えていた",
+      "act": "notice",
+      "emphasis": false,
+      "scene": "Close-up of the senior dog's face: white hairs mixed into the apricot fur around the mouth.",
+      "shot": "extreme close-up",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 6,
+      "text": "眉のあたりにも、\nちらほらと",
+      "act": "notice",
+      "emphasis": false,
+      "scene": "Close-up of the senior dog's eyes with a few white hairs above them like eyebrows.",
+      "shot": "close-up of eyes",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 7,
+      "text": "毎日見ていたのに、\n気づかなかった",
+      "act": "notice",
+      "emphasis": false,
+      "scene": "The owner kneels on the floor seen from behind, gently lifting the senior dog's chin with one hand to look at its face.",
+      "shot": "from behind the owner",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 8,
+      "text": "この子は、\n私より早く年をとっている",
+      "act": "notice",
+      "emphasis": false,
+      "scene": "Close-up of the senior dog resting on a cushion: clearly aged — many white hairs around the muzzle, chin and eyebrows, slightly thinner face, calm tired eyes — but healthy and peaceful.",
+      "shot": "close-up portrait",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 9,
+      "text": "スマホを開いて、\n子犬の頃の写真を探した",
+      "act": "response",
+      "emphasis": false,
+      "scene": "The owner's hands hold a phone showing a drawing of a tiny apricot puppy; the senior dog rests beside the owner's knee.",
+      "shot": "close-up of hands and phone, the dog beside",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 10,
+      "text": "ころころ転がる体、\nまんまるの目",
+      "act": "response",
+      "emphasis": false,
+      "scene": "Memory vignette: the same dog as a tiny round fluffy puppy with floppy ears and big round eyes, tumbling happily on a rug.",
+      "shot": "soft dreamy vignette",
+      "dog": true,
+      "dog_age": "puppy",
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 11,
+      "text": "今の寝顔と並べると、\n同じ子なのに少し違う",
+      "act": "response",
+      "emphasis": false,
+      "scene": "Place two small vignettes side by side. Left: the dog as a young puppy, curled and asleep (small, very youthful features). Right: the same dog as a senior, curled in exactly the same pose and orientation but with visible signs of aging (graying/whitened muzzle, thinner/coarser fur, slight sagging around the eyes). Both should be on the same type of pillow/background so the age-related differences are clearly comparable.",
+      "shot": "two vignettes side by side",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 12,
+      "text": "でも、変わらないものも\nちゃんとある",
+      "act": "response",
+      "emphasis": false,
+      "scene": "The senior dog's tail wagging gently as it looks up.",
+      "shot": "medium shot",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 13,
+      "text": "名前を呼ぶと、\n今もしっぽを振ってくれる",
+      "act": "response",
+      "emphasis": false,
+      "scene": "The senior dog trotting slowly toward the owner's outstretched hand, tail wagging.",
+      "shot": "low angle, the hand entering the frame",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 14,
+      "text": "散歩の途中で、\n今も私を振り返ってくれる",
+      "act": "response",
+      "emphasis": false,
+      "scene": "SIDE VIEW on an autumn path: the senior dog is on the LEFT half of the picture, walking toward the LEFT edge, and turns its head back to the RIGHT to look at the owner; the owner's legs (grey pants, white sneakers) walk a few steps BEHIND the dog on the RIGHT half, following it on a light-blue leash.",
+      "shot": "side view, the dog walking left and looking back right at the owner's legs",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 15,
+      "text": "白いひげは、\nこの子と過ごした時間の証だ",
+      "act": "response",
+      "emphasis": false,
+      "scene": "Close-up of the owner's fingers gently touching the white hairs on the senior dog's muzzle.",
+      "shot": "close-up of fingers and muzzle",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 16,
+      "text": "この先の時間は、\nきっと今より短い",
+      "act": "farewell",
+      "emphasis": false,
+      "scene": "The senior dog resting peacefully in a sunny spot on the floor, eyes softly closed, looking healthy and content.",
+      "shot": "medium shot, warm light",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 17,
+      "text": "だからこそ、\n一日ずつを濃くしたい",
+      "act": "farewell",
+      "emphasis": false,
+      "scene": "The owner and the senior dog sitting side by side on the doorstep in the morning, seen from behind.",
+      "shot": "from behind the two",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 18,
+      "text": "今日は、この子の好きな道を\nゆっくり歩こう",
+      "act": "resolve",
+      "emphasis": true,
+      "scene": "A slow walk on a tree-lined autumn path: the senior dog sniffing fallen leaves, the owner's legs walking slowly beside it.",
+      "shot": "low angle on the path",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 19,
+      "text": "白いひげごと、\nぜんぶ愛おしい",
+      "act": "resolve",
+      "emphasis": false,
+      "scene": "The owner hugs the senior dog on the sofa, seen from behind; the dog's white-muzzled face rests on the owner's shoulder.",
+      "shot": "from behind the owner",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 20,
+      "text": "あなたの子の白い毛に、\n気づいた日はいつですか？",
+      "act": "ending",
+      "emphasis": false,
+      "scene": "Close-up: the owner's fingers gently touch the clearly white hairs on the senior dog's muzzle while the dog rests its chin on the owner's knee in warm evening lamplight.",
+      "shot": "close-up of fingers, white muzzle and knee",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    }
+  ],
+  "caption": "白いひげは、この子と過ごした時間の証。\nあなたの子の白い毛に気づいた日のこと、教えてください。",
+  "hashtags": [
+    "きみとの時間",
+    "シニア犬",
+    "犬のいる暮らし",
+    "マルプー",
+    "犬の気持ち"
+  ],
+  "youtube_title": "ある朝、この子の顔に見つけた白いもの",
+  "self_review": "病気・介護には触れず、年をとることを『時間の証』として肯定的に描く。7枚目『気づかなかった』は自責ではなく発見。16枚目は別れの語を使わない。",
+  "_check": {
+    "errors": [],
+    "warnings": []
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "1": {
+    "dog_body": "The dog's body faces toward the viewer (front-facing) and it is sitting still; one front paw is raised.",
+    "dog_gaze": "The dog's eyes look up toward the viewer; there is no actual person drawn in that direction (viewer implied).",
+    "people": "No people are visible in the picture (no one ahead of or behind the dog).",
+    "implied": "At night, a small puppy sits inside a small wire playpen lined with a soft blanket, looking up at the owner/viewer with big wet eyes and one paw raised.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "2": {
+    "dog_body": "The dog's body faces toward the viewer (toward the front of the image); it is sitting/stationary inside the carrier (not moving).",
+    "dog_gaze": "The dog's eyes look toward the viewer/front of the image, gazing out of the carrier at the empty street/viewer (no other person is in that direction).",
+    "people": "One person (the owner) is behind the dog relative to the dog's body direction (i.e. opposite the direction the dog faces). The owner is seen from behind and is walking away from the viewer (away from where the dog is looking).",
+    "implied": "The owner (narrator) is walking home at dusk seen from behind, carefully carrying the small pet carrier with the dog inside.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "3": {
+    "dog_body": "no dog present",
+    "dog_gaze": "no dog present",
+    "people": "one person (the owner) is leaning over the playpen from the viewer's side, facing into the playpen with both hands inside arranging the blanket",
+    "implied": "The owner assembled the cage and spread a fluffy blanket inside a small playpen in a tidy apartment.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "4": {
+    "dog_body": "The dog's body is pointing toward the viewer; it is lying curled up on the blanket and not moving.",
+    "dog_gaze": "The dog is looking toward the viewer/front. In that direction there is no person—just the front of the playpen and the floor (the owner's slippers are slightly front-left outside the pen).",
+    "people": "No people are visible in the image (the owner is not shown).",
+    "implied": "The owner (narrator) thought the puppy would be fine: the puppy is curled on the blanket inside the playpen with the owner's slippers nearby (lights appear on), so the situation looks safe.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "5": {
+    "dog_body": "body faces toward the viewer; standing on hind legs with front paws resting on the playpen rail; not moving",
+    "dog_gaze": "eyes look toward the viewer/front; there is no person shown in that direction (only the viewer/camera implied)",
+    "people": "no people visible in the scene",
+    "implied": "A dark room at night with a faint night light; when the light is turned off, a voice/whimper comes from inside the cage — the puppy is standing at the playpen bars with its mouth open as if crying.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "6": {
+    "dog_body": "points toward the viewer; stationary (head/upper body pressed against the bars)",
+    "dog_gaze": "looking toward the viewer; there is no person or other object visible in that direction",
+    "people": "no people present",
+    "implied": "Close-up of the puppy's face pressed against the bars, eyes glistening, softly whimpering repeatedly (small, repeated 'kuun kuun' sounds)",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "7": {
+    "dog_body": "toward the viewer (sitting, not moving)",
+    "dog_gaze": "looking toward the viewer/foreground; nothing (no person) in that direction — just the empty room and window",
+    "people": "no people present",
+    "implied": "A single puppy alone in a new room (no mother, no siblings); puppy centered, sitting/curled and looking around or down; room empty and softly lit",
+    "ok": true,
+    "problem": ""
+  },
+  "8": {
+    "dog_body": "toward the viewer; sitting in place (not moving)",
+    "dog_gaze": "looking toward the viewer/front; that direction shows empty room/space (no person visible)",
+    "people": "no people present in the scene",
+    "implied": "The puppy is alone in a playpen in a large, dark room tonight — this is the puppy's first night (no owner nearby)",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "9": {
+    "dog_body": "Body points toward the viewer; the puppy is sitting inside the playpen and is stationary (not moving).",
+    "dog_gaze": "Eyes look toward the owner (who is between the dog and the viewer, dragging the futon toward the playpen).",
+    "people": "One person (the owner) is ahead of the dog (in the direction the dog's body points). The owner is seen from behind, facing/walking toward the playpen and dragging the futon.",
+    "implied": "The owner (narrator) is seen from behind dragging a folded futon across the floor toward the small playpen; the tiny puppy is inside the playpen watching through the bars.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "10": {
+    "dog_body": "The puppy is sitting, body oriented toward the left (toward the owner's hand), not moving.",
+    "dog_gaze": "The puppy is looking directly at the owner's finger, which is inserted between the playpen bars to the left.",
+    "people": "One person (the owner) is outside the playpen on the left side of the puppy, reaching in with a finger between the bars toward the puppy (owner is ahead of the dog in the direction the dog's body points).",
+    "implied": "The owner gently slips a finger through a gap in the playpen bars toward the puppy.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "11": {
+    "dog_body": "Pointing to the right (toward the owner), sitting still (not moving).",
+    "dog_gaze": "Eyes closed; head/face directed to the right toward the owner's outstretched hand/finger (the owner is located to the right).",
+    "people": "One person (the owner) is to the right of the dog — i.e. ahead in the direction the dog faces — sitting/kneeling and facing left toward the dog, with their index finger extended into the dog's mouth.",
+    "implied": "The puppy gently holds the owner's fingertip in its small mouth while closing its eyes.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "12": {
+    "dog_body": "The dog's body points toward the viewer; it is lying down and stationary.",
+    "dog_gaze": "The dog's eyes look toward the viewer (slightly toward the owner's hand). The owner's hand and torso are located to the dog's left/beside it.",
+    "people": "One person (the owner) is beside the dog to the dog's left (not ahead or behind), kneeling/crouching and facing the dog/viewer, with their hand resting on the floor next to the dog.",
+    "implied": "The puppy is lying against the bars and the owner's hand is resting beside it.",
+    "ok": true,
+    "problem": ""
+  },
+  "13": {
+    "dog_body": "The puppy's body is pointing to the right, lying down and stationary (asleep).",
+    "dog_gaze": "Eyes closed (not actively looking); head is oriented leftward toward the fingertip, and the owner's finger is located there, touching the nose.",
+    "people": "Only an owner's hand/finger is present, coming from the left (which is behind the dog relative to its body direction) and reaching toward the puppy's nose; no other people or motion.",
+    "implied": "The puppy is asleep and its small sleeping breath (or nose) touches the owner's fingertip placed near/at the puppy's nose.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "14": {
+    "dog_body": "pointing left, lying curled up (stationary, not moving)",
+    "dog_gaze": "eyes closed (sleeping); head oriented left toward the owner — the owner/futon is located in that direction",
+    "people": "the owner is ahead of the dog (in the direction the dog's body points), lying on a futon on the floor, seen from behind and facing toward the playpen/dog with one arm stretched toward it",
+    "implied": "The sentence requires the owner to have spent the night and greeted morning on the floor — shown as the owner asleep on a floor futon at dawn, seen from behind, reaching toward the puppy who sleeps in a playpen.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "15": {
+    "dog_body": "The dog's body points to the right (slightly angled toward the viewer's right) and it is standing in place; its tail is raised and visibly wagging.",
+    "dog_gaze": "The dog's eyes look up and to the right, directly toward an owner's hand which is present in that direction.",
+    "people": "One person (only an arm/hand visible) is in front of the dog (ahead in the direction the dog's body points), reaching toward the dog; the hand faces the dog as if offering or petting.",
+    "implied": "Morning: the puppy wakes up and wags its tiny tail at the owner's hand.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "16": {
+    "dog_body": "pointing toward the viewer; sitting in place (not moving)",
+    "dog_gaze": "looking toward the viewer/camera; there is no person visible in that direction",
+    "people": "no people present (owner not shown)",
+    "implied": "The owner is reflecting that the small puppy will someday age before them; the scene should show the tiny puppy sitting calmly in a patch of morning sunlight, curious and peaceful (owner presence not required).",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "17": {
+    "dog_body": "The puppy's body points toward the viewer (front-facing) and is sitting/being held (stationary).",
+    "dog_gaze": "The puppy is looking toward the viewer/camera; that direction is just the viewer/empty space (the owner is not in front of the puppy).",
+    "people": "One person (the owner) is located behind the puppy (opposite the direction the puppy's body points) and is facing forward toward the viewer, with their hands cradling the puppy against a knit sweater; no other people present.",
+    "implied": "The owner (narrator) is holding/cradling the puppy against their knit sweater, showing that they welcomed the puppy knowingly.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "18": {
+    "dog_body": "Dog's body points to the left (slightly toward the window) and is not moving — curled/supported in the owner's lap (sleeping).",
+    "dog_gaze": "Eyes closed (sleeping), head resting on the owner's shoulder and facing left toward the window; not looking at any person.",
+    "people": "One person (the owner) is located behind the dog (to the right relative to the dog's body direction), sitting on the futon, seen from behind and facing away from the viewer, holding the dog in their lap.",
+    "implied": "The owner sits on the futon holding the sleepy puppy on their lap, seen from behind, with morning light coming through the window.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "19": {
+    "dog_body": "toward the viewer (facing forward), stationary with front paws on the playpen bars",
+    "dog_gaze": "looking forward at the owner's finger/hand; the finger/hand is directly in front of the dog between it and the viewer",
+    "people": "the owner is in front of the dog (in the direction the dog's body points), facing the dog; only the owner's hand is visible",
+    "implied": "At night, the owner makes a promise to the small puppy whose mouth is gently holding the owner's fingertip through the playpen bars (dark window/night visible behind).",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "20": {
+    "dog_body": "The puppy's body is oriented roughly toward the viewer (slightly angled left), curled up and stationary (sleeping).",
+    "dog_gaze": "Eyes closed (not looking at anyone); there is no person or other figure in the direction of its face.",
+    "people": "No people visible in the image (no one ahead of or behind the dog's body direction).",
+    "implied": "The playpen door is open, the puppy is curled asleep on the owner's futon pillow, warm morning light (owner as narrator need not be shown).",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  }
+}

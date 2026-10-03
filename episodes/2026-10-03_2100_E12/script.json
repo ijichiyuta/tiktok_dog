@@ -1,0 +1,278 @@
+{
+  "title": "うちの子記念日",
+  "theme": "迎えた日と同じ場所で撮る写真に、3年分の時間が写っていた",
+  "slides": [
+    {
+      "n": 1,
+      "text": "3年前と同じ場所で、\n同じ写真を撮った理由",
+      "act": "hook",
+      "emphasis": false,
+      "scene": "The dog sits on a small patterned blanket by a sunny window, looking at the viewer; beside it on the floor lies a printed photo showing the same dog as a tiny puppy in the same spot.",
+      "shot": "centered, the dog and the small photo both visible",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 2,
+      "text": "今日は、この子が\nうちに来た日",
+      "act": "daily",
+      "emphasis": false,
+      "scene": "A calendar-free cozy apartment morning: the dog stretching on the rug in sunlight, a small bouquet on the table.",
+      "shot": "medium shot, bright morning",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 3,
+      "text": "毎年この日だけは、\n少しいいおやつを買う",
+      "act": "daily",
+      "emphasis": false,
+      "scene": "The owner's hands place a small paper bag of dog treats on a kitchen counter tied with a ribbon; the dog sniffs eagerly below.",
+      "shot": "close-up of hands and bag, the dog below",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 4,
+      "text": "それから、ある写真を\nスマホから探し出す",
+      "act": "daily",
+      "emphasis": false,
+      "scene": "The owner sits on the sofa seen from behind scrolling a phone; the screen shows only a soft blur.",
+      "shot": "from behind the sofa",
+      "dog": false,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 5,
+      "text": "3年前の今日、\n窓辺で撮った最初の一枚",
+      "act": "notice",
+      "emphasis": false,
+      "scene": "A small printed photo held in the owner's fingers. The photo shows THIS SAME dog as a tiny caramel-apricot puppy with a light-blue collar, sitting on a patterned blanket by a window, looking bewildered. The dog in the photo must match the attached character exactly.",
+      "shot": "close-up of fingers holding the photo",
+      "dog": true,
+      "dog_age": "puppy",
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 6,
+      "text": "手のひらに乗りそうなくらい、\n小さかった",
+      "act": "notice",
+      "emphasis": false,
+      "scene": "Memory vignette: the tiny puppy sitting in the owner's two cupped hands.",
+      "shot": "close-up of hands and puppy, soft dreamy edges",
+      "dog": true,
+      "dog_age": "puppy",
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 7,
+      "text": "同じ窓辺に、\nこの子を座らせてみる",
+      "act": "notice",
+      "emphasis": false,
+      "scene": "Have the owner kneel at the left side of the window seat and gently place the grown dog's hindquarters down onto the same patterned blanket so the dog is sitting (hind legs folded). The owner's hands should support the dog's sides/under the belly while the dog is seated on the blanket by the window.",
+      "shot": "medium shot at the window",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 8,
+      "text": "毛布の柄も、\n光の入り方も同じ",
+      "act": "notice",
+      "emphasis": false,
+      "scene": "The sunny window corner with the patterned blanket and light falling at the same angle; the dog sitting in it.",
+      "shot": "wide view of the window corner",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 9,
+      "text": "カメラを向けると、\n首をかしげた",
+      "act": "response",
+      "emphasis": false,
+      "scene": "The dog tilts its head toward the viewer on the blanket, ears flopping.",
+      "shot": "close-up at eye level",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 10,
+      "text": "あの日と同じ顔だった",
+      "act": "response",
+      "emphasis": false,
+      "scene": "Split page: on the left the tiny puppy tilting its head, on the right the grown dog tilting its head the same way.",
+      "shot": "two small vignettes side by side",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 11,
+      "text": "でも、体は窓枠いっぱいに\n大きくなっていた",
+      "act": "response",
+      "emphasis": false,
+      "scene": "The grown dog sitting by the window, filling much of the lower window frame, sunlight on its fur.",
+      "shot": "medium shot",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 12,
+      "text": "並べてみると、\n3年分の時間がそこにある",
+      "act": "response",
+      "emphasis": false,
+      "scene": "The owner's hands hold the small puppy photo next to the grown dog's face for comparison.",
+      "shot": "close-up of the photo and the dog's face",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 13,
+      "text": "初めての散歩も、\n初めての雪も",
+      "act": "response",
+      "emphasis": false,
+      "scene": "A row of three small vignettes: the puppy on its first walk with a light-blue leash, the puppy in snow, the dog at a riverside path.",
+      "shot": "three small vignettes side by side",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 14,
+      "text": "ぜんぶ、この窓から\n始まったんだ",
+      "act": "response",
+      "emphasis": false,
+      "scene": "The sunny window with the patterned blanket, empty for a moment, light streaming in.",
+      "shot": "quiet view of the window corner",
+      "dog": false,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 15,
+      "text": "撮り終わると、\nこの子は私の膝にのった",
+      "act": "response",
+      "emphasis": false,
+      "scene": "The owner sits on the floor by the window seen from behind, the dog climbing into their lap.",
+      "shot": "from behind the owner",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 16,
+      "text": "来年も、再来年も、\nこの窓辺で撮りたい",
+      "act": "farewell",
+      "emphasis": false,
+      "scene": "The dog dozing in the sunlight on the blanket, a gentle breeze moving the curtain.",
+      "shot": "medium shot, warm and calm",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 17,
+      "text": "写真が1枚ずつ増えるたびに、\nこの子の時間も進んでいく",
+      "act": "farewell",
+      "emphasis": false,
+      "scene": "A small wooden shelf with three framed pictures, all of THIS SAME caramel-apricot Maltipoo with a light-blue collar sitting by a window: as a tiny puppy, as a young dog, and as it looks now. No other breeds of dog.",
+      "shot": "close-up of the shelf",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 18,
+      "text": "だから今年の一枚を、\nいちばん大事にしよう",
+      "act": "resolve",
+      "emphasis": true,
+      "scene": "The owner's hands place a new framed picture onto the shelf beside two others. All three pictures show THIS SAME caramel-apricot Maltipoo with a light-blue collar at the window, at different ages. No other breeds of dog.",
+      "shot": "close-up of hands and frames",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 19,
+      "text": "3年前の小さなこの子に、\n見せてあげたい",
+      "act": "resolve",
+      "emphasis": false,
+      "scene": "Have the small puppy (the 3-years-ago version) physically present on the blanket, facing the owner. The owner kneels or sits in front of that small puppy and holds up the photo (or the current dog) toward the small puppy so the small puppy is clearly the recipient and looks at the photo; the owner faces the small puppy.",
+      "shot": "close-up of the dog and the photo",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 20,
+      "text": "あなたの子が来た日は、\nいつですか？",
+      "act": "ending",
+      "emphasis": false,
+      "scene": "The owner and the dog sitting together by the window in golden late-afternoon light, seen from behind.",
+      "shot": "from behind, the window glowing",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    }
+  ],
+  "caption": "同じ窓辺、同じポーズ。変わったのは、3年分の大きさだけ。\nあなたの子が家に来た日は、いつですか？",
+  "hashtags": [
+    "季節の絵本",
+    "うちの子記念日",
+    "犬のいる暮らし",
+    "マルプー",
+    "犬の気持ち"
+  ],
+  "youtube_title": "3年前と同じ場所で、同じ写真を撮った理由",
+  "self_review": "別れの語はなし。17枚目で時間が進むことに触れるだけ。記念日の喜びを軸にし、決意も『今年の一枚を大事にする』という前向きな行動。",
+  "_check": {
+    "errors": [],
+    "warnings": []
+  }
+}

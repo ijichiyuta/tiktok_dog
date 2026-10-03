@@ -1,0 +1,68 @@
+# チャンネル全体の設定。アカウント名が決まったら name / handle を埋める（docs/account-names.md）。
+name: "一生分のおかえり｜犬の気持ちの絵本"   # 2026-09-27 確定（TikTok 変更済み）
+handle: "@isshoubun_no_okaeri"   # ユーザー名の変更は30日に1回まで
+timezone: Asia/Tokyo
+post_time: "21:00"
+# 投稿の最後に必ず付けるタグ（キャプションは4〜6個に収める。シリーズタグ＋ここから）
+hashtags_base: [犬のいる暮らし, マルプー, 犬の気持ち, 泣ける話, わんこのいる生活]
+ai_label_note: "#AI作画"   # プロフィールとYouTube説明文に入れる
+
+budget:
+  monthly_jpy: 5000        # 画像＋Claude の合計の上限（本人決定 2026-09-25）
+  episode_jpy: 150         # 1本の上限。超えそうなら止まる
+  usd_jpy: 150
+
+claude:
+  model: claude-opus-5
+  effort: high
+
+image:
+  # nariagari で 2026-09-19 に実測して動いているモデル。料金は research の結果で確定する
+  model: gpt-image-2.5-flare
+  size: 1536x1024          # 3:2。スライドでは横 1000px 程度に縮小して使う
+  quality: medium
+  workers: 2
+
+layout:
+  width: 1080
+  height: 1440              # 3:4。TikTok のフォトモードは 9:16 を上下切って 3:4 枠で見せる（2026-09-28 実機で確認）
+  background: "#F5EFE4"   # 生成画像の紙の色（実測の中央値）に合わせた。設計書は #F2F1EE
+  ink: "#333333"
+  emphasis: "#C0392B"
+  font: assets/fonts/KleeOne-SemiBold.ttf
+  font_size: 60
+  hook_font_size: 66        # 1枚目だけ少し大きく
+  line_spacing: 1.55
+  text_center_y: 330        # 文字ブロックの中心
+  image_width: 1000         # 右下のいいね・コメントのボタンに少し掛かるが、縁はぼかすので目立たない
+  image_top: 480
+  feather: 70               # イラストの縁をぼかして紙になじませる幅(px)
+  paper_grain: 0.06         # 紙の粒子（強いと灰色っぽく見える）
+
+video:
+  width: 1080               # 動画（YouTube ショート）は 9:16。3:4 のスライドを上下に紙の色で余白を足して置く
+  height: 1920
+  fps: 30
+  crossfade: 0.6
+  kenburns: 0.03            # 1枚の間に3%だけゆっくり寄る（0で無効）
+  min_total: 65             # 1分超（再生報酬の条件）を確実に越える
+  first_slide: 3.2
+  last_slide: 5.5
+  base: 2.6                 # 1枚の秒数 = base + per_char × 文字数
+  per_char: 0.09
+  bgm_dir: assets/bgm       # 権利クリアなピアノ曲（YouTube オーディオライブラリ等）を入れる
+  bgm_volume_db: -18
+
+export:
+  # 書き出し先。本人は iCloud を契約していない（容量満杯で同期されない）ので、Mac の中に置いて
+  # 20枚を1つの ZIP にまとめ、チャット（SendUserFile）でスマホに送る
+  dir: "~/.superset/projects/tiktok_dog/export"
+
+youtube:
+  category_id: "15"         # Pets & Animals
+  default_language: ja
+  made_for_kids: false
+  # containsSyntheticMedia は「写実的な」合成の開示用。絵本調のイラストは対象外なので false にし、
+  # 説明文の「#AI作画」で開示する（docs/research-2026-09-25.md §7）
+  synthetic_media: false
+  audited: false            # API の監査が通ったら true（それまでは API で上げても非公開固定）

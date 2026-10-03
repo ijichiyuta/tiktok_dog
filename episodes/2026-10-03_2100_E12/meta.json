@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-03",
+  "idea": {
+    "id": "E12",
+    "series": "E",
+    "title": "うちの子記念日",
+    "scene": "この子が家に来た日の記念日。最初に撮った写真と同じ場所で、同じポーズで撮ろうとする",
+    "dog_age": "adult",
+    "household": "solo",
+    "persona": 8,
+    "months": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ]
+  },
+  "state": "approved",
+  "video_seconds": 72.27,
+  "bgm_credit": "",
+  "slot": "21:00"
+}

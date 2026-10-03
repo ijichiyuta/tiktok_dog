@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-01",
+  "idea": {
+    "id": "C01",
+    "series": "C",
+    "title": "はじめての夜",
+    "scene": "お迎えの夜。ケージの中で鳴き続ける子犬。手をそっと入れると、指をくわえて眠った",
+    "dog_age": "puppy",
+    "household": "solo",
+    "persona": 8
+  },
+  "state": "approved",
+  "video_seconds": 72.72,
+  "bgm_credit": "",
+  "slot": "21:00"
+}

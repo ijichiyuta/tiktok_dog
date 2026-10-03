@@ -1,0 +1,181 @@
+{
+  "1": {
+    "dog_body": "Pointing toward the viewer; sitting in place (not moving).",
+    "dog_gaze": "Looking up toward the viewer/foreground; a phone (screen glow) is visible in that direction.",
+    "people": "No people visible in the scene (no humans ahead or behind the dog).",
+    "implied": "At night in a dim living room the dog sits on the rug and places a small red ball at the viewer's/owner's feet while looking up expectantly; the phone screen glow lights the scene.",
+    "ok": true,
+    "problem": ""
+  },
+  "2": {
+    "dog_body": "no dog visible in the image",
+    "dog_gaze": "no dog present",
+    "people": "No dog to reference (N/A). One person (the owner) is lying on the sofa and is seen from behind, facing away from the viewer and holding a smartphone up while looking at it.",
+    "implied": "After coming home, the owner has been staring at their smartphone the whole time (owner lying on the sofa, seen from behind, continuously looking at the phone).",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "3": {
+    "dog_body": "no dog visible",
+    "dog_gaze": "no dog/no eyes visible",
+    "people": "no dog present so relation N/A; one person’s hands are visible centered and facing the viewer while holding a glowing phone (no full body)",
+    "implied": "The owner is looking at videos and social media on their phone (watch video → check SNS → watch video again); a close-up of the owner's hands holding the phone with the screen showing glowing/abstract content is sufficient",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "4": {
+    "dog_body": "no dog present",
+    "dog_gaze": "no dog present",
+    "people": "no people present",
+    "implied": "A wall clock showing 11 o'clock in a dimly lit living room, with a mug on the table gone cold (indicating two hours have passed).",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "5": {
+    "dog_body": "The dog's body points toward the viewer/owner (facing forward) and it is sitting (stationary).",
+    "dog_gaze": "The dog's eyes look up toward the viewer/owner; the owner's knees and phone are visible in that direction.",
+    "people": "The owner is ahead of the dog (in the direction the dog faces), sitting with knees/phone visible and looking down at the dog; no other people present.",
+    "implied": "The owner suddenly looks down at their feet and the dog is sitting on the rug looking up at them.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "6": {
+    "dog_body": "The dog's body faces toward the viewer (front-facing); it appears stationary (not moving).",
+    "dog_gaze": "The dog's eyes look toward the viewer/camera; there is no person or other object shown in that direction.",
+    "people": "No people present in the image.",
+    "implied": "Close-up of the dog holding its favorite ball in its mouth (dog facing the viewer).",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "7": {
+    "dog_body": "pointing toward the viewer (slightly to the right), lying on the rug (not moving)",
+    "dog_gaze": "looking up/to the dog's right toward a person's lower legs and feet; the person's legs/feet are located in that direction (foreground, right of center)",
+    "people": "one person (the owner) is ahead of the dog (in the direction the dog's body points), showing lower legs/feet and facing away from the dog/viewer",
+    "implied": "The dog had been waiting and was watching the owner (the narrator) so that when the owner looked up from the screen, the dog was looking at them.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "8": {
+    "dog_body": "The dog's body faces toward the viewer, slightly angled to the left; it is standing still (not moving).",
+    "dog_gaze": "The dog's eyes look toward the viewer/camera and slightly downward; the red ball lies on the rug just in front of its front paws in that direction (no person visible).",
+    "people": "No people are visible in the picture.",
+    "implied": "A red ball is placed neatly in front of the dog on the rug, and the dog tilts its head.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "9": {
+    "dog_body": "no dog present",
+    "dog_gaze": "no dog present",
+    "people": "no dog present so relative positions N/A; one person sits on the sofa with their back to the viewer, facing the hallway, arm extended forward as they throw a red ball down the hallway. A smartphone lies face-down on the sofa beside them.",
+    "implied": "The phone is lying face-down on the sofa, and the owner (speaker) throws a red ball down the hallway.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "10": {
+    "dog_body": "The dog's body points toward the viewer and it is moving toward the viewer (running down the hallway).",
+    "dog_gaze": "The dog's eyes are looking toward the viewer/camera; in that direction there is no person—just the open foreground of the hallway. (A small red ball is in front of the dog, slightly to its right, but the dog is not looking directly at it.)",
+    "people": "No people present in the scene.",
+    "implied": "A dog is running down the hallway and the sound of its running (footsteps) echoes through the room.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "11": {
+    "dog_body": "The dog's body points toward the viewer and it is moving toward the viewer (trotting forward).",
+    "dog_gaze": "The dog's eyes look forward toward the viewer; there is no visible person or object in that direction besides empty space (no owner shown).",
+    "people": "No people are visible in the image.",
+    "implied": "The dog happily returns to the owner with the ball in its mouth (trotting back toward the owner, tail high) after each throw.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "12": {
+    "dog_body": "away from the viewer (body points toward the owner), standing and engaged in a tug pose (not moving forward).",
+    "dog_gaze": "looking at the owner; the owner is directly in that direction (sitting on the floor, holding the rope toy).",
+    "people": "owner is ahead of the dog (in the direction the dog's body points), sitting on the floor, seen from behind, facing the dog and holding the rope toy.",
+    "implied": "The owner sits on the floor, seen from behind, playing tug with the dog and a rope toy; warm lamplight.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "13": {
+    "dog_body": "The dog's body points to the right and it is not moving (lying down, sleeping).",
+    "dog_gaze": "Eyes closed (not looking); the head/chin is turned leftward and resting on an open hand — the owner's hand is located immediately to the dog's left.",
+    "people": "One person (the owner) is positioned to the left of the dog (which is opposite the direction the dog's body points, i.e. 'behind' by the given definition) and is facing right toward the dog's face, with their palm under the dog's chin.",
+    "implied": "The dog is asleep with its chin resting on the owner's open palm (on the rug).",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "14": {
+    "dog_body": "Curled up and lying, body oriented slightly left/forward (head turned toward the viewer/left). Not moving (sleeping).",
+    "dog_gaze": "Eyes closed, not looking at anything.",
+    "people": "No people present in the image.",
+    "implied": "A smartphone on the sofa is still notifying/sounding while the dog sleeps in the foreground — the phone should be on the sofa (face-down, softly glowing at its edges and slightly out of focus).",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "15": {
+    "dog_body": "Body points to the left (head at left, tail at right), curled up and stationary (sleeping).",
+    "dog_gaze": "Eyes closed (sleeping), not looking at anyone.",
+    "people": "Owner's hand and forearm enter from upper-left and rest on the dog's back; the owner is located toward the dog's front/left (ahead of the dog) and is not walking.",
+    "implied": "The owner's hand is gently stroking the sleeping dog's back; the dog is sleeping and the owner is present and attending to it.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "16": {
+    "dog_body": "Body oriented to the left (head on the left, tail to the right); lying curled up and not moving (sleeping).",
+    "dog_gaze": "Eyes closed (not looking anywhere).",
+    "people": "No people present.",
+    "implied": "Nighttime; the owner is wondering how many nights remain to play with the dog. The dog should be sleeping peacefully on the rug next to a red ball with moonlight coming through the window.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "17": {
+    "dog_body": "no dog present",
+    "dog_gaze": "no dog present",
+    "people": "no people present",
+    "implied": "The speaker (the owner) is wondering how many times they could have thrown the ball in two hours — the sentence requires the ball to exist (and implies the action of throwing, often toward a dog) but does not require the dog or owner to be visible now.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "18": {
+    "dog_body": "toward the viewer — the dog is sitting (not moving), slightly angled toward the left where the table/owner are",
+    "dog_gaze": "looking forward/toward the viewer (not directly at the owner's hands or the basket); in that direction there is no person in the picture",
+    "people": "one person (owner) is standing to the dog's left (not ahead or behind relative to the dog's body direction), facing the table and placing a phone into the wicker basket",
+    "implied": "The owner puts their phone into a small wicker basket on a side table and makes the first 15 minutes of the night time for the dog; the dog sits beside the table holding a small red ball in its mouth.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "19": {
+    "dog_body": "Dog's body faces toward the viewer (frontal), stationary (not moving).",
+    "dog_gaze": "Dog's eyes look straight at the viewer/camera; nothing else (no person) is shown in that direction in the picture.",
+    "people": "No people present in the image.",
+    "implied": "A close-up of the dog's face looking straight at the viewer, with a red ball in its mouth; the owner (narrator) wants to keep looking at the dog's face.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "20": {
+    "dog_body": "pointing toward the viewer/owner, moving forward toward the viewer/owner",
+    "dog_gaze": "looking at the owner (the person seated in front of it); the owner is located in that direction",
+    "people": "one person (the owner) is ahead of the dog (in the direction the dog's body points); the owner is seated on the floor, seen from behind, arms open and facing the dog",
+    "implied": "The owner (speaker) sits on the floor seen from behind with arms open while the dog runs toward them holding a red ball (the dog's favorite toy) under warm lamplight.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  }
+}

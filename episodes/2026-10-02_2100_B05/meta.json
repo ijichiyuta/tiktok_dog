@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-02",
+  "idea": {
+    "id": "B05",
+    "series": "B",
+    "title": "泣いた夜",
+    "scene": "理由を言えない涙の夜、何も聞かずに顔を舐めにくる。膝の上に乗って動かない",
+    "dog_age": "adult",
+    "household": "solo",
+    "persona": 1
+  },
+  "state": "approved",
+  "video_seconds": 70.65,
+  "bgm_credit": "",
+  "slot": "21:00"
+}

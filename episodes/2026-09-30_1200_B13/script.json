@@ -1,0 +1,280 @@
+{
+  "title": "おもちゃを置いていった夜",
+  "theme": "画面を見ている間も、この子はそばで順番を待っていた",
+  "slides": [
+    {
+      "n": 1,
+      "text": "夜11時、この子が\nボールを置いていった理由",
+      "act": "hook",
+      "emphasis": false,
+      "scene": "At night in a dim living room, the dog sits on the rug and drops a small red ball at the viewer's feet, looking up expectantly; the glow of a phone screen lights the scene.",
+      "shot": "centered, the dog and the ball in clear view",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 2,
+      "text": "帰ってからずっと、\nスマホばかり見ていた",
+      "act": "daily",
+      "emphasis": false,
+      "scene": "The owner lies on the sofa scrolling a phone, seen from behind the sofa; the phone's glow on the ceiling.",
+      "shot": "from behind the sofa",
+      "dog": false,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 3,
+      "text": "動画を見て、SNSを見て、\nまた動画を見る",
+      "act": "daily",
+      "emphasis": false,
+      "scene": "Close-up of the owner's hands holding a glowing phone; the screen shows only soft abstract light, no text.",
+      "shot": "close-up of hands and phone",
+      "dog": false,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 4,
+      "text": "気づけば、\n2時間がたっていた",
+      "act": "daily",
+      "emphasis": false,
+      "scene": "A wall clock showing 11 o'clock above a dim living room, a mug going cold on the table.",
+      "shot": "medium shot of the wall and table",
+      "dog": false,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 5,
+      "text": "ふと足元を見ると、\nこの子が座っていた",
+      "act": "notice",
+      "emphasis": false,
+      "scene": "From the owner's point of view looking down past the phone: the dog sits on the rug looking up.",
+      "shot": "point of view from the sofa, the phone at the bottom edge",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 6,
+      "text": "口には、\nお気に入りのボール",
+      "act": "notice",
+      "emphasis": false,
+      "scene": "Close-up of the dog holding a small red ball in its mouth, eyes hopeful.",
+      "shot": "close-up portrait",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 7,
+      "text": "私が画面から目を上げるのを、\nずっと待っていたらしい",
+      "act": "notice",
+      "emphasis": false,
+      "scene": "The dog lies on the rug beside the sofa with a small RED ball between its front paws, patiently watching the owner's feet.",
+      "shot": "low angle at floor level",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 8,
+      "text": "ボールをそっと置いて、\n首をかしげた",
+      "act": "notice",
+      "emphasis": false,
+      "scene": "The dog tilts its head, the red ball placed neatly in front of it on the rug.",
+      "shot": "close-up at floor level",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 9,
+      "text": "スマホを伏せて、\nボールを投げた",
+      "act": "response",
+      "emphasis": false,
+      "scene": "The phone lies face-down on the sofa; the owner's arm throws the red ball down the hallway.",
+      "shot": "from behind the owner's arm",
+      "dog": false,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 10,
+      "text": "廊下を走っていく音が、\n部屋じゅうに響く",
+      "act": "response",
+      "emphasis": false,
+      "scene": "The dog dashes down the wooden hallway after a small RED ball rolling ahead, ears flying.",
+      "shot": "low angle down the hallway",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 11,
+      "text": "何回投げても、\nうれしそうに持ってくる",
+      "act": "response",
+      "emphasis": false,
+      "scene": "The dog trots back proudly with the red ball in its mouth, tail high.",
+      "shot": "low angle, the dog coming toward the viewer",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 12,
+      "text": "画面の中で探していたのは、\nこういう時間だったのかも",
+      "act": "response",
+      "emphasis": false,
+      "scene": "The owner sits on the floor, seen from behind, playing tug with the dog and a rope toy; warm lamplight.",
+      "shot": "from behind the owner",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 13,
+      "text": "最後は、私の手に\nあごをのせて眠った",
+      "act": "response",
+      "emphasis": false,
+      "scene": "The dog asleep with its chin resting on the owner's open palm on the rug.",
+      "shot": "close-up of hand and sleeping dog",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 14,
+      "text": "スマホの通知は、\nまだ鳴り続けている",
+      "act": "response",
+      "emphasis": false,
+      "scene": "The face-down phone on the sofa softly glowing at its edges, out of focus, while the dog sleeps in the foreground.",
+      "shot": "close-up, the dog sharp and the phone blurred behind",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 15,
+      "text": "でも今は、\nこっちのほうが大事だ",
+      "act": "response",
+      "emphasis": false,
+      "scene": "The owner's hand gently stroking the sleeping dog's back.",
+      "shot": "close-up of hand and fur",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 16,
+      "text": "この子と遊べる夜は、\nあと何回あるんだろう",
+      "act": "farewell",
+      "emphasis": false,
+      "scene": "The dog sleeping peacefully on the rug beside the red ball, moonlight through the window.",
+      "shot": "wide quiet view of the dark room",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 17,
+      "text": "2時間あれば、\n何回ボールを投げられただろう",
+      "act": "farewell",
+      "emphasis": false,
+      "scene": "The red ball resting alone on the rug in a small pool of lamplight.",
+      "shot": "close-up of the ball",
+      "dog": false,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 18,
+      "text": "夜の最初の15分は、\nこの子のための時間にする",
+      "act": "resolve",
+      "emphasis": true,
+      "scene": "The owner's hands place a phone into a small wicker basket on a side table; the dog sits beside it holding a small RED ball in its mouth. No umbrella.",
+      "shot": "close-up of hands, phone and basket, the dog beside",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 19,
+      "text": "画面より、\nこの子の顔を見ていたい",
+      "act": "resolve",
+      "emphasis": false,
+      "scene": "Close-up of the dog's happy face looking straight at the viewer, the red ball in its mouth.",
+      "shot": "close-up portrait",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 20,
+      "text": "あなたの子のお気に入りの\nおもちゃは何ですか？",
+      "act": "ending",
+      "emphasis": false,
+      "scene": "The owner, seen from behind, sits on the floor with arms open as the dog runs in with the red ball; warm lamplight.",
+      "shot": "from behind the owner, low angle",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    }
+  ],
+  "caption": "画面の中で探していたのは、こういう時間だったのかもしれない。\nあなたの子のお気に入りのおもちゃ、教えてください。",
+  "hashtags": [
+    "ふつうの一日",
+    "犬のいる暮らし",
+    "マルプー",
+    "犬の気持ち",
+    "泣ける話"
+  ],
+  "youtube_title": "夜11時、この子がボールを置いていった理由",
+  "self_review": "スマホを見ていた飼い主を責めず、自分で気づいて行動を変える構成。『2時間あれば…』は後悔を煽りすぎないよう、次の決意（最初の15分）へすぐつなげている。別れの語なし。",
+  "_check": {
+    "errors": [],
+    "warnings": []
+  }
+}

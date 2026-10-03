@@ -1,0 +1,19 @@
+{
+  "date": "2026-09-28",
+  "idea": {
+    "id": "B03",
+    "series": "B",
+    "title": "玄関の、あの顔",
+    "scene": "残業で遅くなった日。ドアを開けた瞬間の全身での喜び。待たせてばかりの罪悪感と、それを帳消しにする顔",
+    "dog_age": "adult",
+    "household": "solo",
+    "persona": 1
+  },
+  "state": "shipped",
+  "video_seconds": 75.78,
+  "bgm_credit": "",
+  "posted": {
+    "tiktok": "2026-09-28 11:34（11:36に誰でもへ変更）"
+  },
+  "slot": "12:00"
+}

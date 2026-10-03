@@ -1,0 +1,286 @@
+{
+  "title": "22時の、おかえり",
+  "theme": "待たされた時間を責めず、帰ってきたことだけを全身で喜ぶ",
+  "slides": [
+    {
+      "n": 1,
+      "text": "22時の玄関で、\nこの子が待っていたもの",
+      "act": "hook",
+      "emphasis": false,
+      "scene": "At night, the dog sits upright on the indoor entrance mat facing the closed front door, ears perked, waiting. A single warm lamp is on.",
+      "shot": "centered view from inside the dim hallway, the dog seen from the side",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 2,
+      "text": "今日も残業で、\n帰りは22時を過ぎた",
+      "act": "daily",
+      "emphasis": false,
+      "scene": "A quiet late-night street with streetlights; the owner walks home from behind in a charcoal coat carrying a work bag.",
+      "shot": "wide view from behind the owner",
+      "dog": false,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 3,
+      "text": "電車の窓に映る自分は、\nひどく疲れた顔をしていた",
+      "act": "daily",
+      "emphasis": false,
+      "scene": "Inside a nearly empty late-night train, the owner stands holding a strap, seen only from behind, shoulders slumped; dark window with city lights passing. The window glass shows only blurred city lights.",
+      "shot": "from behind the owner, no face visible anywhere",
+      "dog": false,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 4,
+      "text": "鍵を回す音が、\nやけに大きく響いた",
+      "act": "daily",
+      "emphasis": false,
+      "scene": "Close-up of the owner's hand turning a key in the front door lock from outside, in dim light.",
+      "shot": "close-up of hand and keyhole",
+      "dog": false,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 5,
+      "text": "ドアを開けた瞬間、\n小さな足音が飛んできた",
+      "act": "notice",
+      "emphasis": false,
+      "scene": "The front door opens and the owner steps in from the night, seen only as legs in a charcoal coat hem and black outdoor shoes; the dog leaps toward them from the hallway, ears flying.",
+      "shot": "low angle from the entrance floor, the owner's shoes at the edge of the frame",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 6,
+      "text": "しっぽだけじゃない。\n体ぜんぶで揺れている",
+      "act": "notice",
+      "emphasis": false,
+      "scene": "The dog wiggles its whole body with joy at the owner's feet in the entrance; the owner wears black outdoor shoes and the hem of a charcoal coat is visible; tail a blur.",
+      "shot": "low angle close to the floor, owner's legs only",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 7,
+      "text": "何時間も、ひとりで\n待っていたはずなのに",
+      "act": "notice",
+      "emphasis": false,
+      "scene": "Earlier in the day: the empty quiet apartment in afternoon light, the dog lying alone on a cushion facing the door.",
+      "shot": "wide quiet view of the living room",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 8,
+      "text": "この子の顔には、\n文句ひとつ書いていない",
+      "act": "notice",
+      "emphasis": false,
+      "scene": "Close-up of the dog looking up with bright, completely happy eyes.",
+      "shot": "close-up portrait of the dog looking up",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 9,
+      "text": "「遅くなってごめんね」\nしゃがんで抱きしめた",
+      "act": "response",
+      "emphasis": false,
+      "scene": "The owner, still in the coat, crouches in the entrance and hugs the dog; only the owner's back, arms and coat are visible.",
+      "shot": "from behind the owner's shoulder, the dog's face over the shoulder",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 10,
+      "text": "この子にとって、\n私の帰りは一日のニュースだ",
+      "act": "response",
+      "emphasis": false,
+      "scene": "The dog prances in a circle around the owner's feet in the hallway, bag dropped on the floor.",
+      "shot": "medium shot at floor level",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 11,
+      "text": "帰りが何時になっても、\nこの子の答えは同じだった",
+      "act": "response",
+      "emphasis": false,
+      "scene": "A small collage-like row of three moments drawn on the same page: the dog greeting at the door in morning light, in evening light, and at night, always the same happy face.",
+      "shot": "three small vignettes side by side",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 12,
+      "text": "それはいつも、\n最高の「おかえり」の顔",
+      "act": "response",
+      "emphasis": false,
+      "scene": "Close-up of the dog's beaming face, mouth open, eyes sparkling, ears back with joy.",
+      "shot": "close-up portrait, warm light",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 13,
+      "text": "コートも脱がずに、\n床に座りこんだ",
+      "act": "response",
+      "emphasis": false,
+      "scene": "The owner sits on the hallway floor still in the charcoal coat, legs stretched out, seen from behind; the dog climbs onto the legs.",
+      "shot": "from behind the owner, low angle",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 14,
+      "text": "膝にのったこの子の\n温かさが、じんわり伝わる",
+      "act": "response",
+      "emphasis": false,
+      "scene": "The dog curled on the owner's lap, the owner's hands resting on its back; knit sleeves visible under the coat.",
+      "shot": "close-up of lap, hands and dog",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 15,
+      "text": "疲れていたのは、\nさっきまでの話だった",
+      "act": "response",
+      "emphasis": false,
+      "scene": "The owner and the dog on the floor together, the owner's hand scratching behind the dog's ear, the dog's eyes half-closed with pleasure.",
+      "shot": "close-up of hand and the dog's head",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 16,
+      "text": "この顔に迎えてもらえる日は、\nあと何回あるんだろう",
+      "act": "farewell",
+      "emphasis": false,
+      "scene": "The dog sits by the front door in soft evening light, looking at the door, calm and content.",
+      "shot": "medium shot from the hallway, peaceful",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 17,
+      "text": "数えるより、\n一回ずつ大事にしたい",
+      "act": "farewell",
+      "emphasis": false,
+      "scene": "The owner's hand and the dog's paw touching on the wooden floor of the hallway.",
+      "shot": "close-up of hand and paw",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 18,
+      "text": "だから明日は、\n少しでも早く帰ろう",
+      "act": "resolve",
+      "emphasis": true,
+      "scene": "Morning: the owner at the door putting on shoes, the dog watching; the owner's hand gives a gentle pat. Only hands and legs visible.",
+      "shot": "from the floor, the owner's shoes and hand, the dog in focus",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 19,
+      "text": "この子がくれる一生分の\n「おかえり」に応えるために",
+      "act": "resolve",
+      "emphasis": false,
+      "scene": "The dog sleeping peacefully on the entrance mat with the owner's charcoal coat hanging on the hook above.",
+      "shot": "quiet wide view of the entrance at night",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 20,
+      "text": "今日のあなたの「おかえり」は、\n誰がくれましたか？",
+      "act": "ending",
+      "emphasis": false,
+      "scene": "The owner sits on the sofa at night seen from behind, the dog curled against their side, a warm lamp glowing.",
+      "shot": "from behind the sofa",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    }
+  ],
+  "caption": "何時に帰っても、この子の答えは同じだった。\n今日のあなたの「おかえり」は、誰がくれましたか？",
+  "hashtags": [
+    "ふつうの一日",
+    "犬のいる暮らし",
+    "マルプー",
+    "犬の気持ち",
+    "泣ける話"
+  ],
+  "youtube_title": "22時の玄関で、この子が待っていたもの",
+  "self_review": "留守番を責める表現はない（「待っていたはずなのに」は事実の描写のみ）。別れの語は使わず、16枚目で回数に触れるだけ。決意は『少しでも早く帰ろう』という本人の小さな行動で、説教にしていない。",
+  "_check": {
+    "errors": [],
+    "warnings": []
+  }
+}

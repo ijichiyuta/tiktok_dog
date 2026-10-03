@@ -1,0 +1,278 @@
+{
+  "title": "雨の日の散歩",
+  "theme": "散歩は、この子にとって一日の全部だった",
+  "slides": [
+    {
+      "n": 1,
+      "text": "雨の夜、この子が\n玄関から動かなかった理由",
+      "act": "hook",
+      "emphasis": false,
+      "scene": "Book-cover-like scene INSIDE a small Japanese apartment: the dog sits on the indoor entrance mat (genkan) in front of the closed front door, seen from inside the home, holding a light-blue leash in its mouth and looking back over its shoulder at the viewer with patient, hopeful eyes. Warm indoor lamplight; a closed navy umbrella leans by the door, damp from the rain. Nothing outdoors is visible.",
+      "shot": "centered, the dog clearly visible from head to tail, cozy dim entrance lit by warm lamplight",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 2,
+      "text": "雨だから、散歩はなしにした\n仕事で疲れていたのもある",
+      "act": "daily",
+      "emphasis": false,
+      "scene": "The owner, seen from behind, slumps on a sofa still wearing work clothes, a bag dropped on the floor.",
+      "shot": "medium shot from behind the sofa",
+      "dog": false,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 3,
+      "text": "ソファでスマホを眺めていたら、\n足元に気配がした",
+      "act": "daily",
+      "emphasis": false,
+      "scene": "The owner's hand holds a glowing phone; at the bottom of the frame, a small curly apricot dog quietly appears by their feet.",
+      "shot": "low angle at floor level near the sofa, owner's legs and hand only",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 4,
+      "text": "リードをくわえたこの子が、\nじっと座っていた",
+      "act": "notice",
+      "emphasis": false,
+      "scene": "The dog sits very straight on the floor holding a blue leash in its mouth, looking up hopefully.",
+      "shot": "close-up of the dog at floor level, looking up",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 5,
+      "text": "「ごめん、今日は雨だよ」と言うと",
+      "act": "notice",
+      "emphasis": false,
+      "scene": "The owner's hand gently rests on the dog's head; rain visible through the window behind.",
+      "shot": "close-up of hand and dog's head",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 6,
+      "text": "リードを置いて、\n玄関の前で丸くなった",
+      "act": "notice",
+      "emphasis": false,
+      "scene": "The dog lies curled up on the entrance mat in front of the closed front door, the leash placed beside it.",
+      "shot": "side view of the entrance at floor level",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 7,
+      "text": "怒るでも、鳴くでもなく",
+      "act": "notice",
+      "emphasis": false,
+      "scene": "The dog's back and small body, curled facing the door, ears slightly lowered; soft lamplight.",
+      "shot": "from behind the dog, door in front",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 8,
+      "text": "ただ、ドアが開くのを\n待っていた",
+      "act": "notice",
+      "emphasis": false,
+      "scene": "The dog lifts its head toward the door handle, eyes shining, waiting patiently.",
+      "shot": "close-up of the dog's face looking up at the door",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 9,
+      "text": "この子の一日は、\nあの散歩が一番の楽しみなんだ",
+      "act": "response",
+      "emphasis": false,
+      "scene": "Memory-like soft vignette: the dog trotting happily on a sunny walking path, ears bouncing.",
+      "shot": "wide view of a sunny path, dog in the center",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 10,
+      "text": "私の一日のうちの30分は",
+      "act": "response",
+      "emphasis": false,
+      "scene": "A simple wall clock and the owner's busy desk with papers, and the small dog asleep under the desk.",
+      "shot": "medium shot of a desk corner",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 11,
+      "text": "この子にとっては\n一日の全部だった",
+      "act": "response",
+      "emphasis": false,
+      "scene": "Daytime. The dog sits by the front door, gazing up at the light-blue leash hanging on its hook, waiting patiently while the house is empty and quiet.",
+      "shot": "low angle from the floor, the leash on the hook visible above the dog",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 12,
+      "text": "傘をさして、外に出た",
+      "act": "response",
+      "emphasis": false,
+      "scene": "The owner, seen from behind, opens a navy umbrella at the doorway; the dog bursts out ahead, tail up.",
+      "shot": "from behind at the doorway, rain outside",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 13,
+      "text": "水たまりをよけながら、\nしっぽがずっと揺れている",
+      "act": "response",
+      "emphasis": false,
+      "scene": "Rainy street. The dog walks happily beside the owner's black rain boots, stepping around puddles, tail wagging. Above, the lower edge of an OPEN navy umbrella held over them keeps the rain off; raindrops fall around the umbrella.",
+      "shot": "low angle at street level; only the owner's boots, lower legs and the rim of the open umbrella are visible",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 14,
+      "text": "びしょ濡れで帰って、\nタオルで包んだ",
+      "act": "response",
+      "emphasis": false,
+      "scene": "The owner's hands wrap the soaked dog in a soft cream towel at the entrance.",
+      "shot": "close-up of hands and towel",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 15,
+      "text": "腕の中で、満足そうに目を閉じた",
+      "act": "response",
+      "emphasis": false,
+      "scene": "The dog, wrapped in a towel, rests in the owner's arms with eyes closed, content.",
+      "shot": "close-up, owner's arms and sweater only",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 16,
+      "text": "あと何回、\n一緒に雨の道を歩けるんだろう",
+      "act": "farewell",
+      "emphasis": false,
+      "scene": "At night, the dog sits alone by a large window, quietly looking out at the falling rain and blurred warm streetlights. The glass shows only raindrops, no reflections of any animal or person.",
+      "shot": "medium shot from inside the room, the dog seen three-quarters from behind, calm and peaceful",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 17,
+      "text": "10年なんて、\nきっとあっという間だ",
+      "act": "farewell",
+      "emphasis": false,
+      "scene": "Late at night the dog sleeps curled up on a cushion. On the shelf above it stands a small framed drawing of the same dog as a tiny puppy, showing how much time has passed. Warm, quiet, peaceful.",
+      "shot": "medium shot, the sleeping dog and the small framed puppy picture both in view",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 18,
+      "text": "だから、面倒な日ほど一緒に行こう",
+      "act": "resolve",
+      "emphasis": true,
+      "scene": "The owner's hand and the dog's small paw side by side on the towel, touching.",
+      "shot": "close-up of hand and paw",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 19,
+      "text": "この子が待っていてくれる限り",
+      "act": "resolve",
+      "emphasis": false,
+      "scene": "The leash hanging back on its hook by the door, the dog asleep on the mat below it, peaceful.",
+      "shot": "quiet wide view of the entrance at night",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 20,
+      "text": "あなたの子にとっての\n「一番の30分」は何ですか？",
+      "act": "ending",
+      "emphasis": false,
+      "scene": "The owner, seen from behind, sits on the floor with the sleeping dog curled against their side, warm lamplight.",
+      "shot": "from behind, low angle",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    }
+  ],
+  "caption": "面倒な日ほど、あの子は待っている。\nあなたの子の「一番の30分」を、コメントで教えてください。",
+  "hashtags": [
+    "ふつうの一日",
+    "犬のいる暮らし",
+    "マルプー",
+    "犬の気持ち",
+    "泣ける話"
+  ],
+  "youtube_title": "雨だから、散歩をサボった夜のこと",
+  "self_review": "設計書のサンプル脚本をそのまま使用（手書き）。死・病気の語なし。16〜17枚目は寿命の示唆のみ。飼い主を責める表現なし。",
+  "_check": {
+    "errors": [],
+    "warnings": []
+  }
+}
