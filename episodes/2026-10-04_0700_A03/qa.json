@@ -1,0 +1,177 @@
+{
+  "1": {
+    "dog_body": "The dog's body points toward the front door (away from the viewer, to the right); it is sitting and not moving.",
+    "dog_gaze": "The dog's eyes are looking up toward the closed front door/door handle; there is nobody in that direction (no person visible).",
+    "people": "No people present in the scene.",
+    "implied": "A puppy (narrator 'I') is sitting on the entrance mat facing the closed front door, alone at home, listening/attentive.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "2": {
+    "dog_body": "points away from the viewer toward the door; sitting on the mat (not moving)",
+    "dog_gaze": "looking toward the door/owner; the owner is located in that direction at the doorway",
+    "people": "owner is ahead of the dog (in the direction the dog's body points), seen from behind, facing away from the dog and stepping out through the front door",
+    "implied": "The owner (you) is leaving through the front door, seen from behind in a coat with a bag; the puppy sits on the mat inside watching the owner leave.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "3": {
+    "dog_body": "Facing the front door (to the right/front of the image); sitting still (not moving).",
+    "dog_gaze": "Looking up toward the slightly open front door and the narrow strip of daylight; no person is visible in that direction.",
+    "people": "No people present (no owner visible ahead or behind the dog).",
+    "implied": "The front door is closing (a narrow strip of daylight disappearing) and the puppy inside looks up at the closing door while the owner has just left (\"I'll be back soon\").",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "4": {
+    "dog_body": "The puppy's body points toward the viewer (standing still, not moving).",
+    "dog_gaze": "The puppy's eyes/head are turned slightly toward the left side of the image (toward the sofa/window area); that direction contains empty floor, a sofa and a window.",
+    "people": "No people present (no owner or other person anywhere in the scene).",
+    "implied": "A wide, empty living room seen from floor height with a very small puppy in the middle, looking around and feeling the room suddenly became larger (no people present).",
+    "ok": true,
+    "problem": ""
+  },
+  "5": {
+    "dog_body": "Away from the viewer, body pointing toward the front door; moving forward toward the door.",
+    "dog_gaze": "Head and eyes directed toward the front door; no person or owner visible in that direction.",
+    "people": "No people present in the scene.",
+    "implied": "The dog (narrator) decides to wait at the entrance/front door — it should be at or heading to the entrance to wait.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "6": {
+    "dog_body": "Body points to the right (toward the door); crouched/stationary (not moving).",
+    "dog_gaze": "Eyes look to the right at the gap under the door; nothing or no person is visible in that direction.",
+    "people": "No people present.",
+    "implied": "Footsteps are coming from the other side of the door; the puppy is at the door listening intently (one ear lifted, nose toward the gap).",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "7": {
+    "dog_body": "right (body facing the door), sitting and stationary",
+    "dog_gaze": "looking up/toward the door; the door is in that direction and there are no people there",
+    "people": "no people present",
+    "implied": "The dog (narrator) is counting 'one, two...' while waiting; a tiny puppy sits straight in front of the door, eyes bright, tail still, waiting.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "8": {
+    "dog_body": "Points to the right (toward the door); lying down on the mat, not moving.",
+    "dog_gaze": "Eyes looking to the right at the closed door; there is no person or owner visible in that direction, just the door.",
+    "people": "No people present in the picture.",
+    "implied": "The puppy is lying on the mat with its chin on its paws, ears drooping a little, still facing the door and expecting the owner's footsteps (but the owner is not present).",
+    "ok": true,
+    "problem": ""
+  },
+  "9": {
+    "dog_body": "Body points toward the viewer; sitting on the mat; not moving.",
+    "dog_gaze": "Eyes looking toward the viewer/camera; no person visible in that direction.",
+    "people": "No people present in the scene.",
+    "implied": "Window light is gradually tilting, casting long golden light across the hallway floor toward the puppy waiting on the mat (late-afternoon light).",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "10": {
+    "dog_body": "Body points toward the viewer (facing forward), lying curled on the mat and not moving.",
+    "dog_gaze": "The dog's open eye is looking toward the entrance door; the closed door is located behind the dog in the picture.",
+    "people": "No people present (owner is absent).",
+    "implied": "A tiny puppy is curled up on the entrance mat, half-asleep but watching the door (waiting for its owner); the owner is not shown.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "11": {
+    "dog_body": "right; sitting still on the mat (not moving)",
+    "dog_gaze": "looking up/toward the door (no person visible in that direction)",
+    "people": "no people present",
+    "implied": "The puppy sits up on the mat facing the door, lifting its head proudly and waiting for its owner to come through the door.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "12": {
+    "dog_body": "right (toward the door); standing on hind legs, front paws reaching up on the door (not moving forward)",
+    "dog_gaze": "looking up/toward the door and doorknob; no person is visible in that direction (just the closed door)",
+    "people": "no people visible in the picture",
+    "implied": "A familiar person's footsteps are approaching the door; the puppy notices/hears them and directs its attention to the door (reacts as someone known is coming).",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "13": {
+    "dog_body": "Away from the viewer (pointing toward the open door); sitting in place, not moving.",
+    "dog_gaze": "Looking toward the open door/owner; the owner's legs and coat hem are visible in that direction (no other person).",
+    "people": "One person (owner) is ahead of the dog (in the direction the dog's body points), standing in the doorway facing into the house toward the dog; only legs and coat hem are visible, wearing outdoor shoes.",
+    "implied": "The front door opens from outside as the owner arrives; the owner's legs/coat appear in the doorway and the puppy sits right in front of the door looking up at them.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "14": {
+    "dog_body": "right (body oriented toward the right side of the image), standing and leaning slightly forward; whole body appears to be wagging (tail shown blurred)",
+    "dog_gaze": "looking up toward the owner (eyes directed at the owner's lower legs/shoes, which are to the dog's left)",
+    "people": "owner: located to the dog's left (i.e., opposite the direction the dog's body points), standing at the doorway with feet visible and facing the dog",
+    "implied": "The dog wags its tail with its whole body at the owner's feet in the doorway (dog joyful, mouth open) and the owner is present",
+    "ok": true,
+    "problem": ""
+  },
+  "15": {
+    "dog_body": "The dog's body points toward the viewer and is stationary (being held up in the owner's arms).",
+    "dog_gaze": "The dog's eyes look toward the viewer/outward (not at the owner). In that direction there is no person shown; the owner is behind the dog.",
+    "people": "Only the owner is present; the owner is behind the dog (opposite the dog's body direction), facing away from the viewer (back/side of head visible) with arms around the dog, holding and hugging it close.",
+    "implied": "The owner lifts me (the dog) up and hugs me tightly against their chest (the dog is being held close by the owner).",
+    "ok": true,
+    "problem": ""
+  },
+  "16": {
+    "dog_body": "Body points toward the viewer (slightly turned to the left), lying curled on the owner's lap, not moving (asleep).",
+    "dog_gaze": "Eyes closed (sleeping); head/face angled slightly left/down toward the lap — not looking at anyone.",
+    "people": "One person (the owner) is seated behind the dog (i.e., further back relative to the direction the dog's body points), facing forward/toward the viewer; the owner's hand rests on the dog's back.",
+    "implied": "The dog (narrator) feels the day is long until the owner returns — the owner should be home and present, sitting with the dog in their lap and touching it (evening/lamplight mood).",
+    "ok": true,
+    "problem": ""
+  },
+  "17": {
+    "dog_body": "no dog present (empty entrance mat with a small dent)",
+    "dog_gaze": "no dog present",
+    "people": "no people present",
+    "implied": "The dog (speaker) is addressing the owner; the scene should show a quiet evening entryway with an empty doormat that has a small dent where the puppy had been waiting.",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "18": {
+    "dog_body": "toward the viewer, sitting/stationary (not moving)",
+    "dog_gaze": "looking up toward the viewer; there is no person shown (viewer/owner implied) in that direction",
+    "people": "no people present in the picture",
+    "implied": "The dog (narrator) is telling the owner that he likes the waiting time—dog should look content while waiting and looking up at the owner/viewer",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "19": {
+    "dog_body": "toward the viewer, curled up and not moving (sleeping)",
+    "dog_gaze": "eyes closed (sleeping), not looking at anyone or anything",
+    "people": "no people present",
+    "implied": "The puppy is on the entrance mat with the owner's knit scarf beside it, door closed at night, and the puppy (narrator) knows the owner will come back (waiting/at peace on the mat).",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  },
+  "20": {
+    "dog_body": "The dog's body points away from the viewer toward the owner; it is standing with its front paws on the owner's lap (climbing/leaning up onto the lap, not walking).",
+    "dog_gaze": "The dog's eyes look up at the owner's face/head; the owner is located in that direction (directly in front of the dog).",
+    "people": "One person (the owner) is ahead of the dog (in the direction the dog's body points), sitting on the hallway floor with their back to the viewer and facing toward the dog (looking down at the dog).",
+    "implied": "The owner sits on the hallway floor seen from behind while the tiny puppy climbs onto their lap (warm hallway light, owner and puppy present).",
+    "ok": true,
+    "problem": "",
+    "fix_scene": ""
+  }
+}

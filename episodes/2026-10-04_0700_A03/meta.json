@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-04",
+  "slot": "07:00",
+  "idea": {
+    "id": "A03",
+    "series": "A",
+    "title": "待つのは、とくいだよ",
+    "scene": "初めての留守番。玄関マットの上で待ち続ける犬が、ドアの向こうの足音を数える",
+    "dog_age": "puppy",
+    "household": "solo",
+    "persona": 1
+  },
+  "state": "approved"
+}

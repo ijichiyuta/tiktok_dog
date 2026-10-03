@@ -1,0 +1,274 @@
+{
+  "title": "待つのは、とくいだよ",
+  "theme": "さみしくても、帰ってくると知っているから待てる",
+  "slides": [
+    {
+      "n": 1,
+      "text": "はじめての留守番、ぼくが\n玄関で数えていたもの",
+      "act": "hook",
+      "emphasis": false,
+      "scene": "A tiny puppy sits alone on the indoor entrance mat facing the closed front door, ears perked, head tilted, listening. Soft afternoon light, an empty quiet hallway.",
+      "shot": "centered, the puppy seen from the side facing the door",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 2,
+      "text": "あなたが、はじめて\nぼくを置いて出かけた日",
+      "act": "daily",
+      "emphasis": false,
+      "scene": "The owner, seen from behind in a charcoal coat with a black bag, steps out through the front door; the tiny puppy sits on the mat inside, watching the owner leave.",
+      "shot": "from inside the hallway, behind the puppy, the owner at the open door",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 3,
+      "text": "「すぐ帰るからね」\nドアが、ゆっくり閉まった",
+      "act": "daily",
+      "emphasis": false,
+      "scene": "The front door closing, a narrow strip of daylight disappearing; the tiny puppy on the mat inside looks up at the closing door.",
+      "shot": "low angle from inside, the puppy in the foreground",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 4,
+      "text": "部屋が、急に\n広くなった気がした",
+      "act": "daily",
+      "emphasis": false,
+      "scene": "Wide view of an empty living room seen from floor height; the tiny puppy is very small in the middle of the room, looking around.",
+      "shot": "wide low angle, the puppy small in the frame",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 5,
+      "text": "だからぼくは、\n玄関で待つことにした",
+      "act": "notice",
+      "emphasis": false,
+      "scene": "The tiny puppy trots back down the hallway toward the front door.",
+      "shot": "low angle in the hallway, the puppy walking toward the door away from the viewer",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 6,
+      "text": "ドアの向こうで、\n足音がするたびに",
+      "act": "notice",
+      "emphasis": false,
+      "scene": "Close-up of the tiny puppy at the door, one ear lifted, listening intently, nose pointed at the gap under the door.",
+      "shot": "close-up at floor level beside the door",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 7,
+      "text": "ひとつ、ふたつ、\nと数えてみる",
+      "act": "notice",
+      "emphasis": false,
+      "scene": "The tiny puppy sitting very straight in front of the door, eyes bright, tail still, waiting.",
+      "shot": "medium shot, the puppy facing the door",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 8,
+      "text": "でも、どれも\nあなたの足音じゃなかった",
+      "act": "notice",
+      "emphasis": false,
+      "scene": "The tiny puppy's ears droop a little as it lies down on the mat, chin on its paws, still facing the door.",
+      "shot": "close-up at floor level",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 9,
+      "text": "窓の光が、\n少しずつ傾いていく",
+      "act": "response",
+      "emphasis": false,
+      "scene": "The hallway in late-afternoon light; long golden light stretches across the floor toward the puppy waiting on the mat.",
+      "shot": "wide view of the hallway",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 10,
+      "text": "待つのは、ちょっと\nさみしいけど",
+      "act": "response",
+      "emphasis": false,
+      "scene": "The tiny puppy curled up on the entrance mat, half asleep, one eye on the door.",
+      "shot": "close-up",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 11,
+      "text": "とくいなんだ。\nあなたを待つのは",
+      "act": "response",
+      "emphasis": false,
+      "scene": "The tiny puppy lifts its head proudly and sits up again on the mat, facing the door, determined.",
+      "shot": "medium shot",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 12,
+      "text": "そのとき、知ってる足音が\n近づいてきた",
+      "act": "response",
+      "emphasis": false,
+      "scene": "The tiny puppy jumps up, ears high, tail wagging fast, front paws reaching toward the door.",
+      "shot": "low angle, the puppy facing the door",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 13,
+      "text": "鍵の音。\nドアが開く",
+      "act": "response",
+      "emphasis": false,
+      "scene": "The front door opens from outside; the owner's legs in outdoor shoes and the hem of a charcoal coat appear in the doorway; the puppy right in front of the door looking up at them.",
+      "shot": "low angle from inside the hallway behind the puppy",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 14,
+      "text": "ぼくは、体ぜんぶで\nしっぽを振った",
+      "act": "response",
+      "emphasis": false,
+      "scene": "The tiny puppy wiggles its whole body at the owner's feet in the doorway, tail a blur, mouth open with joy.",
+      "shot": "close-up at floor level, the owner's shoes beside the puppy",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 15,
+      "text": "あなたは、ぼくを\nぎゅっと抱き上げた",
+      "act": "response",
+      "emphasis": false,
+      "scene": "The owner's arms lift the tiny puppy up against a knit sweater, hugging it close; no face visible.",
+      "shot": "close-up of arms and puppy",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 16,
+      "text": "ぼくの一日は、あなたが\n帰ってくるまでが長い",
+      "act": "farewell",
+      "emphasis": false,
+      "scene": "Evening: the tiny puppy asleep in the owner's lap on the sofa, the owner's hand on its back, warm lamp light.",
+      "shot": "close-up of lap and puppy",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    },
+    {
+      "n": 17,
+      "text": "その長さを、\nあなたは知らないよね",
+      "act": "farewell",
+      "emphasis": false,
+      "scene": "The empty entrance mat in the quiet evening hallway, a small dent where the puppy had been waiting.",
+      "shot": "quiet view of the entrance",
+      "dog": false,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 18,
+      "text": "でも、待つ時間も、\nぼくは好きなんだ",
+      "act": "resolve",
+      "emphasis": true,
+      "scene": "Close-up of the tiny puppy's bright face looking up at the viewer, content.",
+      "shot": "close-up portrait",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 19,
+      "text": "あなたが帰ってくるって、\nちゃんと知ってるから",
+      "act": "resolve",
+      "emphasis": false,
+      "scene": "The tiny puppy sleeping on the entrance mat with the owner's knit scarf beside it, peaceful, door closed, night.",
+      "shot": "medium shot of the entrance at night",
+      "dog": true,
+      "dog_age": null,
+      "humans": [],
+      "reuse": null
+    },
+    {
+      "n": 20,
+      "text": "あなたの子の、はじめての\n留守番はどうでしたか？",
+      "act": "ending",
+      "emphasis": false,
+      "scene": "The owner sits on the hallway floor seen from behind, the tiny puppy climbing onto their lap, warm hallway light.",
+      "shot": "from behind the owner",
+      "dog": true,
+      "dog_age": null,
+      "humans": [
+        "owner"
+      ],
+      "reuse": null
+    }
+  ],
+  "caption": "待つのはちょっとさみしいけど、とくいなんだ。\nあなたの子の、はじめての留守番はどうでしたか？",
+  "hashtags": [
+    "きみからのお願い",
+    "子犬",
+    "マルプー",
+    "犬の気持ち",
+    "留守番"
+  ],
+  "youtube_title": "はじめての留守番、ぼくが玄関で数えていたもの",
+  "self_review": "留守番させることを責めない。『待つ時間も好き』『帰ってくると知ってる』で安心させる締め。別れの語なし。",
+  "_check": {
+    "errors": [],
+    "warnings": [
+      "1枚目にフックの言葉（理由・なぜ・時刻など）がありません"
+    ]
+  }
+}
